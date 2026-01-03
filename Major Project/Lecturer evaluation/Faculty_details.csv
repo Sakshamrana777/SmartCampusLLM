@@ -1,0 +1,101 @@
+lecturer_id,gender,department,faculty,designation,experience_years,evaluation_year,teaching_clarity_score,subject_knowledge_score,student_engagement_score,communication_skill_score,class_management_score,assessment_fairness_score,punctuality_score,availability_score,use_of_teaching_aids_score,overall_student_rating,peer_teaching_quality_score,professional_behavior_score,academic_responsibility_score,research_contribution_score,overall_peer_rating,training_participation_score,innovation_in_teaching_score,student_mentorship_score,discipline_score,feedback_timeliness_score,overall_performance_score,performance_category,promotion_eligible,remarks,university_name,student_satisfaction_index,peer_satisfaction_index,last_promotion_year
+L001,Male,BBA,Management,Professor,14,2022,3,4,3,2,3,1,5,5,1,5,5,2,4,2,1,5,5,5,2,2,2.27,Good,Yes,Consistently good performance,GSR University,4.0,1.5,2022.0
+L002,Female,BBA,Arts,Associate Professor,21,2023,1,1,5,3,1,4,1,1,5,5,2,4,2,4,3,2,5,4,2,2,2.66,Good,Yes,Consistently good performance,GSR University,5.0,3.5,2022.0
+L003,Male,Computer Engineering,Engineering,Professor,3,2023,2,1,2,3,2,2,1,1,1,3,4,2,3,1,4,3,5,5,4,5,3.79,Excellent,No,Consistently good performance,GSR University,2.5,3.0,2018.0
+L004,Male,BA,Management,Professor,28,2023,5,5,1,5,3,2,4,3,2,4,3,5,2,1,2,5,1,3,5,5,4.21,Average,No,Consistently good performance,GSR University,2.5,3.5,
+L005,Male,BSc,Science,Professor,1,2024,2,4,3,5,2,5,1,4,1,3,4,3,4,5,5,5,2,2,4,4,5.0,Average,Yes,Satisfactory,GSR University,3.0,4.0,2019.0
+L006,Female,Civil Engineering,Engineering,Professor,20,2022,2,4,3,2,3,3,1,2,1,5,5,1,4,4,4,4,1,4,3,3,4.8,Good,Yes,Outstanding contributor,GSR University,4.0,2.5,2020.0
+L007,Male,Civil Engineering,Engineering,Assistant Professor,29,2024,2,4,1,4,5,2,4,2,4,2,3,1,5,3,3,1,4,3,2,2,3.93,Good,Yes,Consistently good performance,GSR University,1.5,2.0,
+L008,Male,Electrical Engineering,Engineering,Assistant Professor,21,2024,2,3,5,2,4,1,4,5,3,1,5,4,1,4,2,2,1,3,3,3,3.26,Good,Yes,Needs improvement,GSR University,3.0,3.0,
+L009,Male,BSc,Management,Professor,23,2023,3,5,1,5,5,5,5,5,5,4,2,2,5,1,2,1,4,5,1,4,3.91,Good,Yes,Satisfactory,GSR University,2.5,2.0,2018.0
+L010,Female,BSc,Science,Associate Professor,1,2024,1,4,2,5,2,4,1,2,1,4,1,4,3,1,5,2,4,3,1,5,4.36,Good,No,Satisfactory,GSR University,3.0,4.5,2018.0
+L011,Male,Electrical Engineering,Engineering,Assistant Professor,3,2023,4,3,1,1,4,5,1,5,5,3,3,3,2,4,1,2,3,2,4,3,2.36,Excellent,No,Consistently good performance,GSR University,2.0,2.0,2022.0
+L012,Male,BBA,Arts,Professor,18,2022,2,2,3,5,3,4,5,3,1,4,2,4,3,4,3,1,5,2,5,5,3.23,Good,No,Satisfactory,GSR University,3.5,3.5,2018.0
+L013,Male,Civil Engineering,Engineering,Assistant Professor,25,2023,5,2,1,1,4,5,3,2,2,5,2,1,4,1,5,5,4,1,3,5,4.52,Average,Yes,Consistently good performance,GSR University,3.0,3.0,2018.0
+L014,Male,Civil Engineering,Engineering,Assistant Professor,10,2022,2,3,5,4,1,5,3,5,1,5,3,1,5,3,3,2,3,2,5,1,3.15,Good,No,Outstanding contributor,GSR University,5.0,2.0,2018.0
+L015,Female,BA,Management,Associate Professor,22,2023,5,3,4,2,4,5,3,2,4,3,5,5,5,5,1,1,5,3,4,3,3.72,Excellent,Yes,Outstanding contributor,GSR University,3.5,3.0,2022.0
+L016,Male,BSc,Management,Professor,26,2024,3,5,1,2,1,4,5,4,3,5,2,5,5,5,1,2,4,2,1,3,3.76,Good,No,Satisfactory,GSR University,3.0,3.0,2020.0
+L017,Female,BBA,Science,Professor,3,2024,5,5,5,1,4,4,1,1,2,2,4,3,3,4,5,3,4,5,5,5,2.55,Excellent,No,Satisfactory,GSR University,3.5,4.0,2020.0
+L018,Female,BBA,Arts,Associate Professor,8,2022,4,2,5,2,1,5,5,2,1,3,2,2,4,5,1,5,1,1,5,4,3.09,Excellent,Yes,Needs improvement,GSR University,4.0,1.5,2018.0
+L019,Female,BSc,Management,Associate Professor,14,2022,1,4,3,5,2,2,5,1,5,2,5,4,2,1,4,4,1,3,1,1,3.0,Excellent,No,Satisfactory,GSR University,2.5,4.0,2022.0
+L020,Male,Civil Engineering,Engineering,Professor,24,2022,5,2,5,3,5,3,3,5,2,1,5,3,2,1,2,2,5,1,3,5,2.08,Good,Yes,Needs improvement,GSR University,3.0,2.5,2020.0
+L021,Female,BA,Science,Professor,18,2023,5,4,5,1,3,3,2,1,2,2,4,5,3,4,5,3,4,3,1,2,2.07,Good,No,Outstanding contributor,GSR University,3.5,5.0,
+L022,Male,Electrical Engineering,Engineering,Associate Professor,15,2023,1,4,5,2,4,3,1,2,1,1,2,4,5,4,3,4,2,5,5,2,4.5,Good,Yes,Outstanding contributor,GSR University,3.0,3.5,2020.0
+L023,Female,Civil Engineering,Engineering,Assistant Professor,22,2022,4,5,5,1,5,4,3,4,2,1,5,5,1,4,4,4,1,1,3,1,2.82,Excellent,Yes,Consistently good performance,GSR University,3.0,4.5,2020.0
+L024,Female,BA,Management,Assistant Professor,23,2024,2,1,2,1,3,4,2,5,5,2,3,4,3,3,5,2,5,4,3,4,3.55,Average,No,Outstanding contributor,GSR University,2.0,4.5,2022.0
+L025,Female,BSc,Science,Associate Professor,2,2023,5,1,2,3,3,2,2,2,2,3,1,2,3,5,1,1,4,3,1,5,2.9,Average,Yes,Needs improvement,GSR University,2.5,1.5,
+L026,Female,BA,Arts,Assistant Professor,27,2023,1,3,3,5,1,3,4,5,5,5,1,3,4,4,1,2,4,4,5,3,4.82,Average,No,Satisfactory,GSR University,4.0,2.0,2022.0
+L027,Female,BBA,Arts,Associate Professor,10,2023,3,5,1,1,2,3,1,3,1,5,1,4,2,2,1,3,2,1,4,1,2.78,Excellent,Yes,Consistently good performance,GSR University,3.0,2.5,2018.0
+L028,Female,BA,Management,Assistant Professor,2,2022,1,4,5,2,2,5,2,1,3,1,2,1,3,2,1,4,5,4,5,4,3.29,Good,No,Needs improvement,GSR University,3.0,1.0,2021.0
+L029,Female,BA,Management,Assistant Professor,26,2022,3,1,1,4,5,4,3,3,2,1,4,1,3,1,3,2,4,4,2,3,4.62,Average,No,Satisfactory,GSR University,1.0,2.0,2020.0
+L030,Female,BSc,Science,Professor,17,2022,4,4,1,1,2,3,4,2,3,3,5,4,5,5,4,1,1,1,4,2,4.53,Good,Yes,Consistently good performance,GSR University,2.0,4.0,2021.0
+L031,Male,BA,Arts,Professor,8,2022,2,1,3,1,4,2,1,4,5,4,3,4,5,4,2,2,2,5,3,2,2.56,Excellent,Yes,Outstanding contributor,GSR University,3.5,3.0,2022.0
+L032,Male,BSc,Arts,Assistant Professor,1,2022,1,1,5,3,2,2,5,5,2,2,3,4,1,2,3,5,5,4,4,3,4.41,Excellent,Yes,Needs improvement,GSR University,3.5,3.5,2022.0
+L033,Female,BA,Arts,Assistant Professor,9,2024,5,1,5,5,5,3,3,1,4,1,2,1,4,5,3,1,2,4,3,1,3.37,Good,Yes,Satisfactory,GSR University,3.0,2.0,2022.0
+L034,Female,Civil Engineering,Engineering,Professor,11,2024,4,5,4,4,2,4,2,5,3,5,1,1,1,1,2,3,1,5,3,2,3.45,Average,Yes,Consistently good performance,GSR University,4.5,1.5,2021.0
+L035,Female,BBA,Arts,Professor,22,2022,1,2,1,2,4,2,2,2,2,3,2,4,5,3,2,4,5,4,4,5,2.4,Good,No,Consistently good performance,GSR University,2.0,3.0,2022.0
+L036,Male,Civil Engineering,Engineering,Professor,16,2023,5,4,1,4,1,5,3,5,3,2,4,5,2,5,1,2,2,4,3,3,2.24,Good,No,Outstanding contributor,GSR University,1.5,3.0,2018.0
+L037,Female,BSc,Science,Associate Professor,7,2022,1,5,2,2,5,2,2,1,2,3,4,5,5,5,3,1,3,4,3,3,4.18,Excellent,No,Satisfactory,GSR University,2.5,4.0,2022.0
+L038,Male,Electrical Engineering,Engineering,Assistant Professor,29,2024,3,5,4,5,1,1,4,2,1,2,5,2,4,3,5,5,1,2,2,2,3.49,Good,No,Outstanding contributor,GSR University,3.0,3.5,2019.0
+L039,Male,BA,Science,Professor,10,2024,1,5,2,2,1,1,1,5,3,2,5,3,5,5,2,1,1,5,5,1,3.31,Average,No,Outstanding contributor,GSR University,2.0,2.5,2021.0
+L040,Male,BA,Arts,Assistant Professor,23,2023,1,5,2,3,1,4,4,4,4,1,4,5,4,1,2,5,1,4,5,5,4.19,Good,No,Satisfactory,GSR University,1.5,3.5,2019.0
+L041,Male,BA,Arts,Associate Professor,26,2024,1,5,2,3,3,3,2,2,4,3,4,1,4,1,4,3,3,5,2,1,4.3,Good,Yes,Satisfactory,GSR University,2.5,2.5,2022.0
+L042,Male,BBA,Science,Associate Professor,3,2022,4,3,3,3,3,4,5,2,5,3,4,5,4,3,5,4,3,3,4,4,2.48,Average,No,Satisfactory,GSR University,3.0,5.0,2018.0
+L043,Female,BA,Management,Professor,18,2023,1,4,3,3,1,4,1,4,2,5,2,2,4,4,5,3,4,3,1,4,3.83,Excellent,No,Needs improvement,GSR University,4.0,3.5,2020.0
+L044,Female,BSc,Science,Associate Professor,25,2022,5,5,2,4,5,4,1,3,3,5,4,2,4,2,2,2,2,4,1,2,2.41,Good,Yes,Satisfactory,GSR University,3.5,2.0,
+L045,Female,BBA,Management,Assistant Professor,24,2022,3,4,4,5,4,4,3,1,5,1,3,3,2,4,1,1,4,5,1,2,4.25,Excellent,Yes,Consistently good performance,GSR University,2.5,2.0,
+L046,Female,Computer Engineering,Engineering,Professor,13,2023,3,3,1,2,4,5,3,3,3,1,1,5,1,5,4,5,2,5,2,2,3.97,Good,Yes,Outstanding contributor,GSR University,1.0,4.5,2022.0
+L047,Female,Civil Engineering,Engineering,Assistant Professor,28,2022,1,3,4,2,2,5,5,5,2,4,4,1,3,2,5,5,3,5,2,4,4.87,Good,Yes,Needs improvement,GSR University,4.0,3.0,2018.0
+L048,Male,Civil Engineering,Engineering,Assistant Professor,26,2024,4,4,5,3,5,2,1,4,4,5,1,1,1,3,2,1,3,2,3,1,2.21,Good,No,Satisfactory,GSR University,5.0,1.5,2021.0
+L049,Female,BBA,Arts,Associate Professor,7,2022,4,1,3,3,3,1,5,3,1,2,2,4,4,3,5,1,4,3,1,1,2.17,Good,Yes,Needs improvement,GSR University,2.5,4.5,2019.0
+L050,Female,Electrical Engineering,Engineering,Associate Professor,25,2023,5,2,1,1,1,4,3,2,4,3,1,1,2,2,4,2,5,5,4,2,2.85,Good,Yes,Satisfactory,GSR University,2.0,2.5,2019.0
+L051,Male,BBA,Management,Associate Professor,4,2023,1,1,1,5,2,2,3,5,5,1,2,3,5,1,4,3,4,5,4,5,2.79,Average,No,Needs improvement,GSR University,1.0,3.5,2019.0
+L052,Female,Civil Engineering,Engineering,Associate Professor,13,2023,3,1,5,4,4,1,1,5,1,3,3,3,2,2,3,5,2,2,1,1,2.74,Good,Yes,Outstanding contributor,GSR University,4.0,3.0,2021.0
+L053,Male,BA,Science,Associate Professor,20,2022,4,1,5,2,3,3,4,3,5,3,2,1,4,5,2,2,4,2,1,4,4.72,Excellent,Yes,Outstanding contributor,GSR University,4.0,1.5,
+L054,Female,BBA,Science,Professor,1,2023,1,5,2,1,3,5,2,3,2,4,2,1,2,1,4,3,1,5,1,3,2.75,Good,Yes,Consistently good performance,GSR University,3.0,2.5,2018.0
+L055,Male,BSc,Arts,Assistant Professor,8,2023,4,3,3,1,1,1,3,4,1,5,5,4,2,3,3,2,2,1,2,3,2.82,Good,No,Consistently good performance,GSR University,4.0,3.5,2021.0
+L056,Female,BSc,Science,Assistant Professor,14,2022,4,1,3,2,4,3,3,1,5,1,4,1,4,2,3,5,2,5,2,3,4.28,Good,No,Satisfactory,GSR University,2.0,2.0,2019.0
+L057,Female,BA,Management,Assistant Professor,16,2024,3,3,4,4,5,1,4,3,2,3,4,4,2,4,5,1,5,5,2,5,3.35,Average,Yes,Outstanding contributor,GSR University,3.5,4.5,2022.0
+L058,Male,Civil Engineering,Engineering,Assistant Professor,14,2022,2,4,2,1,3,5,4,3,4,1,3,4,3,4,5,1,3,2,5,2,4.33,Average,No,Needs improvement,GSR University,1.5,4.5,2020.0
+L059,Male,BSc,Arts,Associate Professor,12,2023,5,2,2,1,1,5,5,2,2,2,3,1,3,5,3,3,2,2,4,4,2.2,Excellent,Yes,Needs improvement,GSR University,2.0,2.0,2021.0
+L060,Male,Civil Engineering,Engineering,Assistant Professor,19,2023,5,4,2,5,5,2,5,5,3,4,4,2,2,4,5,4,3,5,4,5,3.46,Average,No,Needs improvement,GSR University,3.0,3.5,2021.0
+L061,Male,Electrical Engineering,Engineering,Professor,23,2022,3,4,2,4,4,4,2,1,2,2,5,2,5,2,4,3,4,5,3,4,2.1,Excellent,No,Consistently good performance,GSR University,2.0,3.0,2018.0
+L062,Male,BBA,Management,Professor,15,2024,4,5,3,1,3,1,2,2,2,1,4,4,4,2,1,4,1,5,2,4,2.19,Excellent,No,Needs improvement,GSR University,2.0,2.5,2018.0
+L063,Male,BSc,Science,Assistant Professor,28,2023,1,2,3,4,5,1,1,4,3,1,5,1,3,4,4,2,5,2,5,2,4.72,Excellent,Yes,Consistently good performance,GSR University,2.0,2.5,2021.0
+L064,Male,BA,Science,Assistant Professor,2,2023,4,4,2,2,5,3,5,4,5,5,3,2,5,2,3,2,3,5,5,3,2.42,Average,No,Consistently good performance,GSR University,3.5,2.5,2019.0
+L065,Male,Civil Engineering,Engineering,Professor,2,2023,3,4,4,3,5,5,3,3,5,3,1,1,2,5,3,5,2,5,4,2,3.6,Good,No,Satisfactory,GSR University,3.5,2.0,2020.0
+L066,Female,BBA,Arts,Professor,23,2022,5,2,1,1,3,1,5,3,2,3,3,1,5,1,4,4,3,4,2,5,3.23,Excellent,Yes,Needs improvement,GSR University,2.0,2.5,2018.0
+L067,Female,BBA,Science,Associate Professor,22,2023,4,2,1,5,3,5,3,4,3,2,3,1,1,5,5,5,2,1,3,5,3.04,Good,No,Needs improvement,GSR University,1.5,3.0,2019.0
+L068,Male,BBA,Arts,Professor,19,2024,5,4,4,2,2,1,4,3,3,4,2,5,3,5,5,1,3,3,2,5,4.7,Good,Yes,Outstanding contributor,GSR University,4.0,5.0,2022.0
+L069,Female,BBA,Science,Associate Professor,25,2023,1,2,2,4,4,2,5,1,4,3,2,1,2,2,3,4,2,1,1,2,2.07,Excellent,No,Satisfactory,GSR University,2.5,2.0,2018.0
+L070,Female,BA,Arts,Associate Professor,26,2023,5,4,3,2,1,4,4,3,5,5,2,5,4,1,2,3,4,4,2,4,3.99,Average,Yes,Outstanding contributor,GSR University,4.0,3.5,2019.0
+L071,Female,BBA,Management,Associate Professor,29,2024,5,4,1,1,5,1,2,5,1,2,2,4,2,2,5,1,2,3,1,4,4.89,Average,No,Satisfactory,GSR University,1.5,4.5,2019.0
+L072,Female,BBA,Arts,Associate Professor,22,2023,2,5,5,4,2,5,2,3,5,2,5,2,4,3,4,1,2,5,1,1,3.68,Good,Yes,Needs improvement,GSR University,3.5,3.0,2020.0
+L073,Male,BBA,Management,Associate Professor,26,2022,2,1,5,3,1,2,1,2,5,5,4,2,2,2,5,3,1,4,3,5,4.81,Average,Yes,Consistently good performance,GSR University,5.0,3.5,2020.0
+L074,Female,BA,Management,Assistant Professor,26,2022,2,4,4,2,2,1,5,1,4,4,1,2,5,2,4,1,2,5,4,4,2.16,Good,Yes,Consistently good performance,GSR University,4.0,3.0,2022.0
+L075,Male,BA,Arts,Professor,22,2022,5,3,2,1,3,3,4,2,1,5,3,2,5,2,3,4,1,2,2,1,3.26,Average,Yes,Consistently good performance,GSR University,3.5,2.5,2019.0
+L076,Female,BBA,Management,Associate Professor,17,2024,3,1,1,5,5,4,3,2,4,4,5,2,5,1,5,5,5,4,1,4,2.78,Good,Yes,Consistently good performance,GSR University,2.5,3.5,
+L077,Female,Electrical Engineering,Engineering,Professor,20,2023,5,1,2,4,1,1,2,5,1,5,1,2,1,2,4,1,1,2,2,5,4.19,Good,Yes,Consistently good performance,GSR University,3.5,3.0,2019.0
+L078,Female,BBA,Management,Professor,10,2022,3,1,1,2,1,2,2,1,2,5,5,2,4,1,3,4,4,4,4,3,4.94,Excellent,Yes,Outstanding contributor,GSR University,3.0,2.5,2020.0
+L079,Male,BSc,Science,Associate Professor,6,2024,3,5,4,2,1,3,3,1,1,1,5,4,5,4,2,2,1,4,4,5,2.77,Average,Yes,Satisfactory,GSR University,2.5,3.0,
+L080,Female,BBA,Arts,Assistant Professor,15,2023,2,4,4,3,1,2,4,1,4,2,3,1,1,3,4,4,5,2,5,2,3.96,Good,Yes,Needs improvement,GSR University,3.0,2.5,2018.0
+L081,Male,Computer Engineering,Engineering,Associate Professor,22,2024,4,5,5,3,1,2,4,1,5,5,4,3,4,1,2,5,4,3,4,4,2.59,Excellent,No,Outstanding contributor,GSR University,5.0,2.5,2018.0
+L082,Female,BA,Arts,Assistant Professor,11,2022,1,4,2,5,2,3,5,1,1,5,2,5,2,4,2,4,3,1,3,4,3.7,Excellent,Yes,Satisfactory,GSR University,3.5,3.5,2021.0
+L083,Male,BA,Science,Professor,28,2022,2,5,5,5,5,2,5,5,1,3,4,3,1,1,1,3,3,5,1,2,3.39,Good,No,Consistently good performance,GSR University,4.0,2.0,2020.0
+L084,Female,BBA,Science,Assistant Professor,5,2022,2,5,2,1,3,3,1,3,3,2,3,3,3,1,5,5,1,4,5,2,4.92,Good,No,Satisfactory,GSR University,2.0,4.0,2021.0
+L085,Male,BBA,Science,Assistant Professor,1,2024,4,3,5,1,3,1,2,2,5,3,3,1,1,3,4,2,1,5,3,3,3.83,Good,No,Satisfactory,GSR University,4.0,2.5,
+L086,Male,BSc,Management,Assistant Professor,8,2024,1,5,3,5,3,3,5,1,2,2,3,1,1,5,2,3,5,2,2,4,3.05,Average,Yes,Consistently good performance,GSR University,2.5,1.5,2020.0
+L087,Female,BSc,Management,Professor,21,2022,5,2,3,5,3,3,4,3,4,3,1,1,4,5,1,4,5,5,1,4,2.34,Excellent,No,Consistently good performance,GSR University,3.0,1.0,2022.0
+L088,Male,BBA,Arts,Professor,28,2024,5,3,3,4,2,4,3,3,2,5,4,2,2,1,3,5,2,2,4,3,2.45,Good,Yes,Consistently good performance,GSR University,4.0,2.5,2019.0
+L089,Female,BSc,Arts,Assistant Professor,12,2022,2,5,3,3,4,3,4,2,5,5,4,4,3,2,4,2,5,5,1,1,2.68,Excellent,Yes,Needs improvement,GSR University,4.0,4.0,2022.0
+L090,Female,Computer Engineering,Engineering,Assistant Professor,12,2022,1,1,1,1,5,3,2,5,1,1,5,2,5,4,2,3,2,1,2,3,2.75,Average,Yes,Consistently good performance,GSR University,1.0,2.0,
+L091,Female,Computer Engineering,Engineering,Associate Professor,5,2023,2,2,3,3,1,1,4,4,1,3,5,4,5,2,5,2,4,1,5,5,4.55,Average,No,Needs improvement,GSR University,3.0,4.5,2020.0
+L092,Female,BBA,Arts,Assistant Professor,7,2024,3,2,4,3,4,4,1,4,5,4,5,4,1,2,1,4,1,1,5,4,3.68,Good,Yes,Consistently good performance,GSR University,4.0,2.5,
+L093,Female,BA,Management,Associate Professor,4,2022,2,2,4,5,3,5,2,3,1,1,3,3,4,1,2,2,4,1,5,2,3.57,Good,Yes,Needs improvement,GSR University,2.5,2.5,2019.0
+L094,Female,BA,Science,Assistant Professor,6,2022,2,3,1,4,4,1,3,2,1,3,4,3,4,1,5,1,5,1,4,5,2.34,Good,No,Satisfactory,GSR University,2.0,4.0,2018.0
+L095,Female,BSc,Arts,Associate Professor,13,2024,5,5,3,2,5,1,1,4,1,3,3,4,5,1,2,3,4,1,3,4,4.58,Good,No,Outstanding contributor,GSR University,3.0,3.0,2018.0
+L096,Female,Electrical Engineering,Engineering,Professor,20,2023,5,5,3,4,1,5,2,3,4,1,1,4,3,1,4,2,4,2,3,3,4.17,Average,Yes,Satisfactory,GSR University,2.0,4.0,
+L097,Female,BBA,Management,Assistant Professor,15,2023,5,1,3,4,1,3,3,5,4,5,5,2,2,5,4,4,4,4,1,5,2.2,Good,Yes,Satisfactory,GSR University,4.0,3.0,2021.0
+L098,Female,BSc,Arts,Assistant Professor,3,2022,3,1,5,3,5,2,1,4,3,3,3,2,3,1,4,4,5,5,4,4,4.12,Good,No,Consistently good performance,GSR University,4.0,3.0,2020.0
+L099,Female,BBA,Arts,Assistant Professor,23,2024,5,2,2,4,5,4,1,3,2,5,3,3,2,5,1,2,4,1,5,1,3.63,Good,Yes,Needs improvement,GSR University,3.5,2.0,2020.0
+L100,Male,BSc,Management,Assistant Professor,8,2023,1,1,5,1,3,2,2,3,5,1,1,1,5,5,4,4,2,2,5,1,2.25,Average,Yes,Outstanding contributor,GSR University,3.0,2.5,2018.0

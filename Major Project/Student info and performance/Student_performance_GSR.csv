@@ -1,0 +1,2551 @@
+student_id,sex,age,department,subject_name,studytime,failures,absences,final_marks,gpa,university_name
+S0001,Female,24,Computer Engineering,Engineering Mathematics,1,2,10,53,6,GSR University
+S0001,Female,24,Computer Engineering,Data Visualization,1,2,10,57,6,GSR University
+S0001,Female,24,Computer Engineering,Computer Networking,1,2,10,45,5,GSR University
+S0002,Female,20,Computer Engineering,Programming,1,2,21,36,4,GSR University
+S0002,Female,20,Computer Engineering,Computer Networking,1,2,21,94,10,GSR University
+S0002,Female,20,Computer Engineering,Engineering Mathematics,1,2,21,55,6,GSR University
+S0003,Female,18,Computer Engineering,Data Visualization,2,1,28,93,10,GSR University
+S0003,Female,18,Computer Engineering,Computer Networking,2,1,28,76,8,GSR University
+S0003,Female,18,Computer Engineering,Engineering Drawing,2,1,28,62,7,GSR University
+S0004,Female,21,Computer Engineering,Programming,3,1,29,91,10,GSR University
+S0004,Female,21,Computer Engineering,Data Visualization,3,1,29,37,4,GSR University
+S0004,Female,21,Computer Engineering,Engineering Drawing,3,1,29,71,8,GSR University
+S0005,Male,20,Computer Engineering,Computer Networking,1,0,6,48,5,GSR University
+S0005,Male,20,Computer Engineering,Engineering Drawing,1,0,6,84,9,GSR University
+S0005,Male,20,Computer Engineering,Programming,1,0,6,92,10,GSR University
+S0006,Female,18,Computer Engineering,Programming,1,1,19,42,5,GSR University
+S0006,Female,18,Computer Engineering,Data Visualization,1,1,19,81,9,GSR University
+S0006,Female,18,Computer Engineering,Engineering Drawing,1,1,19,69,7,GSR University
+S0007,Male,23,Computer Engineering,Programming,4,1,7,88,9,GSR University
+S0007,Male,23,Computer Engineering,Computer Networking,4,1,7,76,8,GSR University
+S0007,Male,23,Computer Engineering,Engineering Drawing,4,1,7,38,4,GSR University
+S0008,Male,23,Computer Engineering,Programming,3,1,25,70,8,GSR University
+S0008,Male,23,Computer Engineering,Computer Networking,3,1,25,48,5,GSR University
+S0008,Male,23,Computer Engineering,Engineering Drawing,3,1,25,65,7,GSR University
+S0009,Female,24,Computer Engineering,Computer Networking,2,2,27,79,8,GSR University
+S0009,Female,24,Computer Engineering,Engineering Mathematics,2,2,27,52,6,GSR University
+S0009,Female,24,Computer Engineering,Engineering Drawing,2,2,27,81,9,GSR University
+S0010,Female,22,Computer Engineering,Data Visualization,2,0,27,63,7,GSR University
+S0010,Female,22,Computer Engineering,Computer Networking,2,0,27,49,5,GSR University
+S0010,Female,22,Computer Engineering,Programming,2,0,27,79,8,GSR University
+S0011,Male,18,Computer Engineering,Data Visualization,3,0,23,85,9,GSR University
+S0011,Male,18,Computer Engineering,Engineering Drawing,3,0,23,51,6,GSR University
+S0011,Male,18,Computer Engineering,Computer Networking,3,0,23,42,5,GSR University
+S0012,Male,20,Computer Engineering,Engineering Mathematics,1,2,4,62,7,GSR University
+S0012,Male,20,Computer Engineering,Programming,1,2,4,41,5,GSR University
+S0012,Male,20,Computer Engineering,Engineering Drawing,1,2,4,43,5,GSR University
+S0013,Female,21,Computer Engineering,Engineering Mathematics,1,2,22,69,7,GSR University
+S0013,Female,21,Computer Engineering,Programming,1,2,22,35,4,GSR University
+S0013,Female,21,Computer Engineering,Data Visualization,1,2,22,69,7,GSR University
+S0014,Male,22,Computer Engineering,Engineering Mathematics,2,2,0,48,5,GSR University
+S0014,Male,22,Computer Engineering,Programming,2,2,0,73,8,GSR University
+S0014,Male,22,Computer Engineering,Computer Networking,2,2,0,61,7,GSR University
+S0015,Male,18,Computer Engineering,Data Visualization,3,1,9,66,7,GSR University
+S0015,Male,18,Computer Engineering,Engineering Drawing,3,1,9,73,8,GSR University
+S0015,Male,18,Computer Engineering,Computer Networking,3,1,9,83,9,GSR University
+S0016,Male,21,Computer Engineering,Data Visualization,4,1,4,70,8,GSR University
+S0016,Male,21,Computer Engineering,Programming,4,1,4,47,5,GSR University
+S0016,Male,21,Computer Engineering,Engineering Mathematics,4,1,4,66,7,GSR University
+S0017,Male,24,Computer Engineering,Computer Networking,3,1,27,91,10,GSR University
+S0017,Male,24,Computer Engineering,Engineering Mathematics,3,1,27,87,9,GSR University
+S0017,Male,24,Computer Engineering,Programming,3,1,27,40,5,GSR University
+S0018,Female,21,Computer Engineering,Engineering Drawing,4,1,29,62,7,GSR University
+S0018,Female,21,Computer Engineering,Programming,4,1,29,59,6,GSR University
+S0018,Female,21,Computer Engineering,Data Visualization,4,1,29,73,8,GSR University
+S0019,Male,23,Computer Engineering,Data Visualization,1,0,26,37,4,GSR University
+S0019,Male,23,Computer Engineering,Computer Networking,1,0,26,73,8,GSR University
+S0019,Male,23,Computer Engineering,Engineering Drawing,1,0,26,40,5,GSR University
+S0020,Male,20,Computer Engineering,Engineering Mathematics,2,0,0,88,9,GSR University
+S0020,Male,20,Computer Engineering,Programming,2,0,0,66,7,GSR University
+S0020,Male,20,Computer Engineering,Engineering Drawing,2,0,0,66,7,GSR University
+S0021,Female,18,Computer Engineering,Computer Networking,1,1,16,36,4,GSR University
+S0021,Female,18,Computer Engineering,Programming,1,1,16,37,4,GSR University
+S0021,Female,18,Computer Engineering,Engineering Drawing,1,1,16,83,9,GSR University
+S0022,Male,22,Computer Engineering,Engineering Drawing,4,0,26,88,9,GSR University
+S0022,Male,22,Computer Engineering,Computer Networking,4,0,26,57,6,GSR University
+S0022,Male,22,Computer Engineering,Engineering Mathematics,4,0,26,71,8,GSR University
+S0023,Male,18,Computer Engineering,Programming,3,1,1,40,5,GSR University
+S0023,Male,18,Computer Engineering,Computer Networking,3,1,1,66,7,GSR University
+S0023,Male,18,Computer Engineering,Data Visualization,3,1,1,89,9,GSR University
+S0024,Male,21,Computer Engineering,Programming,3,2,16,56,6,GSR University
+S0024,Male,21,Computer Engineering,Computer Networking,3,2,16,45,5,GSR University
+S0024,Male,21,Computer Engineering,Data Visualization,3,2,16,82,9,GSR University
+S0025,Male,18,Computer Engineering,Programming,4,2,5,53,6,GSR University
+S0025,Male,18,Computer Engineering,Data Visualization,4,2,5,60,7,GSR University
+S0025,Male,18,Computer Engineering,Engineering Mathematics,4,2,5,37,4,GSR University
+S0026,Male,24,Computer Engineering,Engineering Mathematics,4,2,19,74,8,GSR University
+S0026,Male,24,Computer Engineering,Data Visualization,4,2,19,35,4,GSR University
+S0026,Male,24,Computer Engineering,Computer Networking,4,2,19,45,5,GSR University
+S0027,Male,21,Computer Engineering,Programming,1,1,22,50,6,GSR University
+S0027,Male,21,Computer Engineering,Engineering Drawing,1,1,22,60,7,GSR University
+S0027,Male,21,Computer Engineering,Engineering Mathematics,1,1,22,82,9,GSR University
+S0028,Female,18,Computer Engineering,Engineering Drawing,4,0,1,39,4,GSR University
+S0028,Female,18,Computer Engineering,Computer Networking,4,0,1,71,8,GSR University
+S0028,Female,18,Computer Engineering,Data Visualization,4,0,1,66,7,GSR University
+S0029,Male,20,Computer Engineering,Programming,1,0,2,58,6,GSR University
+S0029,Male,20,Computer Engineering,Data Visualization,1,0,2,88,9,GSR University
+S0029,Male,20,Computer Engineering,Engineering Drawing,1,0,2,90,10,GSR University
+S0030,Female,18,Computer Engineering,Computer Networking,4,2,16,82,9,GSR University
+S0030,Female,18,Computer Engineering,Programming,4,2,16,59,6,GSR University
+S0030,Female,18,Computer Engineering,Engineering Drawing,4,2,16,69,7,GSR University
+S0031,Male,18,Computer Engineering,Programming,2,1,17,75,8,GSR University
+S0031,Male,18,Computer Engineering,Engineering Mathematics,2,1,17,70,8,GSR University
+S0031,Male,18,Computer Engineering,Computer Networking,2,1,17,67,7,GSR University
+S0032,Male,21,Computer Engineering,Data Visualization,2,0,15,51,6,GSR University
+S0032,Male,21,Computer Engineering,Programming,2,0,15,67,7,GSR University
+S0032,Male,21,Computer Engineering,Computer Networking,2,0,15,82,9,GSR University
+S0033,Male,21,Computer Engineering,Programming,3,1,22,61,7,GSR University
+S0033,Male,21,Computer Engineering,Engineering Mathematics,3,1,22,61,7,GSR University
+S0033,Male,21,Computer Engineering,Data Visualization,3,1,22,68,7,GSR University
+S0034,Female,22,Computer Engineering,Computer Networking,1,2,0,53,6,GSR University
+S0034,Female,22,Computer Engineering,Data Visualization,1,2,0,38,4,GSR University
+S0034,Female,22,Computer Engineering,Programming,1,2,0,69,7,GSR University
+S0035,Female,18,Computer Engineering,Programming,1,1,28,75,8,GSR University
+S0035,Female,18,Computer Engineering,Engineering Mathematics,1,1,28,71,8,GSR University
+S0035,Female,18,Computer Engineering,Computer Networking,1,1,28,58,6,GSR University
+S0036,Male,22,Computer Engineering,Data Visualization,2,0,2,55,6,GSR University
+S0036,Male,22,Computer Engineering,Engineering Drawing,2,0,2,66,7,GSR University
+S0036,Male,22,Computer Engineering,Computer Networking,2,0,2,57,6,GSR University
+S0037,Female,18,Computer Engineering,Programming,3,1,24,37,4,GSR University
+S0037,Female,18,Computer Engineering,Engineering Mathematics,3,1,24,74,8,GSR University
+S0037,Female,18,Computer Engineering,Engineering Drawing,3,1,24,80,9,GSR University
+S0038,Female,19,Computer Engineering,Programming,3,1,22,36,4,GSR University
+S0038,Female,19,Computer Engineering,Engineering Drawing,3,1,22,60,7,GSR University
+S0038,Female,19,Computer Engineering,Engineering Mathematics,3,1,22,51,6,GSR University
+S0039,Male,18,Computer Engineering,Programming,3,1,15,69,7,GSR University
+S0039,Male,18,Computer Engineering,Engineering Mathematics,3,1,15,84,9,GSR University
+S0039,Male,18,Computer Engineering,Computer Networking,3,1,15,59,6,GSR University
+S0040,Female,22,Computer Engineering,Computer Networking,2,2,24,80,9,GSR University
+S0040,Female,22,Computer Engineering,Data Visualization,2,2,24,50,6,GSR University
+S0040,Female,22,Computer Engineering,Engineering Drawing,2,2,24,48,5,GSR University
+S0041,Male,21,Computer Engineering,Engineering Mathematics,3,2,27,56,6,GSR University
+S0041,Male,21,Computer Engineering,Programming,3,2,27,85,9,GSR University
+S0041,Male,21,Computer Engineering,Computer Networking,3,2,27,59,6,GSR University
+S0042,Male,19,Computer Engineering,Computer Networking,2,0,21,86,9,GSR University
+S0042,Male,19,Computer Engineering,Programming,2,0,21,76,8,GSR University
+S0042,Male,19,Computer Engineering,Engineering Mathematics,2,0,21,40,5,GSR University
+S0043,Female,24,Computer Engineering,Data Visualization,3,0,0,38,4,GSR University
+S0043,Female,24,Computer Engineering,Computer Networking,3,0,0,40,5,GSR University
+S0043,Female,24,Computer Engineering,Programming,3,0,0,79,8,GSR University
+S0044,Female,21,Computer Engineering,Computer Networking,3,2,22,94,10,GSR University
+S0044,Female,21,Computer Engineering,Data Visualization,3,2,22,76,8,GSR University
+S0044,Female,21,Computer Engineering,Programming,3,2,22,64,7,GSR University
+S0045,Male,20,Computer Engineering,Programming,4,2,18,71,8,GSR University
+S0045,Male,20,Computer Engineering,Engineering Drawing,4,2,18,60,7,GSR University
+S0045,Male,20,Computer Engineering,Computer Networking,4,2,18,87,9,GSR University
+S0046,Male,23,Computer Engineering,Engineering Mathematics,3,0,11,35,4,GSR University
+S0046,Male,23,Computer Engineering,Computer Networking,3,0,11,81,9,GSR University
+S0046,Male,23,Computer Engineering,Data Visualization,3,0,11,68,7,GSR University
+S0047,Female,23,Computer Engineering,Computer Networking,4,0,7,73,8,GSR University
+S0047,Female,23,Computer Engineering,Data Visualization,4,0,7,39,4,GSR University
+S0047,Female,23,Computer Engineering,Engineering Mathematics,4,0,7,56,6,GSR University
+S0048,Male,22,Computer Engineering,Engineering Drawing,3,1,15,63,7,GSR University
+S0048,Male,22,Computer Engineering,Engineering Mathematics,3,1,15,48,5,GSR University
+S0048,Male,22,Computer Engineering,Data Visualization,3,1,15,62,7,GSR University
+S0049,Male,22,Computer Engineering,Engineering Drawing,1,1,13,82,9,GSR University
+S0049,Male,22,Computer Engineering,Computer Networking,1,1,13,55,6,GSR University
+S0049,Male,22,Computer Engineering,Data Visualization,1,1,13,73,8,GSR University
+S0050,Male,21,Computer Engineering,Computer Networking,2,1,4,70,8,GSR University
+S0050,Male,21,Computer Engineering,Programming,2,1,4,68,7,GSR University
+S0050,Male,21,Computer Engineering,Engineering Mathematics,2,1,4,86,9,GSR University
+S0051,Female,24,Computer Engineering,Data Visualization,2,2,25,38,4,GSR University
+S0051,Female,24,Computer Engineering,Computer Networking,2,2,25,50,6,GSR University
+S0051,Female,24,Computer Engineering,Engineering Drawing,2,2,25,58,6,GSR University
+S0052,Female,24,Computer Engineering,Programming,1,2,19,67,7,GSR University
+S0052,Female,24,Computer Engineering,Engineering Drawing,1,2,19,67,7,GSR University
+S0052,Female,24,Computer Engineering,Computer Networking,1,2,19,85,9,GSR University
+S0053,Male,20,Computer Engineering,Computer Networking,4,2,0,78,8,GSR University
+S0053,Male,20,Computer Engineering,Engineering Drawing,4,2,0,63,7,GSR University
+S0053,Male,20,Computer Engineering,Data Visualization,4,2,0,47,5,GSR University
+S0054,Male,21,Computer Engineering,Engineering Mathematics,2,1,28,51,6,GSR University
+S0054,Male,21,Computer Engineering,Programming,2,1,28,60,7,GSR University
+S0054,Male,21,Computer Engineering,Engineering Drawing,2,1,28,42,5,GSR University
+S0055,Female,22,Computer Engineering,Engineering Drawing,2,1,29,38,4,GSR University
+S0055,Female,22,Computer Engineering,Engineering Mathematics,2,1,29,92,10,GSR University
+S0055,Female,22,Computer Engineering,Programming,2,1,29,87,9,GSR University
+S0056,Male,19,Computer Engineering,Data Visualization,3,0,23,91,10,GSR University
+S0056,Male,19,Computer Engineering,Computer Networking,3,0,23,70,8,GSR University
+S0056,Male,19,Computer Engineering,Engineering Drawing,3,0,23,44,5,GSR University
+S0057,Male,22,Computer Engineering,Engineering Drawing,4,2,16,73,8,GSR University
+S0057,Male,22,Computer Engineering,Programming,4,2,16,66,7,GSR University
+S0057,Male,22,Computer Engineering,Data Visualization,4,2,16,58,6,GSR University
+S0058,Female,24,Computer Engineering,Data Visualization,4,0,11,59,6,GSR University
+S0058,Female,24,Computer Engineering,Engineering Mathematics,4,0,11,69,7,GSR University
+S0058,Female,24,Computer Engineering,Engineering Drawing,4,0,11,75,8,GSR University
+S0059,Male,23,Computer Engineering,Engineering Mathematics,1,1,19,53,6,GSR University
+S0059,Male,23,Computer Engineering,Computer Networking,1,1,19,83,9,GSR University
+S0059,Male,23,Computer Engineering,Engineering Drawing,1,1,19,70,8,GSR University
+S0060,Male,21,Computer Engineering,Engineering Mathematics,1,2,11,86,9,GSR University
+S0060,Male,21,Computer Engineering,Engineering Drawing,1,2,11,53,6,GSR University
+S0060,Male,21,Computer Engineering,Data Visualization,1,2,11,92,10,GSR University
+S0061,Female,24,Computer Engineering,Data Visualization,1,0,2,70,8,GSR University
+S0061,Female,24,Computer Engineering,Engineering Drawing,1,0,2,87,9,GSR University
+S0061,Female,24,Computer Engineering,Computer Networking,1,0,2,57,6,GSR University
+S0062,Male,18,Computer Engineering,Engineering Mathematics,1,0,9,92,10,GSR University
+S0062,Male,18,Computer Engineering,Programming,1,0,9,39,4,GSR University
+S0062,Male,18,Computer Engineering,Engineering Drawing,1,0,9,69,7,GSR University
+S0063,Male,24,Computer Engineering,Engineering Drawing,3,2,17,78,8,GSR University
+S0063,Male,24,Computer Engineering,Computer Networking,3,2,17,51,6,GSR University
+S0063,Male,24,Computer Engineering,Data Visualization,3,2,17,72,8,GSR University
+S0064,Female,24,Computer Engineering,Programming,1,1,8,39,4,GSR University
+S0064,Female,24,Computer Engineering,Engineering Mathematics,1,1,8,63,7,GSR University
+S0064,Female,24,Computer Engineering,Engineering Drawing,1,1,8,71,8,GSR University
+S0065,Male,23,Computer Engineering,Data Visualization,4,0,0,59,6,GSR University
+S0065,Male,23,Computer Engineering,Engineering Drawing,4,0,0,79,8,GSR University
+S0065,Male,23,Computer Engineering,Computer Networking,4,0,0,38,4,GSR University
+S0066,Female,21,Computer Engineering,Computer Networking,4,2,18,61,7,GSR University
+S0066,Female,21,Computer Engineering,Programming,4,2,18,44,5,GSR University
+S0066,Female,21,Computer Engineering,Data Visualization,4,2,18,60,7,GSR University
+S0067,Male,20,Computer Engineering,Programming,2,2,12,54,6,GSR University
+S0067,Male,20,Computer Engineering,Computer Networking,2,2,12,62,7,GSR University
+S0067,Male,20,Computer Engineering,Engineering Mathematics,2,2,12,42,5,GSR University
+S0068,Male,22,Computer Engineering,Engineering Drawing,1,2,0,94,10,GSR University
+S0068,Male,22,Computer Engineering,Engineering Mathematics,1,2,0,83,9,GSR University
+S0068,Male,22,Computer Engineering,Data Visualization,1,2,0,59,6,GSR University
+S0069,Female,18,Computer Engineering,Data Visualization,1,1,25,81,9,GSR University
+S0069,Female,18,Computer Engineering,Computer Networking,1,1,25,55,6,GSR University
+S0069,Female,18,Computer Engineering,Engineering Drawing,1,1,25,50,6,GSR University
+S0070,Male,23,Computer Engineering,Engineering Mathematics,3,0,3,81,9,GSR University
+S0070,Male,23,Computer Engineering,Data Visualization,3,0,3,75,8,GSR University
+S0070,Male,23,Computer Engineering,Programming,3,0,3,83,9,GSR University
+S0071,Male,23,Computer Engineering,Data Visualization,3,0,20,45,5,GSR University
+S0071,Male,23,Computer Engineering,Programming,3,0,20,46,5,GSR University
+S0071,Male,23,Computer Engineering,Engineering Drawing,3,0,20,44,5,GSR University
+S0072,Female,23,Computer Engineering,Programming,4,0,7,92,10,GSR University
+S0072,Female,23,Computer Engineering,Computer Networking,4,0,7,94,10,GSR University
+S0072,Female,23,Computer Engineering,Engineering Drawing,4,0,7,84,9,GSR University
+S0073,Female,21,Computer Engineering,Engineering Mathematics,1,0,3,43,5,GSR University
+S0073,Female,21,Computer Engineering,Programming,1,0,3,67,7,GSR University
+S0073,Female,21,Computer Engineering,Engineering Drawing,1,0,3,87,9,GSR University
+S0074,Male,21,Computer Engineering,Engineering Mathematics,4,0,12,85,9,GSR University
+S0074,Male,21,Computer Engineering,Engineering Drawing,4,0,12,39,4,GSR University
+S0074,Male,21,Computer Engineering,Data Visualization,4,0,12,81,9,GSR University
+S0075,Female,18,Computer Engineering,Data Visualization,2,1,17,90,10,GSR University
+S0075,Female,18,Computer Engineering,Engineering Drawing,2,1,17,67,7,GSR University
+S0075,Female,18,Computer Engineering,Engineering Mathematics,2,1,17,88,9,GSR University
+S0076,Female,18,Computer Engineering,Engineering Drawing,4,2,16,59,6,GSR University
+S0076,Female,18,Computer Engineering,Engineering Mathematics,4,2,16,56,6,GSR University
+S0076,Female,18,Computer Engineering,Data Visualization,4,2,16,93,10,GSR University
+S0077,Male,20,Computer Engineering,Data Visualization,1,0,1,55,6,GSR University
+S0077,Male,20,Computer Engineering,Engineering Drawing,1,0,1,82,9,GSR University
+S0077,Male,20,Computer Engineering,Engineering Mathematics,1,0,1,89,9,GSR University
+S0078,Female,23,Computer Engineering,Data Visualization,1,0,4,87,9,GSR University
+S0078,Female,23,Computer Engineering,Engineering Mathematics,1,0,4,71,8,GSR University
+S0078,Female,23,Computer Engineering,Engineering Drawing,1,0,4,44,5,GSR University
+S0079,Male,19,Computer Engineering,Engineering Mathematics,1,0,13,79,8,GSR University
+S0079,Male,19,Computer Engineering,Computer Networking,1,0,13,47,5,GSR University
+S0079,Male,19,Computer Engineering,Engineering Drawing,1,0,13,38,4,GSR University
+S0080,Male,23,Computer Engineering,Programming,1,1,27,88,9,GSR University
+S0080,Male,23,Computer Engineering,Computer Networking,1,1,27,37,4,GSR University
+S0080,Male,23,Computer Engineering,Engineering Mathematics,1,1,27,93,10,GSR University
+S0081,Female,19,Computer Engineering,Computer Networking,1,1,11,91,10,GSR University
+S0081,Female,19,Computer Engineering,Programming,1,1,11,51,6,GSR University
+S0081,Female,19,Computer Engineering,Engineering Mathematics,1,1,11,82,9,GSR University
+S0082,Male,24,Computer Engineering,Computer Networking,3,2,4,85,9,GSR University
+S0082,Male,24,Computer Engineering,Programming,3,2,4,73,8,GSR University
+S0082,Male,24,Computer Engineering,Engineering Mathematics,3,2,4,72,8,GSR University
+S0083,Female,21,Computer Engineering,Engineering Mathematics,2,1,1,85,9,GSR University
+S0083,Female,21,Computer Engineering,Programming,2,1,1,68,7,GSR University
+S0083,Female,21,Computer Engineering,Computer Networking,2,1,1,86,9,GSR University
+S0084,Female,18,Computer Engineering,Engineering Drawing,1,2,27,63,7,GSR University
+S0084,Female,18,Computer Engineering,Engineering Mathematics,1,2,27,38,4,GSR University
+S0084,Female,18,Computer Engineering,Programming,1,2,27,44,5,GSR University
+S0085,Female,18,Computer Engineering,Computer Networking,1,0,1,77,8,GSR University
+S0085,Female,18,Computer Engineering,Engineering Mathematics,1,0,1,77,8,GSR University
+S0085,Female,18,Computer Engineering,Programming,1,0,1,82,9,GSR University
+S0086,Male,20,Computer Engineering,Engineering Mathematics,3,0,22,66,7,GSR University
+S0086,Male,20,Computer Engineering,Engineering Drawing,3,0,22,37,4,GSR University
+S0086,Male,20,Computer Engineering,Programming,3,0,22,61,7,GSR University
+S0087,Female,22,Computer Engineering,Data Visualization,2,0,25,52,6,GSR University
+S0087,Female,22,Computer Engineering,Engineering Mathematics,2,0,25,62,7,GSR University
+S0087,Female,22,Computer Engineering,Programming,2,0,25,76,8,GSR University
+S0088,Female,22,Computer Engineering,Engineering Mathematics,1,1,0,68,7,GSR University
+S0088,Female,22,Computer Engineering,Computer Networking,1,1,0,83,9,GSR University
+S0088,Female,22,Computer Engineering,Data Visualization,1,1,0,48,5,GSR University
+S0089,Male,19,Computer Engineering,Engineering Mathematics,3,0,25,81,9,GSR University
+S0089,Male,19,Computer Engineering,Data Visualization,3,0,25,90,10,GSR University
+S0089,Male,19,Computer Engineering,Engineering Drawing,3,0,25,64,7,GSR University
+S0090,Male,20,Computer Engineering,Computer Networking,4,0,16,83,9,GSR University
+S0090,Male,20,Computer Engineering,Engineering Drawing,4,0,16,69,7,GSR University
+S0090,Male,20,Computer Engineering,Programming,4,0,16,86,9,GSR University
+S0091,Male,24,Computer Engineering,Programming,3,1,13,58,6,GSR University
+S0091,Male,24,Computer Engineering,Engineering Drawing,3,1,13,36,4,GSR University
+S0091,Male,24,Computer Engineering,Computer Networking,3,1,13,79,8,GSR University
+S0092,Female,19,Computer Engineering,Programming,3,2,6,77,8,GSR University
+S0092,Female,19,Computer Engineering,Data Visualization,3,2,6,81,9,GSR University
+S0092,Female,19,Computer Engineering,Engineering Mathematics,3,2,6,94,10,GSR University
+S0093,Female,22,Computer Engineering,Data Visualization,2,1,2,71,8,GSR University
+S0093,Female,22,Computer Engineering,Engineering Mathematics,2,1,2,62,7,GSR University
+S0093,Female,22,Computer Engineering,Programming,2,1,2,44,5,GSR University
+S0094,Male,24,Computer Engineering,Engineering Mathematics,1,2,21,47,5,GSR University
+S0094,Male,24,Computer Engineering,Computer Networking,1,2,21,54,6,GSR University
+S0094,Male,24,Computer Engineering,Programming,1,2,21,59,6,GSR University
+S0095,Female,21,Computer Engineering,Programming,3,0,12,68,7,GSR University
+S0095,Female,21,Computer Engineering,Engineering Drawing,3,0,12,81,9,GSR University
+S0095,Female,21,Computer Engineering,Engineering Mathematics,3,0,12,42,5,GSR University
+S0096,Female,18,Computer Engineering,Programming,3,1,8,68,7,GSR University
+S0096,Female,18,Computer Engineering,Computer Networking,3,1,8,93,10,GSR University
+S0096,Female,18,Computer Engineering,Engineering Mathematics,3,1,8,90,10,GSR University
+S0097,Male,20,Computer Engineering,Computer Networking,2,0,24,40,5,GSR University
+S0097,Male,20,Computer Engineering,Engineering Mathematics,2,0,24,40,5,GSR University
+S0097,Male,20,Computer Engineering,Data Visualization,2,0,24,89,9,GSR University
+S0098,Female,21,Computer Engineering,Data Visualization,3,1,29,65,7,GSR University
+S0098,Female,21,Computer Engineering,Engineering Drawing,3,1,29,74,8,GSR University
+S0098,Female,21,Computer Engineering,Engineering Mathematics,3,1,29,71,8,GSR University
+S0099,Female,21,Computer Engineering,Programming,3,1,1,49,5,GSR University
+S0099,Female,21,Computer Engineering,Data Visualization,3,1,1,40,5,GSR University
+S0099,Female,21,Computer Engineering,Computer Networking,3,1,1,88,9,GSR University
+S0100,Female,18,Computer Engineering,Engineering Mathematics,4,1,18,42,5,GSR University
+S0100,Female,18,Computer Engineering,Engineering Drawing,4,1,18,60,7,GSR University
+S0100,Female,18,Computer Engineering,Computer Networking,4,1,18,85,9,GSR University
+S0101,Female,22,Computer Engineering,Engineering Drawing,1,1,25,83,9,GSR University
+S0101,Female,22,Computer Engineering,Data Visualization,1,1,25,46,5,GSR University
+S0101,Female,22,Computer Engineering,Programming,1,1,25,81,9,GSR University
+S0102,Female,18,Computer Engineering,Data Visualization,2,1,4,37,4,GSR University
+S0102,Female,18,Computer Engineering,Engineering Mathematics,2,1,4,67,7,GSR University
+S0102,Female,18,Computer Engineering,Programming,2,1,4,40,5,GSR University
+S0103,Female,19,Computer Engineering,Computer Networking,2,0,22,74,8,GSR University
+S0103,Female,19,Computer Engineering,Programming,2,0,22,36,4,GSR University
+S0103,Female,19,Computer Engineering,Engineering Drawing,2,0,22,54,6,GSR University
+S0104,Male,18,Computer Engineering,Engineering Drawing,1,0,16,72,8,GSR University
+S0104,Male,18,Computer Engineering,Data Visualization,1,0,16,89,9,GSR University
+S0104,Male,18,Computer Engineering,Engineering Mathematics,1,0,16,69,7,GSR University
+S0105,Male,23,Computer Engineering,Programming,1,0,29,87,9,GSR University
+S0105,Male,23,Computer Engineering,Computer Networking,1,0,29,90,10,GSR University
+S0105,Male,23,Computer Engineering,Data Visualization,1,0,29,45,5,GSR University
+S0106,Female,18,Computer Engineering,Engineering Drawing,4,2,2,63,7,GSR University
+S0106,Female,18,Computer Engineering,Computer Networking,4,2,2,42,5,GSR University
+S0106,Female,18,Computer Engineering,Data Visualization,4,2,2,45,5,GSR University
+S0107,Male,18,Computer Engineering,Data Visualization,2,1,2,93,10,GSR University
+S0107,Male,18,Computer Engineering,Computer Networking,2,1,2,48,5,GSR University
+S0107,Male,18,Computer Engineering,Engineering Mathematics,2,1,2,60,7,GSR University
+S0108,Female,23,Computer Engineering,Engineering Drawing,1,0,9,48,5,GSR University
+S0108,Female,23,Computer Engineering,Engineering Mathematics,1,0,9,66,7,GSR University
+S0108,Female,23,Computer Engineering,Computer Networking,1,0,9,85,9,GSR University
+S0109,Female,22,Computer Engineering,Data Visualization,1,2,14,81,9,GSR University
+S0109,Female,22,Computer Engineering,Computer Networking,1,2,14,89,9,GSR University
+S0109,Female,22,Computer Engineering,Engineering Mathematics,1,2,14,36,4,GSR University
+S0110,Male,23,Computer Engineering,Engineering Drawing,4,2,6,41,5,GSR University
+S0110,Male,23,Computer Engineering,Programming,4,2,6,85,9,GSR University
+S0110,Male,23,Computer Engineering,Engineering Mathematics,4,2,6,42,5,GSR University
+S0111,Female,19,Computer Engineering,Computer Networking,4,2,14,61,7,GSR University
+S0111,Female,19,Computer Engineering,Engineering Mathematics,4,2,14,70,8,GSR University
+S0111,Female,19,Computer Engineering,Data Visualization,4,2,14,63,7,GSR University
+S0112,Male,23,Computer Engineering,Engineering Mathematics,1,0,4,38,4,GSR University
+S0112,Male,23,Computer Engineering,Data Visualization,1,0,4,56,6,GSR University
+S0112,Male,23,Computer Engineering,Programming,1,0,4,36,4,GSR University
+S0113,Male,19,Computer Engineering,Programming,3,1,0,79,8,GSR University
+S0113,Male,19,Computer Engineering,Data Visualization,3,1,0,58,6,GSR University
+S0113,Male,19,Computer Engineering,Engineering Mathematics,3,1,0,86,9,GSR University
+S0114,Male,24,Computer Engineering,Computer Networking,4,0,28,61,7,GSR University
+S0114,Male,24,Computer Engineering,Data Visualization,4,0,28,65,7,GSR University
+S0114,Male,24,Computer Engineering,Programming,4,0,28,85,9,GSR University
+S0115,Female,20,Computer Engineering,Engineering Mathematics,4,1,10,44,5,GSR University
+S0115,Female,20,Computer Engineering,Data Visualization,4,1,10,74,8,GSR University
+S0115,Female,20,Computer Engineering,Engineering Drawing,4,1,10,72,8,GSR University
+S0116,Female,23,Computer Engineering,Engineering Drawing,3,2,25,74,8,GSR University
+S0116,Female,23,Computer Engineering,Programming,3,2,25,52,6,GSR University
+S0116,Female,23,Computer Engineering,Data Visualization,3,2,25,59,6,GSR University
+S0117,Male,18,Computer Engineering,Computer Networking,4,2,11,71,8,GSR University
+S0117,Male,18,Computer Engineering,Data Visualization,4,2,11,42,5,GSR University
+S0117,Male,18,Computer Engineering,Programming,4,2,11,76,8,GSR University
+S0118,Female,18,Computer Engineering,Engineering Mathematics,3,1,8,75,8,GSR University
+S0118,Female,18,Computer Engineering,Engineering Drawing,3,1,8,56,6,GSR University
+S0118,Female,18,Computer Engineering,Data Visualization,3,1,8,45,5,GSR University
+S0119,Male,24,Computer Engineering,Computer Networking,2,0,20,91,10,GSR University
+S0119,Male,24,Computer Engineering,Programming,2,0,20,35,4,GSR University
+S0119,Male,24,Computer Engineering,Engineering Mathematics,2,0,20,88,9,GSR University
+S0120,Male,24,Computer Engineering,Computer Networking,4,2,20,86,9,GSR University
+S0120,Male,24,Computer Engineering,Data Visualization,4,2,20,91,10,GSR University
+S0120,Male,24,Computer Engineering,Engineering Mathematics,4,2,20,87,9,GSR University
+S0121,Male,19,Computer Engineering,Engineering Drawing,3,2,19,36,4,GSR University
+S0121,Male,19,Computer Engineering,Engineering Mathematics,3,2,19,41,5,GSR University
+S0121,Male,19,Computer Engineering,Computer Networking,3,2,19,52,6,GSR University
+S0122,Female,20,Computer Engineering,Data Visualization,3,0,10,88,9,GSR University
+S0122,Female,20,Computer Engineering,Programming,3,0,10,58,6,GSR University
+S0122,Female,20,Computer Engineering,Engineering Drawing,3,0,10,59,6,GSR University
+S0123,Female,24,Computer Engineering,Data Visualization,2,0,23,77,8,GSR University
+S0123,Female,24,Computer Engineering,Computer Networking,2,0,23,56,6,GSR University
+S0123,Female,24,Computer Engineering,Engineering Mathematics,2,0,23,60,7,GSR University
+S0124,Female,21,Computer Engineering,Data Visualization,1,0,6,54,6,GSR University
+S0124,Female,21,Computer Engineering,Computer Networking,1,0,6,88,9,GSR University
+S0124,Female,21,Computer Engineering,Engineering Drawing,1,0,6,56,6,GSR University
+S0125,Male,21,Computer Engineering,Computer Networking,1,0,6,57,6,GSR University
+S0125,Male,21,Computer Engineering,Data Visualization,1,0,6,85,9,GSR University
+S0125,Male,21,Computer Engineering,Engineering Drawing,1,0,6,93,10,GSR University
+S0126,Female,20,Computer Engineering,Computer Networking,4,1,28,50,6,GSR University
+S0126,Female,20,Computer Engineering,Data Visualization,4,1,28,74,8,GSR University
+S0126,Female,20,Computer Engineering,Engineering Mathematics,4,1,28,53,6,GSR University
+S0127,Male,19,Computer Engineering,Programming,2,2,14,83,9,GSR University
+S0127,Male,19,Computer Engineering,Computer Networking,2,2,14,84,9,GSR University
+S0127,Male,19,Computer Engineering,Engineering Mathematics,2,2,14,64,7,GSR University
+S0128,Male,23,Computer Engineering,Data Visualization,3,0,7,66,7,GSR University
+S0128,Male,23,Computer Engineering,Programming,3,0,7,44,5,GSR University
+S0128,Male,23,Computer Engineering,Engineering Mathematics,3,0,7,44,5,GSR University
+S0129,Female,20,Computer Engineering,Computer Networking,2,0,22,63,7,GSR University
+S0129,Female,20,Computer Engineering,Programming,2,0,22,42,5,GSR University
+S0129,Female,20,Computer Engineering,Data Visualization,2,0,22,35,4,GSR University
+S0130,Male,18,Computer Engineering,Computer Networking,3,2,26,81,9,GSR University
+S0130,Male,18,Computer Engineering,Programming,3,2,26,71,8,GSR University
+S0130,Male,18,Computer Engineering,Data Visualization,3,2,26,37,4,GSR University
+S0131,Male,20,Computer Engineering,Programming,4,2,7,90,10,GSR University
+S0131,Male,20,Computer Engineering,Engineering Mathematics,4,2,7,80,9,GSR University
+S0131,Male,20,Computer Engineering,Engineering Drawing,4,2,7,77,8,GSR University
+S0132,Female,21,Computer Engineering,Engineering Mathematics,1,1,20,67,7,GSR University
+S0132,Female,21,Computer Engineering,Programming,1,1,20,57,6,GSR University
+S0132,Female,21,Computer Engineering,Engineering Drawing,1,1,20,55,6,GSR University
+S0133,Female,20,Computer Engineering,Programming,1,2,3,35,4,GSR University
+S0133,Female,20,Computer Engineering,Computer Networking,1,2,3,81,9,GSR University
+S0133,Female,20,Computer Engineering,Data Visualization,1,2,3,39,4,GSR University
+S0134,Male,21,Computer Engineering,Programming,2,2,1,54,6,GSR University
+S0134,Male,21,Computer Engineering,Data Visualization,2,2,1,39,4,GSR University
+S0134,Male,21,Computer Engineering,Engineering Mathematics,2,2,1,71,8,GSR University
+S0135,Female,23,Computer Engineering,Programming,2,0,1,92,10,GSR University
+S0135,Female,23,Computer Engineering,Data Visualization,2,0,1,56,6,GSR University
+S0135,Female,23,Computer Engineering,Computer Networking,2,0,1,78,8,GSR University
+S0136,Female,18,Computer Engineering,Engineering Mathematics,2,2,13,48,5,GSR University
+S0136,Female,18,Computer Engineering,Engineering Drawing,2,2,13,43,5,GSR University
+S0136,Female,18,Computer Engineering,Computer Networking,2,2,13,74,8,GSR University
+S0137,Male,19,Computer Engineering,Programming,1,2,8,63,7,GSR University
+S0137,Male,19,Computer Engineering,Engineering Drawing,1,2,8,79,8,GSR University
+S0137,Male,19,Computer Engineering,Engineering Mathematics,1,2,8,68,7,GSR University
+S0138,Male,24,Computer Engineering,Computer Networking,3,1,17,68,7,GSR University
+S0138,Male,24,Computer Engineering,Engineering Mathematics,3,1,17,51,6,GSR University
+S0138,Male,24,Computer Engineering,Programming,3,1,17,71,8,GSR University
+S0139,Female,18,Computer Engineering,Engineering Mathematics,2,2,20,91,10,GSR University
+S0139,Female,18,Computer Engineering,Computer Networking,2,2,20,65,7,GSR University
+S0139,Female,18,Computer Engineering,Programming,2,2,20,40,5,GSR University
+S0140,Female,20,Computer Engineering,Engineering Mathematics,2,0,24,51,6,GSR University
+S0140,Female,20,Computer Engineering,Programming,2,0,24,60,7,GSR University
+S0140,Female,20,Computer Engineering,Data Visualization,2,0,24,55,6,GSR University
+S0141,Female,21,Computer Engineering,Engineering Drawing,2,1,1,85,9,GSR University
+S0141,Female,21,Computer Engineering,Programming,2,1,1,87,9,GSR University
+S0141,Female,21,Computer Engineering,Computer Networking,2,1,1,70,8,GSR University
+S0142,Female,20,Computer Engineering,Data Visualization,1,0,10,73,8,GSR University
+S0142,Female,20,Computer Engineering,Engineering Drawing,1,0,10,74,8,GSR University
+S0142,Female,20,Computer Engineering,Programming,1,0,10,69,7,GSR University
+S0143,Female,23,Computer Engineering,Computer Networking,3,2,23,70,8,GSR University
+S0143,Female,23,Computer Engineering,Data Visualization,3,2,23,81,9,GSR University
+S0143,Female,23,Computer Engineering,Programming,3,2,23,54,6,GSR University
+S0144,Male,20,Computer Engineering,Engineering Mathematics,4,2,16,43,5,GSR University
+S0144,Male,20,Computer Engineering,Data Visualization,4,2,16,60,7,GSR University
+S0144,Male,20,Computer Engineering,Engineering Drawing,4,2,16,36,4,GSR University
+S0145,Male,22,Computer Engineering,Engineering Mathematics,1,0,0,76,8,GSR University
+S0145,Male,22,Computer Engineering,Data Visualization,1,0,0,59,6,GSR University
+S0145,Male,22,Computer Engineering,Computer Networking,1,0,0,73,8,GSR University
+S0146,Male,20,Computer Engineering,Programming,2,0,11,68,7,GSR University
+S0146,Male,20,Computer Engineering,Engineering Drawing,2,0,11,46,5,GSR University
+S0146,Male,20,Computer Engineering,Data Visualization,2,0,11,53,6,GSR University
+S0147,Female,22,Computer Engineering,Computer Networking,3,2,16,89,9,GSR University
+S0147,Female,22,Computer Engineering,Engineering Mathematics,3,2,16,83,9,GSR University
+S0147,Female,22,Computer Engineering,Data Visualization,3,2,16,81,9,GSR University
+S0148,Female,21,Computer Engineering,Data Visualization,4,2,7,88,9,GSR University
+S0148,Female,21,Computer Engineering,Engineering Mathematics,4,2,7,50,6,GSR University
+S0148,Female,21,Computer Engineering,Computer Networking,4,2,7,40,5,GSR University
+S0149,Female,18,Computer Engineering,Computer Networking,1,2,26,81,9,GSR University
+S0149,Female,18,Computer Engineering,Engineering Drawing,1,2,26,66,7,GSR University
+S0149,Female,18,Computer Engineering,Engineering Mathematics,1,2,26,44,5,GSR University
+S0150,Male,24,Computer Engineering,Engineering Mathematics,3,1,20,87,9,GSR University
+S0150,Male,24,Computer Engineering,Programming,3,1,20,41,5,GSR University
+S0150,Male,24,Computer Engineering,Engineering Drawing,3,1,20,43,5,GSR University
+S0151,Female,20,Civil Engineering,Structural Engineering,4,1,26,86,9,GSR University
+S0151,Female,20,Civil Engineering,Transportation Engineering,4,1,26,73,8,GSR University
+S0151,Female,20,Civil Engineering,Environmental Engineering,4,1,26,69,7,GSR University
+S0152,Male,19,Civil Engineering,Water Resources Engineering,2,2,16,37,4,GSR University
+S0152,Male,19,Civil Engineering,Geotechnical Engineering,2,2,16,71,8,GSR University
+S0152,Male,19,Civil Engineering,Structural Engineering,2,2,16,77,8,GSR University
+S0153,Male,19,Civil Engineering,Environmental Engineering,3,2,14,59,6,GSR University
+S0153,Male,19,Civil Engineering,Geotechnical Engineering,3,2,14,47,5,GSR University
+S0153,Male,19,Civil Engineering,Water Resources Engineering,3,2,14,52,6,GSR University
+S0154,Female,18,Civil Engineering,Structural Engineering,1,1,11,68,7,GSR University
+S0154,Female,18,Civil Engineering,Water Resources Engineering,1,1,11,64,7,GSR University
+S0154,Female,18,Civil Engineering,Transportation Engineering,1,1,11,93,10,GSR University
+S0155,Male,24,Civil Engineering,Structural Engineering,1,1,2,63,7,GSR University
+S0155,Male,24,Civil Engineering,Transportation Engineering,1,1,2,83,9,GSR University
+S0155,Male,24,Civil Engineering,Geotechnical Engineering,1,1,2,63,7,GSR University
+S0156,Male,23,Civil Engineering,Water Resources Engineering,4,0,15,64,7,GSR University
+S0156,Male,23,Civil Engineering,Geotechnical Engineering,4,0,15,59,6,GSR University
+S0156,Male,23,Civil Engineering,Structural Engineering,4,0,15,73,8,GSR University
+S0157,Male,21,Civil Engineering,Transportation Engineering,1,1,16,64,7,GSR University
+S0157,Male,21,Civil Engineering,Water Resources Engineering,1,1,16,84,9,GSR University
+S0157,Male,21,Civil Engineering,Geotechnical Engineering,1,1,16,38,4,GSR University
+S0158,Female,19,Civil Engineering,Environmental Engineering,1,0,15,43,5,GSR University
+S0158,Female,19,Civil Engineering,Transportation Engineering,1,0,15,49,5,GSR University
+S0158,Female,19,Civil Engineering,Geotechnical Engineering,1,0,15,83,9,GSR University
+S0159,Female,18,Civil Engineering,Geotechnical Engineering,4,2,25,94,10,GSR University
+S0159,Female,18,Civil Engineering,Environmental Engineering,4,2,25,40,5,GSR University
+S0159,Female,18,Civil Engineering,Transportation Engineering,4,2,25,73,8,GSR University
+S0160,Female,24,Civil Engineering,Transportation Engineering,4,2,29,86,9,GSR University
+S0160,Female,24,Civil Engineering,Environmental Engineering,4,2,29,38,4,GSR University
+S0160,Female,24,Civil Engineering,Structural Engineering,4,2,29,93,10,GSR University
+S0161,Male,21,Civil Engineering,Transportation Engineering,3,1,20,77,8,GSR University
+S0161,Male,21,Civil Engineering,Water Resources Engineering,3,1,20,68,7,GSR University
+S0161,Male,21,Civil Engineering,Geotechnical Engineering,3,1,20,91,10,GSR University
+S0162,Male,19,Civil Engineering,Environmental Engineering,1,1,2,57,6,GSR University
+S0162,Male,19,Civil Engineering,Transportation Engineering,1,1,2,83,9,GSR University
+S0162,Male,19,Civil Engineering,Geotechnical Engineering,1,1,2,43,5,GSR University
+S0163,Female,20,Civil Engineering,Structural Engineering,2,0,28,52,6,GSR University
+S0163,Female,20,Civil Engineering,Transportation Engineering,2,0,28,51,6,GSR University
+S0163,Female,20,Civil Engineering,Water Resources Engineering,2,0,28,58,6,GSR University
+S0164,Female,20,Civil Engineering,Geotechnical Engineering,3,1,12,38,4,GSR University
+S0164,Female,20,Civil Engineering,Transportation Engineering,3,1,12,48,5,GSR University
+S0164,Female,20,Civil Engineering,Structural Engineering,3,1,12,71,8,GSR University
+S0165,Male,19,Civil Engineering,Geotechnical Engineering,1,2,26,59,6,GSR University
+S0165,Male,19,Civil Engineering,Environmental Engineering,1,2,26,68,7,GSR University
+S0165,Male,19,Civil Engineering,Water Resources Engineering,1,2,26,46,5,GSR University
+S0166,Male,19,Civil Engineering,Structural Engineering,3,0,4,94,10,GSR University
+S0166,Male,19,Civil Engineering,Transportation Engineering,3,0,4,49,5,GSR University
+S0166,Male,19,Civil Engineering,Geotechnical Engineering,3,0,4,72,8,GSR University
+S0167,Male,20,Civil Engineering,Environmental Engineering,4,1,17,39,4,GSR University
+S0167,Male,20,Civil Engineering,Geotechnical Engineering,4,1,17,47,5,GSR University
+S0167,Male,20,Civil Engineering,Structural Engineering,4,1,17,51,6,GSR University
+S0168,Female,19,Civil Engineering,Structural Engineering,1,1,28,74,8,GSR University
+S0168,Female,19,Civil Engineering,Transportation Engineering,1,1,28,68,7,GSR University
+S0168,Female,19,Civil Engineering,Water Resources Engineering,1,1,28,74,8,GSR University
+S0169,Male,20,Civil Engineering,Geotechnical Engineering,1,0,5,93,10,GSR University
+S0169,Male,20,Civil Engineering,Water Resources Engineering,1,0,5,82,9,GSR University
+S0169,Male,20,Civil Engineering,Structural Engineering,1,0,5,75,8,GSR University
+S0170,Male,22,Civil Engineering,Water Resources Engineering,1,0,20,72,8,GSR University
+S0170,Male,22,Civil Engineering,Structural Engineering,1,0,20,94,10,GSR University
+S0170,Male,22,Civil Engineering,Environmental Engineering,1,0,20,41,5,GSR University
+S0171,Male,22,Civil Engineering,Structural Engineering,1,1,24,44,5,GSR University
+S0171,Male,22,Civil Engineering,Geotechnical Engineering,1,1,24,66,7,GSR University
+S0171,Male,22,Civil Engineering,Transportation Engineering,1,1,24,77,8,GSR University
+S0172,Female,22,Civil Engineering,Environmental Engineering,3,2,17,63,7,GSR University
+S0172,Female,22,Civil Engineering,Structural Engineering,3,2,17,46,5,GSR University
+S0172,Female,22,Civil Engineering,Water Resources Engineering,3,2,17,73,8,GSR University
+S0173,Female,19,Civil Engineering,Environmental Engineering,1,1,26,65,7,GSR University
+S0173,Female,19,Civil Engineering,Geotechnical Engineering,1,1,26,68,7,GSR University
+S0173,Female,19,Civil Engineering,Transportation Engineering,1,1,26,94,10,GSR University
+S0174,Male,22,Civil Engineering,Environmental Engineering,4,1,18,62,7,GSR University
+S0174,Male,22,Civil Engineering,Transportation Engineering,4,1,18,94,10,GSR University
+S0174,Male,22,Civil Engineering,Water Resources Engineering,4,1,18,49,5,GSR University
+S0175,Male,23,Civil Engineering,Structural Engineering,1,1,3,61,7,GSR University
+S0175,Male,23,Civil Engineering,Environmental Engineering,1,1,3,51,6,GSR University
+S0175,Male,23,Civil Engineering,Geotechnical Engineering,1,1,3,46,5,GSR University
+S0176,Male,23,Civil Engineering,Structural Engineering,2,1,0,84,9,GSR University
+S0176,Male,23,Civil Engineering,Water Resources Engineering,2,1,0,48,5,GSR University
+S0176,Male,23,Civil Engineering,Environmental Engineering,2,1,0,81,9,GSR University
+S0177,Female,22,Civil Engineering,Geotechnical Engineering,4,2,2,45,5,GSR University
+S0177,Female,22,Civil Engineering,Water Resources Engineering,4,2,2,67,7,GSR University
+S0177,Female,22,Civil Engineering,Environmental Engineering,4,2,2,40,5,GSR University
+S0178,Male,24,Civil Engineering,Structural Engineering,4,2,10,80,9,GSR University
+S0178,Male,24,Civil Engineering,Transportation Engineering,4,2,10,68,7,GSR University
+S0178,Male,24,Civil Engineering,Water Resources Engineering,4,2,10,63,7,GSR University
+S0179,Male,21,Civil Engineering,Transportation Engineering,3,0,8,66,7,GSR University
+S0179,Male,21,Civil Engineering,Geotechnical Engineering,3,0,8,36,4,GSR University
+S0179,Male,21,Civil Engineering,Environmental Engineering,3,0,8,81,9,GSR University
+S0180,Female,23,Civil Engineering,Transportation Engineering,2,2,26,90,10,GSR University
+S0180,Female,23,Civil Engineering,Water Resources Engineering,2,2,26,62,7,GSR University
+S0180,Female,23,Civil Engineering,Geotechnical Engineering,2,2,26,63,7,GSR University
+S0181,Male,22,Civil Engineering,Water Resources Engineering,4,0,26,39,4,GSR University
+S0181,Male,22,Civil Engineering,Structural Engineering,4,0,26,37,4,GSR University
+S0181,Male,22,Civil Engineering,Environmental Engineering,4,0,26,93,10,GSR University
+S0182,Female,18,Civil Engineering,Transportation Engineering,4,1,14,83,9,GSR University
+S0182,Female,18,Civil Engineering,Water Resources Engineering,4,1,14,59,6,GSR University
+S0182,Female,18,Civil Engineering,Environmental Engineering,4,1,14,58,6,GSR University
+S0183,Female,21,Civil Engineering,Water Resources Engineering,3,2,7,63,7,GSR University
+S0183,Female,21,Civil Engineering,Environmental Engineering,3,2,7,87,9,GSR University
+S0183,Female,21,Civil Engineering,Structural Engineering,3,2,7,42,5,GSR University
+S0184,Male,24,Civil Engineering,Water Resources Engineering,2,1,19,94,10,GSR University
+S0184,Male,24,Civil Engineering,Geotechnical Engineering,2,1,19,92,10,GSR University
+S0184,Male,24,Civil Engineering,Transportation Engineering,2,1,19,37,4,GSR University
+S0185,Female,21,Civil Engineering,Environmental Engineering,3,0,29,82,9,GSR University
+S0185,Female,21,Civil Engineering,Transportation Engineering,3,0,29,91,10,GSR University
+S0185,Female,21,Civil Engineering,Water Resources Engineering,3,0,29,94,10,GSR University
+S0186,Female,24,Civil Engineering,Structural Engineering,2,0,20,47,5,GSR University
+S0186,Female,24,Civil Engineering,Water Resources Engineering,2,0,20,51,6,GSR University
+S0186,Female,24,Civil Engineering,Environmental Engineering,2,0,20,42,5,GSR University
+S0187,Female,22,Civil Engineering,Geotechnical Engineering,2,1,13,94,10,GSR University
+S0187,Female,22,Civil Engineering,Water Resources Engineering,2,1,13,72,8,GSR University
+S0187,Female,22,Civil Engineering,Transportation Engineering,2,1,13,75,8,GSR University
+S0188,Female,20,Civil Engineering,Water Resources Engineering,3,0,16,49,5,GSR University
+S0188,Female,20,Civil Engineering,Environmental Engineering,3,0,16,50,6,GSR University
+S0188,Female,20,Civil Engineering,Geotechnical Engineering,3,0,16,88,9,GSR University
+S0189,Female,23,Civil Engineering,Environmental Engineering,4,0,9,67,7,GSR University
+S0189,Female,23,Civil Engineering,Water Resources Engineering,4,0,9,67,7,GSR University
+S0189,Female,23,Civil Engineering,Structural Engineering,4,0,9,75,8,GSR University
+S0190,Female,22,Civil Engineering,Structural Engineering,1,0,19,72,8,GSR University
+S0190,Female,22,Civil Engineering,Transportation Engineering,1,0,19,73,8,GSR University
+S0190,Female,22,Civil Engineering,Environmental Engineering,1,0,19,60,7,GSR University
+S0191,Female,23,Civil Engineering,Transportation Engineering,2,2,1,45,5,GSR University
+S0191,Female,23,Civil Engineering,Water Resources Engineering,2,2,1,37,4,GSR University
+S0191,Female,23,Civil Engineering,Structural Engineering,2,2,1,93,10,GSR University
+S0192,Male,23,Civil Engineering,Water Resources Engineering,2,0,6,54,6,GSR University
+S0192,Male,23,Civil Engineering,Environmental Engineering,2,0,6,81,9,GSR University
+S0192,Male,23,Civil Engineering,Transportation Engineering,2,0,6,93,10,GSR University
+S0193,Male,24,Civil Engineering,Water Resources Engineering,3,1,25,75,8,GSR University
+S0193,Male,24,Civil Engineering,Structural Engineering,3,1,25,94,10,GSR University
+S0193,Male,24,Civil Engineering,Transportation Engineering,3,1,25,76,8,GSR University
+S0194,Male,23,Civil Engineering,Geotechnical Engineering,2,1,11,85,9,GSR University
+S0194,Male,23,Civil Engineering,Environmental Engineering,2,1,11,92,10,GSR University
+S0194,Male,23,Civil Engineering,Water Resources Engineering,2,1,11,53,6,GSR University
+S0195,Female,24,Civil Engineering,Geotechnical Engineering,4,0,7,66,7,GSR University
+S0195,Female,24,Civil Engineering,Transportation Engineering,4,0,7,85,9,GSR University
+S0195,Female,24,Civil Engineering,Structural Engineering,4,0,7,78,8,GSR University
+S0196,Female,19,Civil Engineering,Geotechnical Engineering,2,2,21,37,4,GSR University
+S0196,Female,19,Civil Engineering,Environmental Engineering,2,2,21,62,7,GSR University
+S0196,Female,19,Civil Engineering,Structural Engineering,2,2,21,44,5,GSR University
+S0197,Male,20,Civil Engineering,Transportation Engineering,1,0,21,55,6,GSR University
+S0197,Male,20,Civil Engineering,Geotechnical Engineering,1,0,21,65,7,GSR University
+S0197,Male,20,Civil Engineering,Water Resources Engineering,1,0,21,92,10,GSR University
+S0198,Female,22,Civil Engineering,Structural Engineering,4,0,3,94,10,GSR University
+S0198,Female,22,Civil Engineering,Environmental Engineering,4,0,3,58,6,GSR University
+S0198,Female,22,Civil Engineering,Geotechnical Engineering,4,0,3,84,9,GSR University
+S0199,Male,18,Civil Engineering,Transportation Engineering,4,0,3,70,8,GSR University
+S0199,Male,18,Civil Engineering,Environmental Engineering,4,0,3,36,4,GSR University
+S0199,Male,18,Civil Engineering,Water Resources Engineering,4,0,3,49,5,GSR University
+S0200,Female,19,Civil Engineering,Structural Engineering,2,2,9,46,5,GSR University
+S0200,Female,19,Civil Engineering,Transportation Engineering,2,2,9,37,4,GSR University
+S0200,Female,19,Civil Engineering,Geotechnical Engineering,2,2,9,79,8,GSR University
+S0201,Female,19,Civil Engineering,Water Resources Engineering,1,2,0,76,8,GSR University
+S0201,Female,19,Civil Engineering,Structural Engineering,1,2,0,78,8,GSR University
+S0201,Female,19,Civil Engineering,Transportation Engineering,1,2,0,48,5,GSR University
+S0202,Female,23,Civil Engineering,Transportation Engineering,3,0,4,94,10,GSR University
+S0202,Female,23,Civil Engineering,Environmental Engineering,3,0,4,81,9,GSR University
+S0202,Female,23,Civil Engineering,Geotechnical Engineering,3,0,4,48,5,GSR University
+S0203,Male,24,Civil Engineering,Geotechnical Engineering,4,1,6,62,7,GSR University
+S0203,Male,24,Civil Engineering,Transportation Engineering,4,1,6,36,4,GSR University
+S0203,Male,24,Civil Engineering,Water Resources Engineering,4,1,6,69,7,GSR University
+S0204,Male,22,Civil Engineering,Geotechnical Engineering,3,0,7,81,9,GSR University
+S0204,Male,22,Civil Engineering,Environmental Engineering,3,0,7,65,7,GSR University
+S0204,Male,22,Civil Engineering,Structural Engineering,3,0,7,45,5,GSR University
+S0205,Male,19,Civil Engineering,Transportation Engineering,2,1,15,64,7,GSR University
+S0205,Male,19,Civil Engineering,Environmental Engineering,2,1,15,75,8,GSR University
+S0205,Male,19,Civil Engineering,Water Resources Engineering,2,1,15,35,4,GSR University
+S0206,Female,22,Civil Engineering,Transportation Engineering,4,2,11,62,7,GSR University
+S0206,Female,22,Civil Engineering,Environmental Engineering,4,2,11,91,10,GSR University
+S0206,Female,22,Civil Engineering,Geotechnical Engineering,4,2,11,77,8,GSR University
+S0207,Male,22,Civil Engineering,Geotechnical Engineering,1,0,16,40,5,GSR University
+S0207,Male,22,Civil Engineering,Water Resources Engineering,1,0,16,78,8,GSR University
+S0207,Male,22,Civil Engineering,Environmental Engineering,1,0,16,93,10,GSR University
+S0208,Female,22,Civil Engineering,Transportation Engineering,2,1,1,60,7,GSR University
+S0208,Female,22,Civil Engineering,Geotechnical Engineering,2,1,1,63,7,GSR University
+S0208,Female,22,Civil Engineering,Water Resources Engineering,2,1,1,35,4,GSR University
+S0209,Male,24,Civil Engineering,Geotechnical Engineering,2,0,20,85,9,GSR University
+S0209,Male,24,Civil Engineering,Water Resources Engineering,2,0,20,48,5,GSR University
+S0209,Male,24,Civil Engineering,Transportation Engineering,2,0,20,46,5,GSR University
+S0210,Female,19,Civil Engineering,Structural Engineering,1,1,23,59,6,GSR University
+S0210,Female,19,Civil Engineering,Transportation Engineering,1,1,23,84,9,GSR University
+S0210,Female,19,Civil Engineering,Geotechnical Engineering,1,1,23,63,7,GSR University
+S0211,Male,18,Civil Engineering,Structural Engineering,3,2,10,57,6,GSR University
+S0211,Male,18,Civil Engineering,Transportation Engineering,3,2,10,79,8,GSR University
+S0211,Male,18,Civil Engineering,Water Resources Engineering,3,2,10,86,9,GSR University
+S0212,Female,19,Civil Engineering,Water Resources Engineering,4,2,7,42,5,GSR University
+S0212,Female,19,Civil Engineering,Environmental Engineering,4,2,7,63,7,GSR University
+S0212,Female,19,Civil Engineering,Transportation Engineering,4,2,7,66,7,GSR University
+S0213,Male,23,Civil Engineering,Water Resources Engineering,3,1,14,60,7,GSR University
+S0213,Male,23,Civil Engineering,Transportation Engineering,3,1,14,77,8,GSR University
+S0213,Male,23,Civil Engineering,Environmental Engineering,3,1,14,44,5,GSR University
+S0214,Female,23,Civil Engineering,Water Resources Engineering,2,0,25,59,6,GSR University
+S0214,Female,23,Civil Engineering,Geotechnical Engineering,2,0,25,80,9,GSR University
+S0214,Female,23,Civil Engineering,Environmental Engineering,2,0,25,38,4,GSR University
+S0215,Male,18,Civil Engineering,Geotechnical Engineering,3,2,15,60,7,GSR University
+S0215,Male,18,Civil Engineering,Environmental Engineering,3,2,15,62,7,GSR University
+S0215,Male,18,Civil Engineering,Structural Engineering,3,2,15,36,4,GSR University
+S0216,Female,19,Civil Engineering,Environmental Engineering,2,2,8,47,5,GSR University
+S0216,Female,19,Civil Engineering,Geotechnical Engineering,2,2,8,43,5,GSR University
+S0216,Female,19,Civil Engineering,Transportation Engineering,2,2,8,87,9,GSR University
+S0217,Male,22,Civil Engineering,Transportation Engineering,1,2,3,38,4,GSR University
+S0217,Male,22,Civil Engineering,Environmental Engineering,1,2,3,72,8,GSR University
+S0217,Male,22,Civil Engineering,Water Resources Engineering,1,2,3,53,6,GSR University
+S0218,Female,23,Civil Engineering,Geotechnical Engineering,2,0,8,58,6,GSR University
+S0218,Female,23,Civil Engineering,Transportation Engineering,2,0,8,88,9,GSR University
+S0218,Female,23,Civil Engineering,Water Resources Engineering,2,0,8,41,5,GSR University
+S0219,Male,18,Civil Engineering,Water Resources Engineering,3,0,11,53,6,GSR University
+S0219,Male,18,Civil Engineering,Structural Engineering,3,0,11,94,10,GSR University
+S0219,Male,18,Civil Engineering,Transportation Engineering,3,0,11,63,7,GSR University
+S0220,Male,18,Civil Engineering,Environmental Engineering,1,0,2,69,7,GSR University
+S0220,Male,18,Civil Engineering,Structural Engineering,1,0,2,42,5,GSR University
+S0220,Male,18,Civil Engineering,Water Resources Engineering,1,0,2,80,9,GSR University
+S0221,Female,23,Civil Engineering,Transportation Engineering,2,1,8,82,9,GSR University
+S0221,Female,23,Civil Engineering,Water Resources Engineering,2,1,8,36,4,GSR University
+S0221,Female,23,Civil Engineering,Geotechnical Engineering,2,1,8,40,5,GSR University
+S0222,Male,21,Civil Engineering,Water Resources Engineering,1,1,24,71,8,GSR University
+S0222,Male,21,Civil Engineering,Environmental Engineering,1,1,24,49,5,GSR University
+S0222,Male,21,Civil Engineering,Geotechnical Engineering,1,1,24,78,8,GSR University
+S0223,Male,21,Civil Engineering,Water Resources Engineering,3,2,5,79,8,GSR University
+S0223,Male,21,Civil Engineering,Structural Engineering,3,2,5,55,6,GSR University
+S0223,Male,21,Civil Engineering,Environmental Engineering,3,2,5,57,6,GSR University
+S0224,Male,20,Civil Engineering,Water Resources Engineering,4,2,20,45,5,GSR University
+S0224,Male,20,Civil Engineering,Geotechnical Engineering,4,2,20,85,9,GSR University
+S0224,Male,20,Civil Engineering,Structural Engineering,4,2,20,49,5,GSR University
+S0225,Male,21,Civil Engineering,Environmental Engineering,1,1,18,82,9,GSR University
+S0225,Male,21,Civil Engineering,Transportation Engineering,1,1,18,87,9,GSR University
+S0225,Male,21,Civil Engineering,Structural Engineering,1,1,18,86,9,GSR University
+S0226,Male,23,Civil Engineering,Structural Engineering,1,2,27,64,7,GSR University
+S0226,Male,23,Civil Engineering,Water Resources Engineering,1,2,27,52,6,GSR University
+S0226,Male,23,Civil Engineering,Geotechnical Engineering,1,2,27,36,4,GSR University
+S0227,Male,18,Civil Engineering,Structural Engineering,4,1,24,44,5,GSR University
+S0227,Male,18,Civil Engineering,Geotechnical Engineering,4,1,24,73,8,GSR University
+S0227,Male,18,Civil Engineering,Transportation Engineering,4,1,24,47,5,GSR University
+S0228,Male,24,Civil Engineering,Environmental Engineering,3,0,9,88,9,GSR University
+S0228,Male,24,Civil Engineering,Structural Engineering,3,0,9,35,4,GSR University
+S0228,Male,24,Civil Engineering,Transportation Engineering,3,0,9,78,8,GSR University
+S0229,Female,22,Civil Engineering,Environmental Engineering,3,2,12,43,5,GSR University
+S0229,Female,22,Civil Engineering,Transportation Engineering,3,2,12,49,5,GSR University
+S0229,Female,22,Civil Engineering,Structural Engineering,3,2,12,44,5,GSR University
+S0230,Male,19,Civil Engineering,Transportation Engineering,1,1,7,38,4,GSR University
+S0230,Male,19,Civil Engineering,Water Resources Engineering,1,1,7,84,9,GSR University
+S0230,Male,19,Civil Engineering,Environmental Engineering,1,1,7,58,6,GSR University
+S0231,Female,20,Civil Engineering,Water Resources Engineering,4,2,9,44,5,GSR University
+S0231,Female,20,Civil Engineering,Transportation Engineering,4,2,9,67,7,GSR University
+S0231,Female,20,Civil Engineering,Environmental Engineering,4,2,9,89,9,GSR University
+S0232,Male,19,Civil Engineering,Water Resources Engineering,3,0,2,55,6,GSR University
+S0232,Male,19,Civil Engineering,Environmental Engineering,3,0,2,51,6,GSR University
+S0232,Male,19,Civil Engineering,Structural Engineering,3,0,2,56,6,GSR University
+S0233,Male,22,Civil Engineering,Environmental Engineering,3,2,10,91,10,GSR University
+S0233,Male,22,Civil Engineering,Transportation Engineering,3,2,10,59,6,GSR University
+S0233,Male,22,Civil Engineering,Water Resources Engineering,3,2,10,36,4,GSR University
+S0234,Male,20,Civil Engineering,Transportation Engineering,1,1,2,75,8,GSR University
+S0234,Male,20,Civil Engineering,Environmental Engineering,1,1,2,83,9,GSR University
+S0234,Male,20,Civil Engineering,Structural Engineering,1,1,2,45,5,GSR University
+S0235,Female,24,Civil Engineering,Structural Engineering,4,1,18,66,7,GSR University
+S0235,Female,24,Civil Engineering,Environmental Engineering,4,1,18,73,8,GSR University
+S0235,Female,24,Civil Engineering,Water Resources Engineering,4,1,18,79,8,GSR University
+S0236,Female,23,Civil Engineering,Water Resources Engineering,4,0,0,67,7,GSR University
+S0236,Female,23,Civil Engineering,Geotechnical Engineering,4,0,0,93,10,GSR University
+S0236,Female,23,Civil Engineering,Structural Engineering,4,0,0,40,5,GSR University
+S0237,Male,18,Civil Engineering,Environmental Engineering,4,0,16,61,7,GSR University
+S0237,Male,18,Civil Engineering,Water Resources Engineering,4,0,16,66,7,GSR University
+S0237,Male,18,Civil Engineering,Structural Engineering,4,0,16,55,6,GSR University
+S0238,Female,23,Civil Engineering,Environmental Engineering,2,2,21,56,6,GSR University
+S0238,Female,23,Civil Engineering,Water Resources Engineering,2,2,21,40,5,GSR University
+S0238,Female,23,Civil Engineering,Geotechnical Engineering,2,2,21,36,4,GSR University
+S0239,Female,24,Civil Engineering,Structural Engineering,2,1,16,86,9,GSR University
+S0239,Female,24,Civil Engineering,Transportation Engineering,2,1,16,42,5,GSR University
+S0239,Female,24,Civil Engineering,Water Resources Engineering,2,1,16,56,6,GSR University
+S0240,Female,21,Civil Engineering,Geotechnical Engineering,4,0,12,89,9,GSR University
+S0240,Female,21,Civil Engineering,Structural Engineering,4,0,12,50,6,GSR University
+S0240,Female,21,Civil Engineering,Transportation Engineering,4,0,12,76,8,GSR University
+S0241,Female,23,Civil Engineering,Water Resources Engineering,1,2,15,64,7,GSR University
+S0241,Female,23,Civil Engineering,Geotechnical Engineering,1,2,15,79,8,GSR University
+S0241,Female,23,Civil Engineering,Environmental Engineering,1,2,15,57,6,GSR University
+S0242,Male,21,Civil Engineering,Geotechnical Engineering,4,1,4,64,7,GSR University
+S0242,Male,21,Civil Engineering,Environmental Engineering,4,1,4,55,6,GSR University
+S0242,Male,21,Civil Engineering,Structural Engineering,4,1,4,54,6,GSR University
+S0243,Female,23,Civil Engineering,Structural Engineering,2,2,0,68,7,GSR University
+S0243,Female,23,Civil Engineering,Environmental Engineering,2,2,0,48,5,GSR University
+S0243,Female,23,Civil Engineering,Geotechnical Engineering,2,2,0,70,8,GSR University
+S0244,Male,18,Civil Engineering,Environmental Engineering,2,0,1,91,10,GSR University
+S0244,Male,18,Civil Engineering,Transportation Engineering,2,0,1,43,5,GSR University
+S0244,Male,18,Civil Engineering,Geotechnical Engineering,2,0,1,35,4,GSR University
+S0245,Male,20,Civil Engineering,Environmental Engineering,4,1,22,40,5,GSR University
+S0245,Male,20,Civil Engineering,Structural Engineering,4,1,22,69,7,GSR University
+S0245,Male,20,Civil Engineering,Water Resources Engineering,4,1,22,56,6,GSR University
+S0246,Male,20,Civil Engineering,Water Resources Engineering,2,0,19,76,8,GSR University
+S0246,Male,20,Civil Engineering,Structural Engineering,2,0,19,72,8,GSR University
+S0246,Male,20,Civil Engineering,Environmental Engineering,2,0,19,52,6,GSR University
+S0247,Male,22,Civil Engineering,Structural Engineering,2,1,29,48,5,GSR University
+S0247,Male,22,Civil Engineering,Geotechnical Engineering,2,1,29,43,5,GSR University
+S0247,Male,22,Civil Engineering,Water Resources Engineering,2,1,29,49,5,GSR University
+S0248,Male,22,Civil Engineering,Structural Engineering,2,2,1,52,6,GSR University
+S0248,Male,22,Civil Engineering,Water Resources Engineering,2,2,1,44,5,GSR University
+S0248,Male,22,Civil Engineering,Transportation Engineering,2,2,1,59,6,GSR University
+S0249,Male,19,Civil Engineering,Water Resources Engineering,1,1,0,80,9,GSR University
+S0249,Male,19,Civil Engineering,Structural Engineering,1,1,0,50,6,GSR University
+S0249,Male,19,Civil Engineering,Geotechnical Engineering,1,1,0,88,9,GSR University
+S0250,Male,23,Civil Engineering,Transportation Engineering,4,2,2,87,9,GSR University
+S0250,Male,23,Civil Engineering,Environmental Engineering,4,2,2,68,7,GSR University
+S0250,Male,23,Civil Engineering,Water Resources Engineering,4,2,2,42,5,GSR University
+S0251,Female,22,Civil Engineering,Geotechnical Engineering,4,0,14,48,5,GSR University
+S0251,Female,22,Civil Engineering,Environmental Engineering,4,0,14,54,6,GSR University
+S0251,Female,22,Civil Engineering,Water Resources Engineering,4,0,14,52,6,GSR University
+S0252,Female,22,Civil Engineering,Structural Engineering,3,1,28,57,6,GSR University
+S0252,Female,22,Civil Engineering,Water Resources Engineering,3,1,28,53,6,GSR University
+S0252,Female,22,Civil Engineering,Transportation Engineering,3,1,28,65,7,GSR University
+S0253,Male,20,Civil Engineering,Environmental Engineering,3,1,9,84,9,GSR University
+S0253,Male,20,Civil Engineering,Water Resources Engineering,3,1,9,65,7,GSR University
+S0253,Male,20,Civil Engineering,Transportation Engineering,3,1,9,90,10,GSR University
+S0254,Male,24,Civil Engineering,Water Resources Engineering,3,2,8,80,9,GSR University
+S0254,Male,24,Civil Engineering,Geotechnical Engineering,3,2,8,85,9,GSR University
+S0254,Male,24,Civil Engineering,Transportation Engineering,3,2,8,41,5,GSR University
+S0255,Male,21,Civil Engineering,Transportation Engineering,4,2,7,86,9,GSR University
+S0255,Male,21,Civil Engineering,Geotechnical Engineering,4,2,7,63,7,GSR University
+S0255,Male,21,Civil Engineering,Environmental Engineering,4,2,7,86,9,GSR University
+S0256,Female,21,Civil Engineering,Structural Engineering,2,2,17,69,7,GSR University
+S0256,Female,21,Civil Engineering,Geotechnical Engineering,2,2,17,41,5,GSR University
+S0256,Female,21,Civil Engineering,Environmental Engineering,2,2,17,61,7,GSR University
+S0257,Female,21,Civil Engineering,Environmental Engineering,2,2,4,89,9,GSR University
+S0257,Female,21,Civil Engineering,Transportation Engineering,2,2,4,36,4,GSR University
+S0257,Female,21,Civil Engineering,Structural Engineering,2,2,4,61,7,GSR University
+S0258,Female,22,Civil Engineering,Structural Engineering,2,2,20,73,8,GSR University
+S0258,Female,22,Civil Engineering,Transportation Engineering,2,2,20,39,4,GSR University
+S0258,Female,22,Civil Engineering,Water Resources Engineering,2,2,20,35,4,GSR University
+S0259,Male,22,Civil Engineering,Environmental Engineering,2,1,12,79,8,GSR University
+S0259,Male,22,Civil Engineering,Transportation Engineering,2,1,12,66,7,GSR University
+S0259,Male,22,Civil Engineering,Geotechnical Engineering,2,1,12,70,8,GSR University
+S0260,Male,18,Civil Engineering,Geotechnical Engineering,1,2,20,60,7,GSR University
+S0260,Male,18,Civil Engineering,Structural Engineering,1,2,20,38,4,GSR University
+S0260,Male,18,Civil Engineering,Environmental Engineering,1,2,20,68,7,GSR University
+S0261,Female,21,Civil Engineering,Water Resources Engineering,4,1,7,63,7,GSR University
+S0261,Female,21,Civil Engineering,Geotechnical Engineering,4,1,7,72,8,GSR University
+S0261,Female,21,Civil Engineering,Transportation Engineering,4,1,7,76,8,GSR University
+S0262,Female,22,Civil Engineering,Geotechnical Engineering,1,0,8,35,4,GSR University
+S0262,Female,22,Civil Engineering,Environmental Engineering,1,0,8,36,4,GSR University
+S0262,Female,22,Civil Engineering,Water Resources Engineering,1,0,8,94,10,GSR University
+S0263,Male,22,Civil Engineering,Environmental Engineering,2,1,25,45,5,GSR University
+S0263,Male,22,Civil Engineering,Geotechnical Engineering,2,1,25,89,9,GSR University
+S0263,Male,22,Civil Engineering,Structural Engineering,2,1,25,68,7,GSR University
+S0264,Female,20,Civil Engineering,Water Resources Engineering,4,0,14,79,8,GSR University
+S0264,Female,20,Civil Engineering,Geotechnical Engineering,4,0,14,53,6,GSR University
+S0264,Female,20,Civil Engineering,Environmental Engineering,4,0,14,39,4,GSR University
+S0265,Male,21,Civil Engineering,Geotechnical Engineering,3,0,7,77,8,GSR University
+S0265,Male,21,Civil Engineering,Environmental Engineering,3,0,7,35,4,GSR University
+S0265,Male,21,Civil Engineering,Structural Engineering,3,0,7,79,8,GSR University
+S0266,Female,20,Civil Engineering,Environmental Engineering,3,0,4,80,9,GSR University
+S0266,Female,20,Civil Engineering,Water Resources Engineering,3,0,4,70,8,GSR University
+S0266,Female,20,Civil Engineering,Geotechnical Engineering,3,0,4,45,5,GSR University
+S0267,Male,21,Civil Engineering,Structural Engineering,3,2,18,39,4,GSR University
+S0267,Male,21,Civil Engineering,Geotechnical Engineering,3,2,18,39,4,GSR University
+S0267,Male,21,Civil Engineering,Water Resources Engineering,3,2,18,64,7,GSR University
+S0268,Female,23,Civil Engineering,Water Resources Engineering,4,1,5,74,8,GSR University
+S0268,Female,23,Civil Engineering,Geotechnical Engineering,4,1,5,59,6,GSR University
+S0268,Female,23,Civil Engineering,Environmental Engineering,4,1,5,43,5,GSR University
+S0269,Male,19,Civil Engineering,Environmental Engineering,2,2,16,75,8,GSR University
+S0269,Male,19,Civil Engineering,Structural Engineering,2,2,16,59,6,GSR University
+S0269,Male,19,Civil Engineering,Water Resources Engineering,2,2,16,92,10,GSR University
+S0270,Female,24,Civil Engineering,Structural Engineering,3,1,9,36,4,GSR University
+S0270,Female,24,Civil Engineering,Geotechnical Engineering,3,1,9,88,9,GSR University
+S0270,Female,24,Civil Engineering,Environmental Engineering,3,1,9,47,5,GSR University
+S0271,Female,22,Civil Engineering,Transportation Engineering,3,1,10,52,6,GSR University
+S0271,Female,22,Civil Engineering,Water Resources Engineering,3,1,10,89,9,GSR University
+S0271,Female,22,Civil Engineering,Structural Engineering,3,1,10,43,5,GSR University
+S0272,Female,18,Civil Engineering,Transportation Engineering,3,1,27,86,9,GSR University
+S0272,Female,18,Civil Engineering,Environmental Engineering,3,1,27,64,7,GSR University
+S0272,Female,18,Civil Engineering,Water Resources Engineering,3,1,27,54,6,GSR University
+S0273,Female,22,Civil Engineering,Geotechnical Engineering,4,2,13,92,10,GSR University
+S0273,Female,22,Civil Engineering,Environmental Engineering,4,2,13,66,7,GSR University
+S0273,Female,22,Civil Engineering,Water Resources Engineering,4,2,13,64,7,GSR University
+S0274,Male,24,Civil Engineering,Environmental Engineering,1,0,14,55,6,GSR University
+S0274,Male,24,Civil Engineering,Water Resources Engineering,1,0,14,42,5,GSR University
+S0274,Male,24,Civil Engineering,Transportation Engineering,1,0,14,80,9,GSR University
+S0275,Male,23,Civil Engineering,Transportation Engineering,3,2,21,63,7,GSR University
+S0275,Male,23,Civil Engineering,Water Resources Engineering,3,2,21,47,5,GSR University
+S0275,Male,23,Civil Engineering,Geotechnical Engineering,3,2,21,52,6,GSR University
+S0276,Male,19,Civil Engineering,Transportation Engineering,1,2,19,85,9,GSR University
+S0276,Male,19,Civil Engineering,Structural Engineering,1,2,19,57,6,GSR University
+S0276,Male,19,Civil Engineering,Water Resources Engineering,1,2,19,58,6,GSR University
+S0277,Male,21,Civil Engineering,Geotechnical Engineering,2,2,4,88,9,GSR University
+S0277,Male,21,Civil Engineering,Transportation Engineering,2,2,4,53,6,GSR University
+S0277,Male,21,Civil Engineering,Environmental Engineering,2,2,4,57,6,GSR University
+S0278,Female,22,Civil Engineering,Structural Engineering,3,2,24,50,6,GSR University
+S0278,Female,22,Civil Engineering,Transportation Engineering,3,2,24,42,5,GSR University
+S0278,Female,22,Civil Engineering,Geotechnical Engineering,3,2,24,35,4,GSR University
+S0279,Male,21,Civil Engineering,Structural Engineering,3,0,3,77,8,GSR University
+S0279,Male,21,Civil Engineering,Water Resources Engineering,3,0,3,59,6,GSR University
+S0279,Male,21,Civil Engineering,Geotechnical Engineering,3,0,3,44,5,GSR University
+S0280,Female,22,Civil Engineering,Water Resources Engineering,2,2,26,47,5,GSR University
+S0280,Female,22,Civil Engineering,Transportation Engineering,2,2,26,43,5,GSR University
+S0280,Female,22,Civil Engineering,Structural Engineering,2,2,26,86,9,GSR University
+S0281,Female,21,Civil Engineering,Water Resources Engineering,2,1,25,91,10,GSR University
+S0281,Female,21,Civil Engineering,Environmental Engineering,2,1,25,68,7,GSR University
+S0281,Female,21,Civil Engineering,Geotechnical Engineering,2,1,25,87,9,GSR University
+S0282,Female,18,Civil Engineering,Transportation Engineering,3,2,22,81,9,GSR University
+S0282,Female,18,Civil Engineering,Water Resources Engineering,3,2,22,38,4,GSR University
+S0282,Female,18,Civil Engineering,Geotechnical Engineering,3,2,22,54,6,GSR University
+S0283,Female,19,Civil Engineering,Environmental Engineering,2,2,25,74,8,GSR University
+S0283,Female,19,Civil Engineering,Transportation Engineering,2,2,25,73,8,GSR University
+S0283,Female,19,Civil Engineering,Structural Engineering,2,2,25,55,6,GSR University
+S0284,Female,19,Civil Engineering,Geotechnical Engineering,2,0,12,38,4,GSR University
+S0284,Female,19,Civil Engineering,Water Resources Engineering,2,0,12,63,7,GSR University
+S0284,Female,19,Civil Engineering,Environmental Engineering,2,0,12,48,5,GSR University
+S0285,Female,20,Civil Engineering,Structural Engineering,1,1,22,68,7,GSR University
+S0285,Female,20,Civil Engineering,Environmental Engineering,1,1,22,64,7,GSR University
+S0285,Female,20,Civil Engineering,Geotechnical Engineering,1,1,22,52,6,GSR University
+S0286,Male,20,Civil Engineering,Water Resources Engineering,4,2,16,64,7,GSR University
+S0286,Male,20,Civil Engineering,Transportation Engineering,4,2,16,92,10,GSR University
+S0286,Male,20,Civil Engineering,Structural Engineering,4,2,16,72,8,GSR University
+S0287,Male,22,Civil Engineering,Environmental Engineering,4,2,15,83,9,GSR University
+S0287,Male,22,Civil Engineering,Structural Engineering,4,2,15,89,9,GSR University
+S0287,Male,22,Civil Engineering,Geotechnical Engineering,4,2,15,67,7,GSR University
+S0288,Male,19,Civil Engineering,Geotechnical Engineering,4,0,26,91,10,GSR University
+S0288,Male,19,Civil Engineering,Structural Engineering,4,0,26,94,10,GSR University
+S0288,Male,19,Civil Engineering,Water Resources Engineering,4,0,26,88,9,GSR University
+S0289,Male,22,Civil Engineering,Geotechnical Engineering,1,1,3,49,5,GSR University
+S0289,Male,22,Civil Engineering,Structural Engineering,1,1,3,40,5,GSR University
+S0289,Male,22,Civil Engineering,Environmental Engineering,1,1,3,81,9,GSR University
+S0290,Female,23,Civil Engineering,Water Resources Engineering,3,2,8,86,9,GSR University
+S0290,Female,23,Civil Engineering,Environmental Engineering,3,2,8,44,5,GSR University
+S0290,Female,23,Civil Engineering,Structural Engineering,3,2,8,84,9,GSR University
+S0291,Male,20,Civil Engineering,Transportation Engineering,3,0,29,79,8,GSR University
+S0291,Male,20,Civil Engineering,Environmental Engineering,3,0,29,85,9,GSR University
+S0291,Male,20,Civil Engineering,Structural Engineering,3,0,29,87,9,GSR University
+S0292,Female,20,Civil Engineering,Water Resources Engineering,3,1,25,71,8,GSR University
+S0292,Female,20,Civil Engineering,Geotechnical Engineering,3,1,25,54,6,GSR University
+S0292,Female,20,Civil Engineering,Transportation Engineering,3,1,25,83,9,GSR University
+S0293,Female,22,Civil Engineering,Environmental Engineering,4,0,3,73,8,GSR University
+S0293,Female,22,Civil Engineering,Structural Engineering,4,0,3,84,9,GSR University
+S0293,Female,22,Civil Engineering,Water Resources Engineering,4,0,3,69,7,GSR University
+S0294,Female,18,Civil Engineering,Geotechnical Engineering,1,1,8,54,6,GSR University
+S0294,Female,18,Civil Engineering,Environmental Engineering,1,1,8,58,6,GSR University
+S0294,Female,18,Civil Engineering,Structural Engineering,1,1,8,59,6,GSR University
+S0295,Male,21,Civil Engineering,Geotechnical Engineering,2,1,29,62,7,GSR University
+S0295,Male,21,Civil Engineering,Structural Engineering,2,1,29,48,5,GSR University
+S0295,Male,21,Civil Engineering,Water Resources Engineering,2,1,29,90,10,GSR University
+S0296,Female,19,Civil Engineering,Transportation Engineering,4,1,9,43,5,GSR University
+S0296,Female,19,Civil Engineering,Environmental Engineering,4,1,9,79,8,GSR University
+S0296,Female,19,Civil Engineering,Geotechnical Engineering,4,1,9,70,8,GSR University
+S0297,Female,20,Civil Engineering,Environmental Engineering,2,1,10,61,7,GSR University
+S0297,Female,20,Civil Engineering,Transportation Engineering,2,1,10,41,5,GSR University
+S0297,Female,20,Civil Engineering,Geotechnical Engineering,2,1,10,40,5,GSR University
+S0298,Male,24,Civil Engineering,Structural Engineering,2,2,19,90,10,GSR University
+S0298,Male,24,Civil Engineering,Environmental Engineering,2,2,19,48,5,GSR University
+S0298,Male,24,Civil Engineering,Transportation Engineering,2,2,19,91,10,GSR University
+S0299,Female,22,Civil Engineering,Transportation Engineering,1,1,4,58,6,GSR University
+S0299,Female,22,Civil Engineering,Structural Engineering,1,1,4,83,9,GSR University
+S0299,Female,22,Civil Engineering,Geotechnical Engineering,1,1,4,53,6,GSR University
+S0300,Male,20,Civil Engineering,Environmental Engineering,1,0,28,38,4,GSR University
+S0300,Male,20,Civil Engineering,Transportation Engineering,1,0,28,76,8,GSR University
+S0300,Male,20,Civil Engineering,Geotechnical Engineering,1,0,28,91,10,GSR University
+S0301,Female,24,Electrical Engineering,Electromagnetism,3,0,16,68,7,GSR University
+S0301,Female,24,Electrical Engineering,Signals & Systems,3,0,16,62,7,GSR University
+S0301,Female,24,Electrical Engineering,Circuit Theory,3,0,16,92,10,GSR University
+S0302,Male,20,Electrical Engineering,Power Systems,3,1,16,80,9,GSR University
+S0302,Male,20,Electrical Engineering,Signals & Systems,3,1,16,40,5,GSR University
+S0302,Male,20,Electrical Engineering,Electromagnetism,3,1,16,68,7,GSR University
+S0303,Female,18,Electrical Engineering,Signals & Systems,1,0,1,44,5,GSR University
+S0303,Female,18,Electrical Engineering,Power Systems,1,0,1,68,7,GSR University
+S0303,Female,18,Electrical Engineering,Circuit Theory,1,0,1,50,6,GSR University
+S0304,Male,20,Electrical Engineering,Circuit Theory,3,1,11,72,8,GSR University
+S0304,Male,20,Electrical Engineering,Electromagnetism,3,1,11,94,10,GSR University
+S0304,Male,20,Electrical Engineering,Signals & Systems,3,1,11,93,10,GSR University
+S0305,Male,19,Electrical Engineering,Electromagnetism,4,2,16,54,6,GSR University
+S0305,Male,19,Electrical Engineering,Circuit Theory,4,2,16,60,7,GSR University
+S0305,Male,19,Electrical Engineering,Signals & Systems,4,2,16,38,4,GSR University
+S0306,Female,23,Electrical Engineering,Electromagnetism,2,2,23,56,6,GSR University
+S0306,Female,23,Electrical Engineering,Signals & Systems,2,2,23,86,9,GSR University
+S0306,Female,23,Electrical Engineering,Circuit Theory,2,2,23,62,7,GSR University
+S0307,Male,23,Electrical Engineering,Signals & Systems,1,0,7,36,4,GSR University
+S0307,Male,23,Electrical Engineering,Circuit Theory,1,0,7,59,6,GSR University
+S0307,Male,23,Electrical Engineering,Power Systems,1,0,7,90,10,GSR University
+S0308,Male,23,Electrical Engineering,Circuit Theory,4,0,9,73,8,GSR University
+S0308,Male,23,Electrical Engineering,Electromagnetism,4,0,9,86,9,GSR University
+S0308,Male,23,Electrical Engineering,Signals & Systems,4,0,9,57,6,GSR University
+S0309,Male,18,Electrical Engineering,Electromagnetism,2,2,18,90,10,GSR University
+S0309,Male,18,Electrical Engineering,Power Systems,2,2,18,46,5,GSR University
+S0309,Male,18,Electrical Engineering,Signals & Systems,2,2,18,44,5,GSR University
+S0310,Female,21,Electrical Engineering,Electromagnetism,1,0,20,81,9,GSR University
+S0310,Female,21,Electrical Engineering,Circuit Theory,1,0,20,49,5,GSR University
+S0310,Female,21,Electrical Engineering,Signals & Systems,1,0,20,82,9,GSR University
+S0311,Female,23,Electrical Engineering,Circuit Theory,2,1,27,36,4,GSR University
+S0311,Female,23,Electrical Engineering,Signals & Systems,2,1,27,41,5,GSR University
+S0311,Female,23,Electrical Engineering,Electromagnetism,2,1,27,50,6,GSR University
+S0312,Male,20,Electrical Engineering,Power Systems,3,2,17,62,7,GSR University
+S0312,Male,20,Electrical Engineering,Circuit Theory,3,2,17,35,4,GSR University
+S0312,Male,20,Electrical Engineering,Electromagnetism,3,2,17,89,9,GSR University
+S0313,Female,22,Electrical Engineering,Circuit Theory,4,2,4,80,9,GSR University
+S0313,Female,22,Electrical Engineering,Signals & Systems,4,2,4,88,9,GSR University
+S0313,Female,22,Electrical Engineering,Electromagnetism,4,2,4,53,6,GSR University
+S0314,Female,18,Electrical Engineering,Electromagnetism,3,1,22,79,8,GSR University
+S0314,Female,18,Electrical Engineering,Signals & Systems,3,1,22,89,9,GSR University
+S0314,Female,18,Electrical Engineering,Circuit Theory,3,1,22,87,9,GSR University
+S0315,Female,22,Electrical Engineering,Circuit Theory,1,1,3,65,7,GSR University
+S0315,Female,22,Electrical Engineering,Signals & Systems,1,1,3,93,10,GSR University
+S0315,Female,22,Electrical Engineering,Electromagnetism,1,1,3,89,9,GSR University
+S0316,Male,20,Electrical Engineering,Signals & Systems,1,2,0,68,7,GSR University
+S0316,Male,20,Electrical Engineering,Electromagnetism,1,2,0,60,7,GSR University
+S0316,Male,20,Electrical Engineering,Circuit Theory,1,2,0,39,4,GSR University
+S0317,Male,20,Electrical Engineering,Circuit Theory,4,0,8,40,5,GSR University
+S0317,Male,20,Electrical Engineering,Signals & Systems,4,0,8,53,6,GSR University
+S0317,Male,20,Electrical Engineering,Electromagnetism,4,0,8,94,10,GSR University
+S0318,Male,21,Electrical Engineering,Electromagnetism,3,1,14,58,6,GSR University
+S0318,Male,21,Electrical Engineering,Signals & Systems,3,1,14,68,7,GSR University
+S0318,Male,21,Electrical Engineering,Circuit Theory,3,1,14,56,6,GSR University
+S0319,Female,20,Electrical Engineering,Signals & Systems,4,1,25,90,10,GSR University
+S0319,Female,20,Electrical Engineering,Electromagnetism,4,1,25,60,7,GSR University
+S0319,Female,20,Electrical Engineering,Circuit Theory,4,1,25,67,7,GSR University
+S0320,Male,22,Electrical Engineering,Circuit Theory,4,1,8,92,10,GSR University
+S0320,Male,22,Electrical Engineering,Electromagnetism,4,1,8,45,5,GSR University
+S0320,Male,22,Electrical Engineering,Power Systems,4,1,8,91,10,GSR University
+S0321,Female,24,Electrical Engineering,Power Systems,4,1,16,49,5,GSR University
+S0321,Female,24,Electrical Engineering,Electromagnetism,4,1,16,61,7,GSR University
+S0321,Female,24,Electrical Engineering,Signals & Systems,4,1,16,69,7,GSR University
+S0322,Female,18,Electrical Engineering,Electromagnetism,1,1,1,40,5,GSR University
+S0322,Female,18,Electrical Engineering,Circuit Theory,1,1,1,43,5,GSR University
+S0322,Female,18,Electrical Engineering,Power Systems,1,1,1,54,6,GSR University
+S0323,Male,21,Electrical Engineering,Electromagnetism,4,2,22,38,4,GSR University
+S0323,Male,21,Electrical Engineering,Circuit Theory,4,2,22,92,10,GSR University
+S0323,Male,21,Electrical Engineering,Signals & Systems,4,2,22,59,6,GSR University
+S0324,Female,24,Electrical Engineering,Electromagnetism,3,2,20,87,9,GSR University
+S0324,Female,24,Electrical Engineering,Power Systems,3,2,20,80,9,GSR University
+S0324,Female,24,Electrical Engineering,Circuit Theory,3,2,20,86,9,GSR University
+S0325,Female,23,Electrical Engineering,Power Systems,4,0,6,47,5,GSR University
+S0325,Female,23,Electrical Engineering,Electromagnetism,4,0,6,49,5,GSR University
+S0325,Female,23,Electrical Engineering,Signals & Systems,4,0,6,52,6,GSR University
+S0326,Male,20,Electrical Engineering,Electromagnetism,2,2,26,68,7,GSR University
+S0326,Male,20,Electrical Engineering,Circuit Theory,2,2,26,90,10,GSR University
+S0326,Male,20,Electrical Engineering,Power Systems,2,2,26,80,9,GSR University
+S0327,Female,23,Electrical Engineering,Power Systems,4,0,7,64,7,GSR University
+S0327,Female,23,Electrical Engineering,Circuit Theory,4,0,7,48,5,GSR University
+S0327,Female,23,Electrical Engineering,Signals & Systems,4,0,7,93,10,GSR University
+S0328,Male,21,Electrical Engineering,Circuit Theory,1,1,25,82,9,GSR University
+S0328,Male,21,Electrical Engineering,Power Systems,1,1,25,91,10,GSR University
+S0328,Male,21,Electrical Engineering,Signals & Systems,1,1,25,53,6,GSR University
+S0329,Male,23,Electrical Engineering,Electromagnetism,3,1,18,48,5,GSR University
+S0329,Male,23,Electrical Engineering,Signals & Systems,3,1,18,43,5,GSR University
+S0329,Male,23,Electrical Engineering,Power Systems,3,1,18,93,10,GSR University
+S0330,Male,21,Electrical Engineering,Circuit Theory,1,2,14,72,8,GSR University
+S0330,Male,21,Electrical Engineering,Signals & Systems,1,2,14,87,9,GSR University
+S0330,Male,21,Electrical Engineering,Electromagnetism,1,2,14,70,8,GSR University
+S0331,Female,18,Electrical Engineering,Signals & Systems,1,0,23,45,5,GSR University
+S0331,Female,18,Electrical Engineering,Electromagnetism,1,0,23,87,9,GSR University
+S0331,Female,18,Electrical Engineering,Circuit Theory,1,0,23,69,7,GSR University
+S0332,Male,18,Electrical Engineering,Circuit Theory,2,1,8,62,7,GSR University
+S0332,Male,18,Electrical Engineering,Electromagnetism,2,1,8,42,5,GSR University
+S0332,Male,18,Electrical Engineering,Signals & Systems,2,1,8,36,4,GSR University
+S0333,Male,18,Electrical Engineering,Electromagnetism,2,1,8,89,9,GSR University
+S0333,Male,18,Electrical Engineering,Circuit Theory,2,1,8,50,6,GSR University
+S0333,Male,18,Electrical Engineering,Signals & Systems,2,1,8,63,7,GSR University
+S0334,Male,23,Electrical Engineering,Circuit Theory,4,1,11,80,9,GSR University
+S0334,Male,23,Electrical Engineering,Electromagnetism,4,1,11,84,9,GSR University
+S0334,Male,23,Electrical Engineering,Power Systems,4,1,11,55,6,GSR University
+S0335,Male,24,Electrical Engineering,Electromagnetism,1,0,2,43,5,GSR University
+S0335,Male,24,Electrical Engineering,Signals & Systems,1,0,2,43,5,GSR University
+S0335,Male,24,Electrical Engineering,Circuit Theory,1,0,2,38,4,GSR University
+S0336,Male,20,Electrical Engineering,Electromagnetism,2,0,7,74,8,GSR University
+S0336,Male,20,Electrical Engineering,Power Systems,2,0,7,46,5,GSR University
+S0336,Male,20,Electrical Engineering,Signals & Systems,2,0,7,88,9,GSR University
+S0337,Female,21,Electrical Engineering,Circuit Theory,3,2,8,63,7,GSR University
+S0337,Female,21,Electrical Engineering,Power Systems,3,2,8,56,6,GSR University
+S0337,Female,21,Electrical Engineering,Electromagnetism,3,2,8,74,8,GSR University
+S0338,Male,22,Electrical Engineering,Electromagnetism,2,0,28,62,7,GSR University
+S0338,Male,22,Electrical Engineering,Circuit Theory,2,0,28,62,7,GSR University
+S0338,Male,22,Electrical Engineering,Power Systems,2,0,28,38,4,GSR University
+S0339,Female,23,Electrical Engineering,Circuit Theory,1,2,21,68,7,GSR University
+S0339,Female,23,Electrical Engineering,Signals & Systems,1,2,21,61,7,GSR University
+S0339,Female,23,Electrical Engineering,Electromagnetism,1,2,21,89,9,GSR University
+S0340,Male,18,Electrical Engineering,Signals & Systems,4,2,5,52,6,GSR University
+S0340,Male,18,Electrical Engineering,Circuit Theory,4,2,5,51,6,GSR University
+S0340,Male,18,Electrical Engineering,Power Systems,4,2,5,46,5,GSR University
+S0341,Female,23,Electrical Engineering,Power Systems,3,2,27,63,7,GSR University
+S0341,Female,23,Electrical Engineering,Signals & Systems,3,2,27,79,8,GSR University
+S0341,Female,23,Electrical Engineering,Circuit Theory,3,2,27,83,9,GSR University
+S0342,Female,20,Electrical Engineering,Electromagnetism,2,2,15,72,8,GSR University
+S0342,Female,20,Electrical Engineering,Signals & Systems,2,2,15,83,9,GSR University
+S0342,Female,20,Electrical Engineering,Power Systems,2,2,15,80,9,GSR University
+S0343,Female,18,Electrical Engineering,Signals & Systems,4,2,19,73,8,GSR University
+S0343,Female,18,Electrical Engineering,Electromagnetism,4,2,19,55,6,GSR University
+S0343,Female,18,Electrical Engineering,Circuit Theory,4,2,19,87,9,GSR University
+S0344,Female,18,Electrical Engineering,Signals & Systems,2,1,10,43,5,GSR University
+S0344,Female,18,Electrical Engineering,Circuit Theory,2,1,10,58,6,GSR University
+S0344,Female,18,Electrical Engineering,Power Systems,2,1,10,71,8,GSR University
+S0345,Male,18,Electrical Engineering,Electromagnetism,1,0,18,75,8,GSR University
+S0345,Male,18,Electrical Engineering,Circuit Theory,1,0,18,73,8,GSR University
+S0345,Male,18,Electrical Engineering,Power Systems,1,0,18,47,5,GSR University
+S0346,Female,20,Electrical Engineering,Power Systems,3,2,12,35,4,GSR University
+S0346,Female,20,Electrical Engineering,Circuit Theory,3,2,12,74,8,GSR University
+S0346,Female,20,Electrical Engineering,Electromagnetism,3,2,12,78,8,GSR University
+S0347,Female,20,Electrical Engineering,Signals & Systems,4,0,20,67,7,GSR University
+S0347,Female,20,Electrical Engineering,Electromagnetism,4,0,20,79,8,GSR University
+S0347,Female,20,Electrical Engineering,Power Systems,4,0,20,60,7,GSR University
+S0348,Female,24,Electrical Engineering,Power Systems,2,0,7,57,6,GSR University
+S0348,Female,24,Electrical Engineering,Electromagnetism,2,0,7,64,7,GSR University
+S0348,Female,24,Electrical Engineering,Signals & Systems,2,0,7,79,8,GSR University
+S0349,Male,24,Electrical Engineering,Circuit Theory,1,2,19,38,4,GSR University
+S0349,Male,24,Electrical Engineering,Signals & Systems,1,2,19,64,7,GSR University
+S0349,Male,24,Electrical Engineering,Power Systems,1,2,19,67,7,GSR University
+S0350,Female,24,Electrical Engineering,Electromagnetism,2,0,18,46,5,GSR University
+S0350,Female,24,Electrical Engineering,Power Systems,2,0,18,92,10,GSR University
+S0350,Female,24,Electrical Engineering,Circuit Theory,2,0,18,85,9,GSR University
+S0351,Male,24,Electrical Engineering,Power Systems,3,1,28,85,9,GSR University
+S0351,Male,24,Electrical Engineering,Signals & Systems,3,1,28,45,5,GSR University
+S0351,Male,24,Electrical Engineering,Electromagnetism,3,1,28,47,5,GSR University
+S0352,Female,19,Electrical Engineering,Electromagnetism,2,2,21,62,7,GSR University
+S0352,Female,19,Electrical Engineering,Signals & Systems,2,2,21,37,4,GSR University
+S0352,Female,19,Electrical Engineering,Power Systems,2,2,21,54,6,GSR University
+S0353,Male,23,Electrical Engineering,Circuit Theory,1,1,28,64,7,GSR University
+S0353,Male,23,Electrical Engineering,Power Systems,1,1,28,74,8,GSR University
+S0353,Male,23,Electrical Engineering,Signals & Systems,1,1,28,36,4,GSR University
+S0354,Male,18,Electrical Engineering,Electromagnetism,2,2,10,49,5,GSR University
+S0354,Male,18,Electrical Engineering,Power Systems,2,2,10,60,7,GSR University
+S0354,Male,18,Electrical Engineering,Signals & Systems,2,2,10,71,8,GSR University
+S0355,Female,22,Electrical Engineering,Power Systems,1,2,24,62,7,GSR University
+S0355,Female,22,Electrical Engineering,Electromagnetism,1,2,24,55,6,GSR University
+S0355,Female,22,Electrical Engineering,Circuit Theory,1,2,24,88,9,GSR University
+S0356,Female,20,Electrical Engineering,Electromagnetism,4,2,12,72,8,GSR University
+S0356,Female,20,Electrical Engineering,Power Systems,4,2,12,92,10,GSR University
+S0356,Female,20,Electrical Engineering,Circuit Theory,4,2,12,64,7,GSR University
+S0357,Female,21,Electrical Engineering,Electromagnetism,2,2,2,57,6,GSR University
+S0357,Female,21,Electrical Engineering,Circuit Theory,2,2,2,74,8,GSR University
+S0357,Female,21,Electrical Engineering,Signals & Systems,2,2,2,45,5,GSR University
+S0358,Male,19,Electrical Engineering,Signals & Systems,1,1,3,73,8,GSR University
+S0358,Male,19,Electrical Engineering,Electromagnetism,1,1,3,68,7,GSR University
+S0358,Male,19,Electrical Engineering,Circuit Theory,1,1,3,90,10,GSR University
+S0359,Male,21,Electrical Engineering,Electromagnetism,3,0,23,54,6,GSR University
+S0359,Male,21,Electrical Engineering,Signals & Systems,3,0,23,53,6,GSR University
+S0359,Male,21,Electrical Engineering,Power Systems,3,0,23,63,7,GSR University
+S0360,Female,19,Electrical Engineering,Electromagnetism,2,2,10,45,5,GSR University
+S0360,Female,19,Electrical Engineering,Circuit Theory,2,2,10,83,9,GSR University
+S0360,Female,19,Electrical Engineering,Power Systems,2,2,10,83,9,GSR University
+S0361,Female,23,Electrical Engineering,Signals & Systems,1,1,15,65,7,GSR University
+S0361,Female,23,Electrical Engineering,Circuit Theory,1,1,15,38,4,GSR University
+S0361,Female,23,Electrical Engineering,Electromagnetism,1,1,15,83,9,GSR University
+S0362,Female,22,Electrical Engineering,Electromagnetism,1,1,23,45,5,GSR University
+S0362,Female,22,Electrical Engineering,Circuit Theory,1,1,23,79,8,GSR University
+S0362,Female,22,Electrical Engineering,Signals & Systems,1,1,23,38,4,GSR University
+S0363,Male,19,Electrical Engineering,Circuit Theory,2,1,10,85,9,GSR University
+S0363,Male,19,Electrical Engineering,Electromagnetism,2,1,10,84,9,GSR University
+S0363,Male,19,Electrical Engineering,Signals & Systems,2,1,10,40,5,GSR University
+S0364,Male,20,Electrical Engineering,Signals & Systems,3,0,29,71,8,GSR University
+S0364,Male,20,Electrical Engineering,Power Systems,3,0,29,76,8,GSR University
+S0364,Male,20,Electrical Engineering,Circuit Theory,3,0,29,94,10,GSR University
+S0365,Male,22,Electrical Engineering,Power Systems,3,1,3,63,7,GSR University
+S0365,Male,22,Electrical Engineering,Signals & Systems,3,1,3,47,5,GSR University
+S0365,Male,22,Electrical Engineering,Circuit Theory,3,1,3,93,10,GSR University
+S0366,Female,24,Electrical Engineering,Circuit Theory,4,0,12,39,4,GSR University
+S0366,Female,24,Electrical Engineering,Signals & Systems,4,0,12,71,8,GSR University
+S0366,Female,24,Electrical Engineering,Electromagnetism,4,0,12,75,8,GSR University
+S0367,Male,18,Electrical Engineering,Electromagnetism,2,0,21,85,9,GSR University
+S0367,Male,18,Electrical Engineering,Power Systems,2,0,21,37,4,GSR University
+S0367,Male,18,Electrical Engineering,Signals & Systems,2,0,21,76,8,GSR University
+S0368,Female,19,Electrical Engineering,Signals & Systems,1,2,25,78,8,GSR University
+S0368,Female,19,Electrical Engineering,Electromagnetism,1,2,25,55,6,GSR University
+S0368,Female,19,Electrical Engineering,Power Systems,1,2,25,78,8,GSR University
+S0369,Male,20,Electrical Engineering,Circuit Theory,4,2,0,69,7,GSR University
+S0369,Male,20,Electrical Engineering,Electromagnetism,4,2,0,47,5,GSR University
+S0369,Male,20,Electrical Engineering,Signals & Systems,4,2,0,81,9,GSR University
+S0370,Male,19,Electrical Engineering,Power Systems,4,2,28,52,6,GSR University
+S0370,Male,19,Electrical Engineering,Electromagnetism,4,2,28,74,8,GSR University
+S0370,Male,19,Electrical Engineering,Signals & Systems,4,2,28,56,6,GSR University
+S0371,Female,18,Electrical Engineering,Power Systems,2,2,4,62,7,GSR University
+S0371,Female,18,Electrical Engineering,Electromagnetism,2,2,4,39,4,GSR University
+S0371,Female,18,Electrical Engineering,Circuit Theory,2,2,4,51,6,GSR University
+S0372,Female,22,Electrical Engineering,Signals & Systems,2,2,26,88,9,GSR University
+S0372,Female,22,Electrical Engineering,Power Systems,2,2,26,79,8,GSR University
+S0372,Female,22,Electrical Engineering,Electromagnetism,2,2,26,81,9,GSR University
+S0373,Female,21,Electrical Engineering,Electromagnetism,1,1,10,90,10,GSR University
+S0373,Female,21,Electrical Engineering,Power Systems,1,1,10,54,6,GSR University
+S0373,Female,21,Electrical Engineering,Circuit Theory,1,1,10,75,8,GSR University
+S0374,Female,23,Electrical Engineering,Circuit Theory,4,1,16,82,9,GSR University
+S0374,Female,23,Electrical Engineering,Electromagnetism,4,1,16,78,8,GSR University
+S0374,Female,23,Electrical Engineering,Power Systems,4,1,16,78,8,GSR University
+S0375,Female,21,Electrical Engineering,Signals & Systems,2,2,22,67,7,GSR University
+S0375,Female,21,Electrical Engineering,Circuit Theory,2,2,22,58,6,GSR University
+S0375,Female,21,Electrical Engineering,Power Systems,2,2,22,57,6,GSR University
+S0376,Male,24,Electrical Engineering,Power Systems,3,0,18,87,9,GSR University
+S0376,Male,24,Electrical Engineering,Signals & Systems,3,0,18,48,5,GSR University
+S0376,Male,24,Electrical Engineering,Circuit Theory,3,0,18,61,7,GSR University
+S0377,Female,19,Electrical Engineering,Electromagnetism,3,2,14,69,7,GSR University
+S0377,Female,19,Electrical Engineering,Circuit Theory,3,2,14,82,9,GSR University
+S0377,Female,19,Electrical Engineering,Signals & Systems,3,2,14,43,5,GSR University
+S0378,Male,21,Electrical Engineering,Electromagnetism,1,0,16,72,8,GSR University
+S0378,Male,21,Electrical Engineering,Power Systems,1,0,16,37,4,GSR University
+S0378,Male,21,Electrical Engineering,Signals & Systems,1,0,16,93,10,GSR University
+S0379,Male,22,Electrical Engineering,Circuit Theory,3,1,28,84,9,GSR University
+S0379,Male,22,Electrical Engineering,Electromagnetism,3,1,28,66,7,GSR University
+S0379,Male,22,Electrical Engineering,Power Systems,3,1,28,56,6,GSR University
+S0380,Female,22,Electrical Engineering,Circuit Theory,3,2,21,55,6,GSR University
+S0380,Female,22,Electrical Engineering,Signals & Systems,3,2,21,50,6,GSR University
+S0380,Female,22,Electrical Engineering,Power Systems,3,2,21,46,5,GSR University
+S0381,Male,19,Electrical Engineering,Signals & Systems,4,2,23,81,9,GSR University
+S0381,Male,19,Electrical Engineering,Power Systems,4,2,23,69,7,GSR University
+S0381,Male,19,Electrical Engineering,Circuit Theory,4,2,23,53,6,GSR University
+S0382,Female,19,Electrical Engineering,Power Systems,2,0,7,37,4,GSR University
+S0382,Female,19,Electrical Engineering,Circuit Theory,2,0,7,35,4,GSR University
+S0382,Female,19,Electrical Engineering,Electromagnetism,2,0,7,70,8,GSR University
+S0383,Male,18,Electrical Engineering,Signals & Systems,1,2,4,43,5,GSR University
+S0383,Male,18,Electrical Engineering,Electromagnetism,1,2,4,35,4,GSR University
+S0383,Male,18,Electrical Engineering,Power Systems,1,2,4,70,8,GSR University
+S0384,Female,20,Electrical Engineering,Circuit Theory,3,2,8,38,4,GSR University
+S0384,Female,20,Electrical Engineering,Signals & Systems,3,2,8,64,7,GSR University
+S0384,Female,20,Electrical Engineering,Power Systems,3,2,8,65,7,GSR University
+S0385,Male,23,Electrical Engineering,Electromagnetism,3,2,13,66,7,GSR University
+S0385,Male,23,Electrical Engineering,Signals & Systems,3,2,13,68,7,GSR University
+S0385,Male,23,Electrical Engineering,Circuit Theory,3,2,13,79,8,GSR University
+S0386,Male,22,Electrical Engineering,Power Systems,3,1,15,68,7,GSR University
+S0386,Male,22,Electrical Engineering,Signals & Systems,3,1,15,76,8,GSR University
+S0386,Male,22,Electrical Engineering,Circuit Theory,3,1,15,94,10,GSR University
+S0387,Female,23,Electrical Engineering,Electromagnetism,2,1,25,94,10,GSR University
+S0387,Female,23,Electrical Engineering,Power Systems,2,1,25,68,7,GSR University
+S0387,Female,23,Electrical Engineering,Signals & Systems,2,1,25,73,8,GSR University
+S0388,Female,20,Electrical Engineering,Power Systems,3,1,23,88,9,GSR University
+S0388,Female,20,Electrical Engineering,Circuit Theory,3,1,23,63,7,GSR University
+S0388,Female,20,Electrical Engineering,Signals & Systems,3,1,23,73,8,GSR University
+S0389,Male,22,Electrical Engineering,Power Systems,1,0,8,55,6,GSR University
+S0389,Male,22,Electrical Engineering,Signals & Systems,1,0,8,53,6,GSR University
+S0389,Male,22,Electrical Engineering,Circuit Theory,1,0,8,87,9,GSR University
+S0390,Male,20,Electrical Engineering,Circuit Theory,1,1,16,44,5,GSR University
+S0390,Male,20,Electrical Engineering,Electromagnetism,1,1,16,44,5,GSR University
+S0390,Male,20,Electrical Engineering,Power Systems,1,1,16,70,8,GSR University
+S0391,Female,23,Electrical Engineering,Circuit Theory,4,1,13,87,9,GSR University
+S0391,Female,23,Electrical Engineering,Signals & Systems,4,1,13,58,6,GSR University
+S0391,Female,23,Electrical Engineering,Power Systems,4,1,13,49,5,GSR University
+S0392,Female,23,Electrical Engineering,Circuit Theory,3,0,26,89,9,GSR University
+S0392,Female,23,Electrical Engineering,Power Systems,3,0,26,65,7,GSR University
+S0392,Female,23,Electrical Engineering,Electromagnetism,3,0,26,48,5,GSR University
+S0393,Female,19,Electrical Engineering,Electromagnetism,4,1,10,91,10,GSR University
+S0393,Female,19,Electrical Engineering,Signals & Systems,4,1,10,65,7,GSR University
+S0393,Female,19,Electrical Engineering,Power Systems,4,1,10,83,9,GSR University
+S0394,Male,19,Electrical Engineering,Power Systems,2,1,21,58,6,GSR University
+S0394,Male,19,Electrical Engineering,Signals & Systems,2,1,21,84,9,GSR University
+S0394,Male,19,Electrical Engineering,Circuit Theory,2,1,21,42,5,GSR University
+S0395,Female,18,Electrical Engineering,Electromagnetism,1,0,28,35,4,GSR University
+S0395,Female,18,Electrical Engineering,Circuit Theory,1,0,28,77,8,GSR University
+S0395,Female,18,Electrical Engineering,Signals & Systems,1,0,28,53,6,GSR University
+S0396,Male,18,Electrical Engineering,Electromagnetism,2,1,14,83,9,GSR University
+S0396,Male,18,Electrical Engineering,Power Systems,2,1,14,40,5,GSR University
+S0396,Male,18,Electrical Engineering,Circuit Theory,2,1,14,82,9,GSR University
+S0397,Male,21,Electrical Engineering,Power Systems,1,0,25,67,7,GSR University
+S0397,Male,21,Electrical Engineering,Circuit Theory,1,0,25,94,10,GSR University
+S0397,Male,21,Electrical Engineering,Electromagnetism,1,0,25,61,7,GSR University
+S0398,Female,18,Electrical Engineering,Electromagnetism,3,1,14,77,8,GSR University
+S0398,Female,18,Electrical Engineering,Power Systems,3,1,14,47,5,GSR University
+S0398,Female,18,Electrical Engineering,Circuit Theory,3,1,14,71,8,GSR University
+S0399,Female,18,Electrical Engineering,Electromagnetism,4,2,16,64,7,GSR University
+S0399,Female,18,Electrical Engineering,Circuit Theory,4,2,16,43,5,GSR University
+S0399,Female,18,Electrical Engineering,Signals & Systems,4,2,16,55,6,GSR University
+S0400,Male,21,Electrical Engineering,Signals & Systems,3,0,9,82,9,GSR University
+S0400,Male,21,Electrical Engineering,Electromagnetism,3,0,9,73,8,GSR University
+S0400,Male,21,Electrical Engineering,Power Systems,3,0,9,62,7,GSR University
+S0401,Male,18,Electrical Engineering,Power Systems,3,1,13,41,5,GSR University
+S0401,Male,18,Electrical Engineering,Electromagnetism,3,1,13,75,8,GSR University
+S0401,Male,18,Electrical Engineering,Circuit Theory,3,1,13,47,5,GSR University
+S0402,Male,19,Electrical Engineering,Electromagnetism,1,2,1,72,8,GSR University
+S0402,Male,19,Electrical Engineering,Signals & Systems,1,2,1,45,5,GSR University
+S0402,Male,19,Electrical Engineering,Circuit Theory,1,2,1,88,9,GSR University
+S0403,Male,23,Electrical Engineering,Signals & Systems,4,0,22,43,5,GSR University
+S0403,Male,23,Electrical Engineering,Electromagnetism,4,0,22,58,6,GSR University
+S0403,Male,23,Electrical Engineering,Power Systems,4,0,22,42,5,GSR University
+S0404,Female,24,Electrical Engineering,Signals & Systems,2,2,27,74,8,GSR University
+S0404,Female,24,Electrical Engineering,Power Systems,2,2,27,88,9,GSR University
+S0404,Female,24,Electrical Engineering,Circuit Theory,2,2,27,88,9,GSR University
+S0405,Female,18,Electrical Engineering,Electromagnetism,1,2,2,88,9,GSR University
+S0405,Female,18,Electrical Engineering,Signals & Systems,1,2,2,88,9,GSR University
+S0405,Female,18,Electrical Engineering,Power Systems,1,2,2,44,5,GSR University
+S0406,Female,22,Electrical Engineering,Power Systems,3,0,9,72,8,GSR University
+S0406,Female,22,Electrical Engineering,Signals & Systems,3,0,9,58,6,GSR University
+S0406,Female,22,Electrical Engineering,Circuit Theory,3,0,9,36,4,GSR University
+S0407,Male,23,Electrical Engineering,Electromagnetism,4,1,9,81,9,GSR University
+S0407,Male,23,Electrical Engineering,Power Systems,4,1,9,72,8,GSR University
+S0407,Male,23,Electrical Engineering,Circuit Theory,4,1,9,51,6,GSR University
+S0408,Female,21,Electrical Engineering,Power Systems,4,0,10,60,7,GSR University
+S0408,Female,21,Electrical Engineering,Signals & Systems,4,0,10,72,8,GSR University
+S0408,Female,21,Electrical Engineering,Electromagnetism,4,0,10,35,4,GSR University
+S0409,Male,21,Electrical Engineering,Circuit Theory,4,2,16,61,7,GSR University
+S0409,Male,21,Electrical Engineering,Signals & Systems,4,2,16,88,9,GSR University
+S0409,Male,21,Electrical Engineering,Electromagnetism,4,2,16,87,9,GSR University
+S0410,Male,19,Electrical Engineering,Signals & Systems,3,1,8,41,5,GSR University
+S0410,Male,19,Electrical Engineering,Power Systems,3,1,8,66,7,GSR University
+S0410,Male,19,Electrical Engineering,Circuit Theory,3,1,8,66,7,GSR University
+S0411,Male,22,Electrical Engineering,Power Systems,1,2,25,46,5,GSR University
+S0411,Male,22,Electrical Engineering,Electromagnetism,1,2,25,50,6,GSR University
+S0411,Male,22,Electrical Engineering,Circuit Theory,1,2,25,50,6,GSR University
+S0412,Male,20,Electrical Engineering,Electromagnetism,4,0,6,43,5,GSR University
+S0412,Male,20,Electrical Engineering,Circuit Theory,4,0,6,66,7,GSR University
+S0412,Male,20,Electrical Engineering,Signals & Systems,4,0,6,45,5,GSR University
+S0413,Male,18,Electrical Engineering,Electromagnetism,1,0,21,75,8,GSR University
+S0413,Male,18,Electrical Engineering,Circuit Theory,1,0,21,63,7,GSR University
+S0413,Male,18,Electrical Engineering,Power Systems,1,0,21,68,7,GSR University
+S0414,Female,19,Electrical Engineering,Circuit Theory,1,2,27,60,7,GSR University
+S0414,Female,19,Electrical Engineering,Power Systems,1,2,27,74,8,GSR University
+S0414,Female,19,Electrical Engineering,Electromagnetism,1,2,27,43,5,GSR University
+S0415,Male,24,Electrical Engineering,Power Systems,4,1,10,51,6,GSR University
+S0415,Male,24,Electrical Engineering,Circuit Theory,4,1,10,93,10,GSR University
+S0415,Male,24,Electrical Engineering,Electromagnetism,4,1,10,60,7,GSR University
+S0416,Male,21,Electrical Engineering,Signals & Systems,2,0,25,79,8,GSR University
+S0416,Male,21,Electrical Engineering,Power Systems,2,0,25,53,6,GSR University
+S0416,Male,21,Electrical Engineering,Electromagnetism,2,0,25,45,5,GSR University
+S0417,Male,22,Electrical Engineering,Electromagnetism,4,2,27,83,9,GSR University
+S0417,Male,22,Electrical Engineering,Circuit Theory,4,2,27,81,9,GSR University
+S0417,Male,22,Electrical Engineering,Power Systems,4,2,27,86,9,GSR University
+S0418,Female,23,Electrical Engineering,Power Systems,2,0,14,84,9,GSR University
+S0418,Female,23,Electrical Engineering,Electromagnetism,2,0,14,60,7,GSR University
+S0418,Female,23,Electrical Engineering,Circuit Theory,2,0,14,83,9,GSR University
+S0419,Male,19,Electrical Engineering,Signals & Systems,4,0,10,84,9,GSR University
+S0419,Male,19,Electrical Engineering,Circuit Theory,4,0,10,72,8,GSR University
+S0419,Male,19,Electrical Engineering,Electromagnetism,4,0,10,61,7,GSR University
+S0420,Male,19,Electrical Engineering,Signals & Systems,4,0,25,40,5,GSR University
+S0420,Male,19,Electrical Engineering,Power Systems,4,0,25,72,8,GSR University
+S0420,Male,19,Electrical Engineering,Electromagnetism,4,0,25,56,6,GSR University
+S0421,Female,23,Electrical Engineering,Power Systems,2,1,13,37,4,GSR University
+S0421,Female,23,Electrical Engineering,Electromagnetism,2,1,13,64,7,GSR University
+S0421,Female,23,Electrical Engineering,Signals & Systems,2,1,13,40,5,GSR University
+S0422,Female,22,Electrical Engineering,Electromagnetism,4,0,10,82,9,GSR University
+S0422,Female,22,Electrical Engineering,Signals & Systems,4,0,10,45,5,GSR University
+S0422,Female,22,Electrical Engineering,Circuit Theory,4,0,10,47,5,GSR University
+S0423,Male,19,Electrical Engineering,Circuit Theory,3,1,8,82,9,GSR University
+S0423,Male,19,Electrical Engineering,Electromagnetism,3,1,8,90,10,GSR University
+S0423,Male,19,Electrical Engineering,Signals & Systems,3,1,8,93,10,GSR University
+S0424,Female,19,Electrical Engineering,Signals & Systems,1,2,4,57,6,GSR University
+S0424,Female,19,Electrical Engineering,Power Systems,1,2,4,89,9,GSR University
+S0424,Female,19,Electrical Engineering,Electromagnetism,1,2,4,72,8,GSR University
+S0425,Female,23,Electrical Engineering,Electromagnetism,2,1,3,93,10,GSR University
+S0425,Female,23,Electrical Engineering,Circuit Theory,2,1,3,68,7,GSR University
+S0425,Female,23,Electrical Engineering,Signals & Systems,2,1,3,51,6,GSR University
+S0426,Male,20,Electrical Engineering,Power Systems,1,1,1,42,5,GSR University
+S0426,Male,20,Electrical Engineering,Electromagnetism,1,1,1,64,7,GSR University
+S0426,Male,20,Electrical Engineering,Circuit Theory,1,1,1,66,7,GSR University
+S0427,Male,21,Electrical Engineering,Electromagnetism,2,0,10,54,6,GSR University
+S0427,Male,21,Electrical Engineering,Power Systems,2,0,10,58,6,GSR University
+S0427,Male,21,Electrical Engineering,Circuit Theory,2,0,10,84,9,GSR University
+S0428,Male,23,Electrical Engineering,Signals & Systems,2,0,4,62,7,GSR University
+S0428,Male,23,Electrical Engineering,Power Systems,2,0,4,76,8,GSR University
+S0428,Male,23,Electrical Engineering,Circuit Theory,2,0,4,77,8,GSR University
+S0429,Female,22,Electrical Engineering,Circuit Theory,2,1,22,71,8,GSR University
+S0429,Female,22,Electrical Engineering,Electromagnetism,2,1,22,61,7,GSR University
+S0429,Female,22,Electrical Engineering,Signals & Systems,2,1,22,91,10,GSR University
+S0430,Male,22,Electrical Engineering,Signals & Systems,4,0,12,90,10,GSR University
+S0430,Male,22,Electrical Engineering,Power Systems,4,0,12,89,9,GSR University
+S0430,Male,22,Electrical Engineering,Circuit Theory,4,0,12,61,7,GSR University
+S0431,Male,19,Electrical Engineering,Electromagnetism,1,0,28,54,6,GSR University
+S0431,Male,19,Electrical Engineering,Power Systems,1,0,28,54,6,GSR University
+S0431,Male,19,Electrical Engineering,Circuit Theory,1,0,28,87,9,GSR University
+S0432,Male,23,Electrical Engineering,Circuit Theory,3,0,6,51,6,GSR University
+S0432,Male,23,Electrical Engineering,Power Systems,3,0,6,52,6,GSR University
+S0432,Male,23,Electrical Engineering,Electromagnetism,3,0,6,79,8,GSR University
+S0433,Male,21,Electrical Engineering,Signals & Systems,4,0,26,35,4,GSR University
+S0433,Male,21,Electrical Engineering,Power Systems,4,0,26,92,10,GSR University
+S0433,Male,21,Electrical Engineering,Circuit Theory,4,0,26,60,7,GSR University
+S0434,Female,22,Electrical Engineering,Electromagnetism,4,2,9,75,8,GSR University
+S0434,Female,22,Electrical Engineering,Circuit Theory,4,2,9,39,4,GSR University
+S0434,Female,22,Electrical Engineering,Power Systems,4,2,9,92,10,GSR University
+S0435,Male,18,Electrical Engineering,Electromagnetism,2,1,23,38,4,GSR University
+S0435,Male,18,Electrical Engineering,Signals & Systems,2,1,23,39,4,GSR University
+S0435,Male,18,Electrical Engineering,Power Systems,2,1,23,45,5,GSR University
+S0436,Male,20,Electrical Engineering,Power Systems,3,1,18,41,5,GSR University
+S0436,Male,20,Electrical Engineering,Electromagnetism,3,1,18,81,9,GSR University
+S0436,Male,20,Electrical Engineering,Circuit Theory,3,1,18,89,9,GSR University
+S0437,Female,24,Electrical Engineering,Circuit Theory,4,0,20,54,6,GSR University
+S0437,Female,24,Electrical Engineering,Power Systems,4,0,20,49,5,GSR University
+S0437,Female,24,Electrical Engineering,Signals & Systems,4,0,20,84,9,GSR University
+S0438,Male,21,Electrical Engineering,Circuit Theory,1,0,15,62,7,GSR University
+S0438,Male,21,Electrical Engineering,Electromagnetism,1,0,15,80,9,GSR University
+S0438,Male,21,Electrical Engineering,Power Systems,1,0,15,91,10,GSR University
+S0439,Female,20,Electrical Engineering,Electromagnetism,2,2,2,81,9,GSR University
+S0439,Female,20,Electrical Engineering,Signals & Systems,2,2,2,58,6,GSR University
+S0439,Female,20,Electrical Engineering,Power Systems,2,2,2,61,7,GSR University
+S0440,Male,24,Electrical Engineering,Circuit Theory,4,1,28,37,4,GSR University
+S0440,Male,24,Electrical Engineering,Signals & Systems,4,1,28,68,7,GSR University
+S0440,Male,24,Electrical Engineering,Electromagnetism,4,1,28,91,10,GSR University
+S0441,Male,18,Electrical Engineering,Power Systems,1,2,12,87,9,GSR University
+S0441,Male,18,Electrical Engineering,Electromagnetism,1,2,12,75,8,GSR University
+S0441,Male,18,Electrical Engineering,Signals & Systems,1,2,12,91,10,GSR University
+S0442,Male,22,Electrical Engineering,Signals & Systems,4,1,5,74,8,GSR University
+S0442,Male,22,Electrical Engineering,Electromagnetism,4,1,5,41,5,GSR University
+S0442,Male,22,Electrical Engineering,Power Systems,4,1,5,73,8,GSR University
+S0443,Male,23,Electrical Engineering,Circuit Theory,1,2,18,62,7,GSR University
+S0443,Male,23,Electrical Engineering,Power Systems,1,2,18,46,5,GSR University
+S0443,Male,23,Electrical Engineering,Signals & Systems,1,2,18,72,8,GSR University
+S0444,Male,20,Electrical Engineering,Electromagnetism,4,2,8,92,10,GSR University
+S0444,Male,20,Electrical Engineering,Signals & Systems,4,2,8,84,9,GSR University
+S0444,Male,20,Electrical Engineering,Power Systems,4,2,8,64,7,GSR University
+S0445,Male,23,Electrical Engineering,Signals & Systems,1,2,18,82,9,GSR University
+S0445,Male,23,Electrical Engineering,Power Systems,1,2,18,93,10,GSR University
+S0445,Male,23,Electrical Engineering,Circuit Theory,1,2,18,81,9,GSR University
+S0446,Female,23,Electrical Engineering,Signals & Systems,3,1,20,83,9,GSR University
+S0446,Female,23,Electrical Engineering,Power Systems,3,1,20,50,6,GSR University
+S0446,Female,23,Electrical Engineering,Circuit Theory,3,1,20,93,10,GSR University
+S0447,Male,24,Electrical Engineering,Circuit Theory,2,1,26,43,5,GSR University
+S0447,Male,24,Electrical Engineering,Power Systems,2,1,26,51,6,GSR University
+S0447,Male,24,Electrical Engineering,Signals & Systems,2,1,26,45,5,GSR University
+S0448,Female,19,Electrical Engineering,Electromagnetism,1,0,3,93,10,GSR University
+S0448,Female,19,Electrical Engineering,Circuit Theory,1,0,3,55,6,GSR University
+S0448,Female,19,Electrical Engineering,Signals & Systems,1,0,3,71,8,GSR University
+S0449,Male,23,Electrical Engineering,Electromagnetism,1,2,24,58,6,GSR University
+S0449,Male,23,Electrical Engineering,Power Systems,1,2,24,36,4,GSR University
+S0449,Male,23,Electrical Engineering,Circuit Theory,1,2,24,74,8,GSR University
+S0450,Female,24,Electrical Engineering,Electromagnetism,3,2,5,92,10,GSR University
+S0450,Female,24,Electrical Engineering,Power Systems,3,2,5,73,8,GSR University
+S0450,Female,24,Electrical Engineering,Signals & Systems,3,2,5,91,10,GSR University
+S0451,Female,18,BBA,Business Administration,3,0,28,54,6,GSR University
+S0451,Female,18,BBA,Finance,3,0,28,86,9,GSR University
+S0451,Female,18,BBA,Accounts,3,0,28,87,9,GSR University
+S0452,Male,20,BBA,Accounts,3,0,11,37,4,GSR University
+S0452,Male,20,BBA,Business Administration,3,0,11,60,7,GSR University
+S0452,Male,20,BBA,Economics,3,0,11,49,5,GSR University
+S0453,Female,21,BBA,Economics,4,1,16,48,5,GSR University
+S0453,Female,21,BBA,Accounts,4,1,16,92,10,GSR University
+S0453,Female,21,BBA,Business Administration,4,1,16,67,7,GSR University
+S0454,Female,23,BBA,Business Administration,1,2,3,91,10,GSR University
+S0454,Female,23,BBA,Accounts,1,2,3,67,7,GSR University
+S0454,Female,23,BBA,Digital Marketing,1,2,3,83,9,GSR University
+S0455,Male,20,BBA,Finance,1,0,26,53,6,GSR University
+S0455,Male,20,BBA,Economics,1,0,26,46,5,GSR University
+S0455,Male,20,BBA,Accounts,1,0,26,50,6,GSR University
+S0456,Male,20,BBA,Economics,2,0,19,90,10,GSR University
+S0456,Male,20,BBA,Accounts,2,0,19,56,6,GSR University
+S0456,Male,20,BBA,Finance,2,0,19,85,9,GSR University
+S0457,Male,18,BBA,Business Administration,4,2,13,85,9,GSR University
+S0457,Male,18,BBA,Economics,4,2,13,52,6,GSR University
+S0457,Male,18,BBA,Digital Marketing,4,2,13,86,9,GSR University
+S0458,Male,21,BBA,Business Administration,1,1,20,51,6,GSR University
+S0458,Male,21,BBA,Accounts,1,1,20,40,5,GSR University
+S0458,Male,21,BBA,Digital Marketing,1,1,20,67,7,GSR University
+S0459,Male,22,BBA,Business Administration,4,1,4,82,9,GSR University
+S0459,Male,22,BBA,Digital Marketing,4,1,4,75,8,GSR University
+S0459,Male,22,BBA,Accounts,4,1,4,53,6,GSR University
+S0460,Male,23,BBA,Finance,3,1,29,88,9,GSR University
+S0460,Male,23,BBA,Accounts,3,1,29,41,5,GSR University
+S0460,Male,23,BBA,Digital Marketing,3,1,29,49,5,GSR University
+S0461,Female,24,BBA,Finance,3,2,21,52,6,GSR University
+S0461,Female,24,BBA,Accounts,3,2,21,44,5,GSR University
+S0461,Female,24,BBA,Economics,3,2,21,75,8,GSR University
+S0462,Female,18,BBA,Business Administration,2,1,28,92,10,GSR University
+S0462,Female,18,BBA,Finance,2,1,28,39,4,GSR University
+S0462,Female,18,BBA,Digital Marketing,2,1,28,62,7,GSR University
+S0463,Male,23,BBA,Accounts,1,1,25,83,9,GSR University
+S0463,Male,23,BBA,Finance,1,1,25,46,5,GSR University
+S0463,Male,23,BBA,Digital Marketing,1,1,25,41,5,GSR University
+S0464,Male,20,BBA,Economics,2,1,24,58,6,GSR University
+S0464,Male,20,BBA,Digital Marketing,2,1,24,44,5,GSR University
+S0464,Male,20,BBA,Accounts,2,1,24,72,8,GSR University
+S0465,Female,23,BBA,Business Administration,3,2,6,54,6,GSR University
+S0465,Female,23,BBA,Accounts,3,2,6,61,7,GSR University
+S0465,Female,23,BBA,Digital Marketing,3,2,6,75,8,GSR University
+S0466,Female,23,BBA,Economics,4,2,19,87,9,GSR University
+S0466,Female,23,BBA,Business Administration,4,2,19,68,7,GSR University
+S0466,Female,23,BBA,Accounts,4,2,19,56,6,GSR University
+S0467,Female,20,BBA,Finance,3,2,9,93,10,GSR University
+S0467,Female,20,BBA,Business Administration,3,2,9,70,8,GSR University
+S0467,Female,20,BBA,Accounts,3,2,9,93,10,GSR University
+S0468,Female,21,BBA,Finance,1,0,18,49,5,GSR University
+S0468,Female,21,BBA,Business Administration,1,0,18,93,10,GSR University
+S0468,Female,21,BBA,Digital Marketing,1,0,18,56,6,GSR University
+S0469,Female,20,BBA,Finance,1,2,23,79,8,GSR University
+S0469,Female,20,BBA,Economics,1,2,23,62,7,GSR University
+S0469,Female,20,BBA,Digital Marketing,1,2,23,35,4,GSR University
+S0470,Male,18,BBA,Accounts,4,2,16,44,5,GSR University
+S0470,Male,18,BBA,Digital Marketing,4,2,16,70,8,GSR University
+S0470,Male,18,BBA,Finance,4,2,16,43,5,GSR University
+S0471,Female,22,BBA,Finance,2,1,15,88,9,GSR University
+S0471,Female,22,BBA,Digital Marketing,2,1,15,84,9,GSR University
+S0471,Female,22,BBA,Business Administration,2,1,15,69,7,GSR University
+S0472,Male,21,BBA,Economics,1,2,24,63,7,GSR University
+S0472,Male,21,BBA,Accounts,1,2,24,93,10,GSR University
+S0472,Male,21,BBA,Digital Marketing,1,2,24,43,5,GSR University
+S0473,Female,20,BBA,Business Administration,3,0,10,54,6,GSR University
+S0473,Female,20,BBA,Finance,3,0,10,79,8,GSR University
+S0473,Female,20,BBA,Accounts,3,0,10,74,8,GSR University
+S0474,Male,24,BBA,Accounts,1,2,14,91,10,GSR University
+S0474,Male,24,BBA,Economics,1,2,14,80,9,GSR University
+S0474,Male,24,BBA,Digital Marketing,1,2,14,39,4,GSR University
+S0475,Female,20,BBA,Economics,2,2,28,67,7,GSR University
+S0475,Female,20,BBA,Business Administration,2,2,28,45,5,GSR University
+S0475,Female,20,BBA,Digital Marketing,2,2,28,50,6,GSR University
+S0476,Female,19,BBA,Business Administration,4,2,9,70,8,GSR University
+S0476,Female,19,BBA,Economics,4,2,9,93,10,GSR University
+S0476,Female,19,BBA,Finance,4,2,9,47,5,GSR University
+S0477,Male,23,BBA,Economics,2,1,0,76,8,GSR University
+S0477,Male,23,BBA,Business Administration,2,1,0,51,6,GSR University
+S0477,Male,23,BBA,Digital Marketing,2,1,0,43,5,GSR University
+S0478,Female,22,BBA,Finance,3,0,6,71,8,GSR University
+S0478,Female,22,BBA,Accounts,3,0,6,43,5,GSR University
+S0478,Female,22,BBA,Digital Marketing,3,0,6,52,6,GSR University
+S0479,Male,20,BBA,Economics,2,0,25,74,8,GSR University
+S0479,Male,20,BBA,Business Administration,2,0,25,70,8,GSR University
+S0479,Male,20,BBA,Accounts,2,0,25,84,9,GSR University
+S0480,Male,21,BBA,Economics,1,2,27,45,5,GSR University
+S0480,Male,21,BBA,Business Administration,1,2,27,92,10,GSR University
+S0480,Male,21,BBA,Finance,1,2,27,91,10,GSR University
+S0481,Female,22,BBA,Business Administration,2,2,28,89,9,GSR University
+S0481,Female,22,BBA,Economics,2,2,28,37,4,GSR University
+S0481,Female,22,BBA,Digital Marketing,2,2,28,48,5,GSR University
+S0482,Female,23,BBA,Accounts,1,0,5,83,9,GSR University
+S0482,Female,23,BBA,Finance,1,0,5,44,5,GSR University
+S0482,Female,23,BBA,Economics,1,0,5,62,7,GSR University
+S0483,Female,22,BBA,Economics,3,2,12,39,4,GSR University
+S0483,Female,22,BBA,Accounts,3,2,12,35,4,GSR University
+S0483,Female,22,BBA,Digital Marketing,3,2,12,38,4,GSR University
+S0484,Female,21,BBA,Accounts,3,1,22,92,10,GSR University
+S0484,Female,21,BBA,Finance,3,1,22,86,9,GSR University
+S0484,Female,21,BBA,Business Administration,3,1,22,58,6,GSR University
+S0485,Male,18,BBA,Economics,3,1,22,83,9,GSR University
+S0485,Male,18,BBA,Finance,3,1,22,76,8,GSR University
+S0485,Male,18,BBA,Accounts,3,1,22,92,10,GSR University
+S0486,Female,24,BBA,Finance,1,0,20,79,8,GSR University
+S0486,Female,24,BBA,Business Administration,1,0,20,69,7,GSR University
+S0486,Female,24,BBA,Accounts,1,0,20,73,8,GSR University
+S0487,Male,23,BBA,Digital Marketing,2,0,9,37,4,GSR University
+S0487,Male,23,BBA,Accounts,2,0,9,64,7,GSR University
+S0487,Male,23,BBA,Finance,2,0,9,91,10,GSR University
+S0488,Female,24,BBA,Business Administration,1,0,14,80,9,GSR University
+S0488,Female,24,BBA,Accounts,1,0,14,86,9,GSR University
+S0488,Female,24,BBA,Economics,1,0,14,81,9,GSR University
+S0489,Male,24,BBA,Finance,1,2,7,78,8,GSR University
+S0489,Male,24,BBA,Business Administration,1,2,7,52,6,GSR University
+S0489,Male,24,BBA,Economics,1,2,7,64,7,GSR University
+S0490,Female,23,BBA,Digital Marketing,1,1,16,48,5,GSR University
+S0490,Female,23,BBA,Economics,1,1,16,92,10,GSR University
+S0490,Female,23,BBA,Accounts,1,1,16,44,5,GSR University
+S0491,Female,24,BBA,Economics,3,1,8,73,8,GSR University
+S0491,Female,24,BBA,Digital Marketing,3,1,8,89,9,GSR University
+S0491,Female,24,BBA,Finance,3,1,8,81,9,GSR University
+S0492,Male,23,BBA,Accounts,3,1,14,43,5,GSR University
+S0492,Male,23,BBA,Economics,3,1,14,81,9,GSR University
+S0492,Male,23,BBA,Finance,3,1,14,67,7,GSR University
+S0493,Male,23,BBA,Finance,3,2,9,68,7,GSR University
+S0493,Male,23,BBA,Digital Marketing,3,2,9,85,9,GSR University
+S0493,Male,23,BBA,Business Administration,3,2,9,47,5,GSR University
+S0494,Male,23,BBA,Accounts,2,0,15,63,7,GSR University
+S0494,Male,23,BBA,Finance,2,0,15,73,8,GSR University
+S0494,Male,23,BBA,Economics,2,0,15,58,6,GSR University
+S0495,Male,19,BBA,Digital Marketing,3,0,4,92,10,GSR University
+S0495,Male,19,BBA,Business Administration,3,0,4,83,9,GSR University
+S0495,Male,19,BBA,Finance,3,0,4,73,8,GSR University
+S0496,Male,22,BBA,Accounts,1,1,16,37,4,GSR University
+S0496,Male,22,BBA,Business Administration,1,1,16,49,5,GSR University
+S0496,Male,22,BBA,Digital Marketing,1,1,16,63,7,GSR University
+S0497,Male,22,BBA,Finance,4,1,27,90,10,GSR University
+S0497,Male,22,BBA,Business Administration,4,1,27,35,4,GSR University
+S0497,Male,22,BBA,Digital Marketing,4,1,27,63,7,GSR University
+S0498,Female,18,BBA,Digital Marketing,4,0,18,41,5,GSR University
+S0498,Female,18,BBA,Economics,4,0,18,48,5,GSR University
+S0498,Female,18,BBA,Accounts,4,0,18,63,7,GSR University
+S0499,Male,20,BBA,Business Administration,2,0,12,64,7,GSR University
+S0499,Male,20,BBA,Accounts,2,0,12,91,10,GSR University
+S0499,Male,20,BBA,Economics,2,0,12,74,8,GSR University
+S0500,Male,19,BBA,Digital Marketing,4,1,7,70,8,GSR University
+S0500,Male,19,BBA,Accounts,4,1,7,49,5,GSR University
+S0500,Male,19,BBA,Economics,4,1,7,62,7,GSR University
+S0501,Male,21,BBA,Finance,1,0,17,49,5,GSR University
+S0501,Male,21,BBA,Digital Marketing,1,0,17,54,6,GSR University
+S0501,Male,21,BBA,Business Administration,1,0,17,63,7,GSR University
+S0502,Female,20,BBA,Economics,1,2,18,74,8,GSR University
+S0502,Female,20,BBA,Digital Marketing,1,2,18,93,10,GSR University
+S0502,Female,20,BBA,Business Administration,1,2,18,89,9,GSR University
+S0503,Female,23,BBA,Economics,3,2,25,77,8,GSR University
+S0503,Female,23,BBA,Accounts,3,2,25,36,4,GSR University
+S0503,Female,23,BBA,Digital Marketing,3,2,25,83,9,GSR University
+S0504,Female,18,BBA,Finance,3,1,28,92,10,GSR University
+S0504,Female,18,BBA,Accounts,3,1,28,71,8,GSR University
+S0504,Female,18,BBA,Digital Marketing,3,1,28,82,9,GSR University
+S0505,Female,22,BBA,Accounts,3,1,19,78,8,GSR University
+S0505,Female,22,BBA,Business Administration,3,1,19,63,7,GSR University
+S0505,Female,22,BBA,Digital Marketing,3,1,19,93,10,GSR University
+S0506,Female,24,BBA,Finance,1,2,27,57,6,GSR University
+S0506,Female,24,BBA,Business Administration,1,2,27,65,7,GSR University
+S0506,Female,24,BBA,Economics,1,2,27,37,4,GSR University
+S0507,Female,22,BBA,Economics,2,1,4,46,5,GSR University
+S0507,Female,22,BBA,Finance,2,1,4,76,8,GSR University
+S0507,Female,22,BBA,Business Administration,2,1,4,47,5,GSR University
+S0508,Female,20,BBA,Economics,4,2,24,64,7,GSR University
+S0508,Female,20,BBA,Business Administration,4,2,24,46,5,GSR University
+S0508,Female,20,BBA,Accounts,4,2,24,44,5,GSR University
+S0509,Male,21,BBA,Economics,3,0,25,57,6,GSR University
+S0509,Male,21,BBA,Business Administration,3,0,25,52,6,GSR University
+S0509,Male,21,BBA,Finance,3,0,25,66,7,GSR University
+S0510,Female,18,BBA,Economics,2,1,24,35,4,GSR University
+S0510,Female,18,BBA,Business Administration,2,1,24,64,7,GSR University
+S0510,Female,18,BBA,Digital Marketing,2,1,24,79,8,GSR University
+S0511,Male,21,BBA,Economics,2,1,12,44,5,GSR University
+S0511,Male,21,BBA,Accounts,2,1,12,73,8,GSR University
+S0511,Male,21,BBA,Digital Marketing,2,1,12,87,9,GSR University
+S0512,Male,24,BBA,Finance,4,2,22,46,5,GSR University
+S0512,Male,24,BBA,Digital Marketing,4,2,22,67,7,GSR University
+S0512,Male,24,BBA,Economics,4,2,22,62,7,GSR University
+S0513,Male,18,BBA,Accounts,3,1,5,39,4,GSR University
+S0513,Male,18,BBA,Business Administration,3,1,5,94,10,GSR University
+S0513,Male,18,BBA,Finance,3,1,5,90,10,GSR University
+S0514,Female,23,BBA,Accounts,4,1,24,41,5,GSR University
+S0514,Female,23,BBA,Economics,4,1,24,74,8,GSR University
+S0514,Female,23,BBA,Digital Marketing,4,1,24,47,5,GSR University
+S0515,Female,23,BBA,Economics,2,2,0,61,7,GSR University
+S0515,Female,23,BBA,Finance,2,2,0,54,6,GSR University
+S0515,Female,23,BBA,Accounts,2,2,0,46,5,GSR University
+S0516,Male,20,BBA,Digital Marketing,3,2,28,69,7,GSR University
+S0516,Male,20,BBA,Business Administration,3,2,28,65,7,GSR University
+S0516,Male,20,BBA,Economics,3,2,28,49,5,GSR University
+S0517,Male,22,BBA,Accounts,1,2,19,88,9,GSR University
+S0517,Male,22,BBA,Business Administration,1,2,19,45,5,GSR University
+S0517,Male,22,BBA,Economics,1,2,19,64,7,GSR University
+S0518,Female,24,BBA,Digital Marketing,4,0,2,77,8,GSR University
+S0518,Female,24,BBA,Business Administration,4,0,2,92,10,GSR University
+S0518,Female,24,BBA,Finance,4,0,2,69,7,GSR University
+S0519,Female,20,BBA,Business Administration,1,0,28,63,7,GSR University
+S0519,Female,20,BBA,Digital Marketing,1,0,28,53,6,GSR University
+S0519,Female,20,BBA,Economics,1,0,28,77,8,GSR University
+S0520,Female,19,BBA,Accounts,1,2,24,58,6,GSR University
+S0520,Female,19,BBA,Economics,1,2,24,45,5,GSR University
+S0520,Female,19,BBA,Finance,1,2,24,80,9,GSR University
+S0521,Male,19,BBA,Business Administration,4,0,26,84,9,GSR University
+S0521,Male,19,BBA,Accounts,4,0,26,38,4,GSR University
+S0521,Male,19,BBA,Economics,4,0,26,88,9,GSR University
+S0522,Female,18,BBA,Accounts,4,1,24,52,6,GSR University
+S0522,Female,18,BBA,Economics,4,1,24,61,7,GSR University
+S0522,Female,18,BBA,Digital Marketing,4,1,24,89,9,GSR University
+S0523,Female,23,BBA,Accounts,4,2,10,75,8,GSR University
+S0523,Female,23,BBA,Finance,4,2,10,93,10,GSR University
+S0523,Female,23,BBA,Economics,4,2,10,59,6,GSR University
+S0524,Female,18,BBA,Digital Marketing,2,1,18,35,4,GSR University
+S0524,Female,18,BBA,Accounts,2,1,18,49,5,GSR University
+S0524,Female,18,BBA,Finance,2,1,18,74,8,GSR University
+S0525,Female,21,BBA,Business Administration,2,1,14,84,9,GSR University
+S0525,Female,21,BBA,Finance,2,1,14,54,6,GSR University
+S0525,Female,21,BBA,Accounts,2,1,14,84,9,GSR University
+S0526,Male,18,BBA,Economics,3,2,14,64,7,GSR University
+S0526,Male,18,BBA,Finance,3,2,14,72,8,GSR University
+S0526,Male,18,BBA,Accounts,3,2,14,37,4,GSR University
+S0527,Female,21,BBA,Business Administration,2,1,12,72,8,GSR University
+S0527,Female,21,BBA,Finance,2,1,12,36,4,GSR University
+S0527,Female,21,BBA,Economics,2,1,12,70,8,GSR University
+S0528,Female,23,BBA,Finance,3,2,21,60,7,GSR University
+S0528,Female,23,BBA,Accounts,3,2,21,64,7,GSR University
+S0528,Female,23,BBA,Economics,3,2,21,51,6,GSR University
+S0529,Female,21,BBA,Accounts,3,1,29,81,9,GSR University
+S0529,Female,21,BBA,Business Administration,3,1,29,90,10,GSR University
+S0529,Female,21,BBA,Economics,3,1,29,82,9,GSR University
+S0530,Male,20,BBA,Business Administration,3,2,8,51,6,GSR University
+S0530,Male,20,BBA,Accounts,3,2,8,81,9,GSR University
+S0530,Male,20,BBA,Economics,3,2,8,65,7,GSR University
+S0531,Male,24,BBA,Accounts,4,2,20,89,9,GSR University
+S0531,Male,24,BBA,Economics,4,2,20,46,5,GSR University
+S0531,Male,24,BBA,Finance,4,2,20,83,9,GSR University
+S0532,Female,18,BBA,Economics,2,1,28,84,9,GSR University
+S0532,Female,18,BBA,Business Administration,2,1,28,41,5,GSR University
+S0532,Female,18,BBA,Digital Marketing,2,1,28,78,8,GSR University
+S0533,Female,19,BBA,Digital Marketing,3,1,5,54,6,GSR University
+S0533,Female,19,BBA,Economics,3,1,5,37,4,GSR University
+S0533,Female,19,BBA,Finance,3,1,5,71,8,GSR University
+S0534,Male,23,BBA,Digital Marketing,4,2,7,90,10,GSR University
+S0534,Male,23,BBA,Business Administration,4,2,7,94,10,GSR University
+S0534,Male,23,BBA,Economics,4,2,7,44,5,GSR University
+S0535,Female,24,BBA,Digital Marketing,1,0,12,38,4,GSR University
+S0535,Female,24,BBA,Finance,1,0,12,65,7,GSR University
+S0535,Female,24,BBA,Accounts,1,0,12,52,6,GSR University
+S0536,Male,23,BBA,Digital Marketing,4,2,23,62,7,GSR University
+S0536,Male,23,BBA,Economics,4,2,23,80,9,GSR University
+S0536,Male,23,BBA,Business Administration,4,2,23,66,7,GSR University
+S0537,Male,23,BBA,Digital Marketing,4,1,9,51,6,GSR University
+S0537,Male,23,BBA,Economics,4,1,9,35,4,GSR University
+S0537,Male,23,BBA,Accounts,4,1,9,89,9,GSR University
+S0538,Male,24,BBA,Finance,2,0,22,56,6,GSR University
+S0538,Male,24,BBA,Business Administration,2,0,22,47,5,GSR University
+S0538,Male,24,BBA,Digital Marketing,2,0,22,59,6,GSR University
+S0539,Male,19,BBA,Digital Marketing,4,0,14,89,9,GSR University
+S0539,Male,19,BBA,Economics,4,0,14,73,8,GSR University
+S0539,Male,19,BBA,Business Administration,4,0,14,47,5,GSR University
+S0540,Female,18,BBA,Finance,1,1,26,43,5,GSR University
+S0540,Female,18,BBA,Business Administration,1,1,26,46,5,GSR University
+S0540,Female,18,BBA,Economics,1,1,26,78,8,GSR University
+S0541,Male,23,BBA,Economics,4,2,24,89,9,GSR University
+S0541,Male,23,BBA,Digital Marketing,4,2,24,73,8,GSR University
+S0541,Male,23,BBA,Accounts,4,2,24,38,4,GSR University
+S0542,Male,20,BBA,Accounts,4,1,7,71,8,GSR University
+S0542,Male,20,BBA,Finance,4,1,7,40,5,GSR University
+S0542,Male,20,BBA,Business Administration,4,1,7,53,6,GSR University
+S0543,Male,22,BBA,Economics,4,1,13,59,6,GSR University
+S0543,Male,22,BBA,Accounts,4,1,13,47,5,GSR University
+S0543,Male,22,BBA,Finance,4,1,13,66,7,GSR University
+S0544,Female,20,BBA,Finance,3,1,23,62,7,GSR University
+S0544,Female,20,BBA,Digital Marketing,3,1,23,37,4,GSR University
+S0544,Female,20,BBA,Accounts,3,1,23,79,8,GSR University
+S0545,Female,23,BBA,Digital Marketing,4,1,28,69,7,GSR University
+S0545,Female,23,BBA,Finance,4,1,28,44,5,GSR University
+S0545,Female,23,BBA,Business Administration,4,1,28,37,4,GSR University
+S0546,Female,20,BBA,Business Administration,1,2,28,75,8,GSR University
+S0546,Female,20,BBA,Finance,1,2,28,65,7,GSR University
+S0546,Female,20,BBA,Economics,1,2,28,55,6,GSR University
+S0547,Female,19,BBA,Accounts,3,2,21,76,8,GSR University
+S0547,Female,19,BBA,Finance,3,2,21,84,9,GSR University
+S0547,Female,19,BBA,Digital Marketing,3,2,21,83,9,GSR University
+S0548,Female,21,BBA,Accounts,1,0,21,47,5,GSR University
+S0548,Female,21,BBA,Finance,1,0,21,51,6,GSR University
+S0548,Female,21,BBA,Digital Marketing,1,0,21,58,6,GSR University
+S0549,Female,19,BBA,Business Administration,2,2,12,47,5,GSR University
+S0549,Female,19,BBA,Economics,2,2,12,73,8,GSR University
+S0549,Female,19,BBA,Digital Marketing,2,2,12,71,8,GSR University
+S0550,Female,18,BBA,Finance,1,0,15,51,6,GSR University
+S0550,Female,18,BBA,Economics,1,0,15,64,7,GSR University
+S0550,Female,18,BBA,Business Administration,1,0,15,73,8,GSR University
+S0551,Female,22,BSc,Geography,2,0,13,64,7,GSR University
+S0551,Female,22,BSc,Environmental Science,2,0,13,55,6,GSR University
+S0551,Female,22,BSc,Mathematics,2,0,13,82,9,GSR University
+S0552,Male,24,BSc,Geography,4,2,19,65,7,GSR University
+S0552,Male,24,BSc,Mathematics,4,2,19,87,9,GSR University
+S0552,Male,24,BSc,Chemistry,4,2,19,57,6,GSR University
+S0553,Female,21,BSc,Environmental Science,1,0,19,78,8,GSR University
+S0553,Female,21,BSc,Geography,1,0,19,69,7,GSR University
+S0553,Female,21,BSc,Mathematics,1,0,19,45,5,GSR University
+S0554,Female,19,BSc,Mathematics,1,2,11,91,10,GSR University
+S0554,Female,19,BSc,Environmental Science,1,2,11,42,5,GSR University
+S0554,Female,19,BSc,Chemistry,1,2,11,42,5,GSR University
+S0555,Female,20,BSc,Environmental Science,4,0,10,73,8,GSR University
+S0555,Female,20,BSc,Physics,4,0,10,77,8,GSR University
+S0555,Female,20,BSc,Mathematics,4,0,10,65,7,GSR University
+S0556,Male,18,BSc,Environmental Science,4,1,28,40,5,GSR University
+S0556,Male,18,BSc,Chemistry,4,1,28,56,6,GSR University
+S0556,Male,18,BSc,Mathematics,4,1,28,84,9,GSR University
+S0557,Male,23,BSc,Chemistry,1,2,21,45,5,GSR University
+S0557,Male,23,BSc,Environmental Science,1,2,21,58,6,GSR University
+S0557,Male,23,BSc,Mathematics,1,2,21,83,9,GSR University
+S0558,Male,22,BSc,Chemistry,2,2,7,40,5,GSR University
+S0558,Male,22,BSc,Physics,2,2,7,53,6,GSR University
+S0558,Male,22,BSc,Environmental Science,2,2,7,90,10,GSR University
+S0559,Female,23,BSc,Physics,2,1,22,83,9,GSR University
+S0559,Female,23,BSc,Environmental Science,2,1,22,77,8,GSR University
+S0559,Female,23,BSc,Chemistry,2,1,22,70,8,GSR University
+S0560,Male,19,BSc,Geography,4,1,16,80,9,GSR University
+S0560,Male,19,BSc,Chemistry,4,1,16,53,6,GSR University
+S0560,Male,19,BSc,Mathematics,4,1,16,92,10,GSR University
+S0561,Male,21,BSc,Geography,2,2,27,74,8,GSR University
+S0561,Male,21,BSc,Mathematics,2,2,27,67,7,GSR University
+S0561,Male,21,BSc,Environmental Science,2,2,27,46,5,GSR University
+S0562,Female,19,BSc,Physics,2,2,8,79,8,GSR University
+S0562,Female,19,BSc,Chemistry,2,2,8,59,6,GSR University
+S0562,Female,19,BSc,Geography,2,2,8,68,7,GSR University
+S0563,Female,20,BSc,Environmental Science,4,1,21,74,8,GSR University
+S0563,Female,20,BSc,Mathematics,4,1,21,44,5,GSR University
+S0563,Female,20,BSc,Geography,4,1,21,53,6,GSR University
+S0564,Female,20,BSc,Chemistry,1,2,25,69,7,GSR University
+S0564,Female,20,BSc,Geography,1,2,25,46,5,GSR University
+S0564,Female,20,BSc,Physics,1,2,25,75,8,GSR University
+S0565,Female,22,BSc,Physics,2,2,1,57,6,GSR University
+S0565,Female,22,BSc,Geography,2,2,1,82,9,GSR University
+S0565,Female,22,BSc,Mathematics,2,2,1,89,9,GSR University
+S0566,Female,18,BSc,Environmental Science,1,1,29,54,6,GSR University
+S0566,Female,18,BSc,Geography,1,1,29,83,9,GSR University
+S0566,Female,18,BSc,Physics,1,1,29,86,9,GSR University
+S0567,Male,23,BSc,Geography,2,0,0,92,10,GSR University
+S0567,Male,23,BSc,Mathematics,2,0,0,92,10,GSR University
+S0567,Male,23,BSc,Physics,2,0,0,80,9,GSR University
+S0568,Male,21,BSc,Mathematics,2,0,20,83,9,GSR University
+S0568,Male,21,BSc,Environmental Science,2,0,20,77,8,GSR University
+S0568,Male,21,BSc,Geography,2,0,20,82,9,GSR University
+S0569,Male,21,BSc,Physics,3,2,17,74,8,GSR University
+S0569,Male,21,BSc,Chemistry,3,2,17,57,6,GSR University
+S0569,Male,21,BSc,Mathematics,3,2,17,37,4,GSR University
+S0570,Female,19,BSc,Geography,1,0,7,79,8,GSR University
+S0570,Female,19,BSc,Chemistry,1,0,7,87,9,GSR University
+S0570,Female,19,BSc,Environmental Science,1,0,7,89,9,GSR University
+S0571,Female,22,BSc,Chemistry,3,0,5,82,9,GSR University
+S0571,Female,22,BSc,Mathematics,3,0,5,36,4,GSR University
+S0571,Female,22,BSc,Environmental Science,3,0,5,35,4,GSR University
+S0572,Male,21,BSc,Physics,2,2,27,47,5,GSR University
+S0572,Male,21,BSc,Chemistry,2,2,27,93,10,GSR University
+S0572,Male,21,BSc,Mathematics,2,2,27,42,5,GSR University
+S0573,Female,24,BSc,Mathematics,1,0,21,73,8,GSR University
+S0573,Female,24,BSc,Physics,1,0,21,65,7,GSR University
+S0573,Female,24,BSc,Geography,1,0,21,92,10,GSR University
+S0574,Female,22,BSc,Chemistry,3,1,22,56,6,GSR University
+S0574,Female,22,BSc,Mathematics,3,1,22,74,8,GSR University
+S0574,Female,22,BSc,Geography,3,1,22,71,8,GSR University
+S0575,Male,24,BSc,Geography,1,0,9,56,6,GSR University
+S0575,Male,24,BSc,Environmental Science,1,0,9,72,8,GSR University
+S0575,Male,24,BSc,Mathematics,1,0,9,69,7,GSR University
+S0576,Female,22,BSc,Environmental Science,4,1,14,47,5,GSR University
+S0576,Female,22,BSc,Mathematics,4,1,14,51,6,GSR University
+S0576,Female,22,BSc,Chemistry,4,1,14,72,8,GSR University
+S0577,Female,18,BSc,Geography,2,0,5,42,5,GSR University
+S0577,Female,18,BSc,Physics,2,0,5,49,5,GSR University
+S0577,Female,18,BSc,Environmental Science,2,0,5,88,9,GSR University
+S0578,Male,22,BSc,Geography,1,0,20,56,6,GSR University
+S0578,Male,22,BSc,Physics,1,0,20,92,10,GSR University
+S0578,Male,22,BSc,Chemistry,1,0,20,83,9,GSR University
+S0579,Male,24,BSc,Physics,2,1,14,93,10,GSR University
+S0579,Male,24,BSc,Mathematics,2,1,14,84,9,GSR University
+S0579,Male,24,BSc,Environmental Science,2,1,14,52,6,GSR University
+S0580,Male,21,BSc,Chemistry,1,1,13,53,6,GSR University
+S0580,Male,21,BSc,Physics,1,1,13,77,8,GSR University
+S0580,Male,21,BSc,Environmental Science,1,1,13,81,9,GSR University
+S0581,Male,21,BSc,Physics,1,2,18,92,10,GSR University
+S0581,Male,21,BSc,Chemistry,1,2,18,82,9,GSR University
+S0581,Male,21,BSc,Mathematics,1,2,18,78,8,GSR University
+S0582,Male,22,BSc,Environmental Science,1,2,10,70,8,GSR University
+S0582,Male,22,BSc,Geography,1,2,10,47,5,GSR University
+S0582,Male,22,BSc,Mathematics,1,2,10,40,5,GSR University
+S0583,Female,19,BSc,Physics,2,0,15,62,7,GSR University
+S0583,Female,19,BSc,Chemistry,2,0,15,50,6,GSR University
+S0583,Female,19,BSc,Mathematics,2,0,15,38,4,GSR University
+S0584,Female,22,BSc,Environmental Science,4,0,1,65,7,GSR University
+S0584,Female,22,BSc,Physics,4,0,1,43,5,GSR University
+S0584,Female,22,BSc,Geography,4,0,1,73,8,GSR University
+S0585,Female,22,BSc,Physics,4,2,23,91,10,GSR University
+S0585,Female,22,BSc,Chemistry,4,2,23,50,6,GSR University
+S0585,Female,22,BSc,Geography,4,2,23,69,7,GSR University
+S0586,Female,23,BSc,Chemistry,2,1,17,94,10,GSR University
+S0586,Female,23,BSc,Mathematics,2,1,17,68,7,GSR University
+S0586,Female,23,BSc,Environmental Science,2,1,17,77,8,GSR University
+S0587,Male,23,BSc,Environmental Science,3,0,29,38,4,GSR University
+S0587,Male,23,BSc,Mathematics,3,0,29,63,7,GSR University
+S0587,Male,23,BSc,Geography,3,0,29,57,6,GSR University
+S0588,Female,23,BSc,Geography,2,1,14,44,5,GSR University
+S0588,Female,23,BSc,Mathematics,2,1,14,54,6,GSR University
+S0588,Female,23,BSc,Physics,2,1,14,40,5,GSR University
+S0589,Male,20,BSc,Environmental Science,3,1,10,51,6,GSR University
+S0589,Male,20,BSc,Chemistry,3,1,10,75,8,GSR University
+S0589,Male,20,BSc,Geography,3,1,10,53,6,GSR University
+S0590,Female,22,BSc,Geography,2,1,2,89,9,GSR University
+S0590,Female,22,BSc,Mathematics,2,1,2,45,5,GSR University
+S0590,Female,22,BSc,Chemistry,2,1,2,47,5,GSR University
+S0591,Female,20,BSc,Geography,3,0,27,52,6,GSR University
+S0591,Female,20,BSc,Physics,3,0,27,83,9,GSR University
+S0591,Female,20,BSc,Chemistry,3,0,27,93,10,GSR University
+S0592,Male,18,BSc,Chemistry,3,1,18,86,9,GSR University
+S0592,Male,18,BSc,Environmental Science,3,1,18,57,6,GSR University
+S0592,Male,18,BSc,Physics,3,1,18,64,7,GSR University
+S0593,Female,18,BSc,Geography,2,0,23,91,10,GSR University
+S0593,Female,18,BSc,Mathematics,2,0,23,80,9,GSR University
+S0593,Female,18,BSc,Environmental Science,2,0,23,92,10,GSR University
+S0594,Male,23,BSc,Physics,3,0,24,69,7,GSR University
+S0594,Male,23,BSc,Geography,3,0,24,45,5,GSR University
+S0594,Male,23,BSc,Chemistry,3,0,24,45,5,GSR University
+S0595,Male,22,BSc,Geography,2,0,6,36,4,GSR University
+S0595,Male,22,BSc,Mathematics,2,0,6,46,5,GSR University
+S0595,Male,22,BSc,Chemistry,2,0,6,91,10,GSR University
+S0596,Female,19,BSc,Environmental Science,2,2,10,87,9,GSR University
+S0596,Female,19,BSc,Geography,2,2,10,93,10,GSR University
+S0596,Female,19,BSc,Chemistry,2,2,10,60,7,GSR University
+S0597,Male,23,BSc,Mathematics,4,2,14,73,8,GSR University
+S0597,Male,23,BSc,Geography,4,2,14,88,9,GSR University
+S0597,Male,23,BSc,Physics,4,2,14,36,4,GSR University
+S0598,Male,19,BSc,Mathematics,3,2,14,77,8,GSR University
+S0598,Male,19,BSc,Chemistry,3,2,14,51,6,GSR University
+S0598,Male,19,BSc,Physics,3,2,14,51,6,GSR University
+S0599,Male,21,BSc,Mathematics,4,0,25,81,9,GSR University
+S0599,Male,21,BSc,Physics,4,0,25,46,5,GSR University
+S0599,Male,21,BSc,Chemistry,4,0,25,71,8,GSR University
+S0600,Male,23,BSc,Chemistry,4,1,9,63,7,GSR University
+S0600,Male,23,BSc,Mathematics,4,1,9,37,4,GSR University
+S0600,Male,23,BSc,Physics,4,1,9,49,5,GSR University
+S0601,Male,21,BSc,Geography,2,2,12,89,9,GSR University
+S0601,Male,21,BSc,Mathematics,2,2,12,86,9,GSR University
+S0601,Male,21,BSc,Environmental Science,2,2,12,63,7,GSR University
+S0602,Male,21,BSc,Mathematics,2,2,3,88,9,GSR University
+S0602,Male,21,BSc,Physics,2,2,3,70,8,GSR University
+S0602,Male,21,BSc,Environmental Science,2,2,3,64,7,GSR University
+S0603,Male,22,BSc,Geography,3,1,12,70,8,GSR University
+S0603,Male,22,BSc,Physics,3,1,12,56,6,GSR University
+S0603,Male,22,BSc,Environmental Science,3,1,12,86,9,GSR University
+S0604,Male,21,BSc,Physics,4,0,6,86,9,GSR University
+S0604,Male,21,BSc,Environmental Science,4,0,6,81,9,GSR University
+S0604,Male,21,BSc,Chemistry,4,0,6,49,5,GSR University
+S0605,Female,18,BSc,Physics,1,1,17,45,5,GSR University
+S0605,Female,18,BSc,Chemistry,1,1,17,71,8,GSR University
+S0605,Female,18,BSc,Mathematics,1,1,17,56,6,GSR University
+S0606,Female,19,BSc,Mathematics,1,1,12,41,5,GSR University
+S0606,Female,19,BSc,Environmental Science,1,1,12,38,4,GSR University
+S0606,Female,19,BSc,Geography,1,1,12,53,6,GSR University
+S0607,Female,19,BSc,Chemistry,3,2,24,65,7,GSR University
+S0607,Female,19,BSc,Environmental Science,3,2,24,87,9,GSR University
+S0607,Female,19,BSc,Mathematics,3,2,24,66,7,GSR University
+S0608,Male,19,BSc,Mathematics,4,1,1,50,6,GSR University
+S0608,Male,19,BSc,Geography,4,1,1,50,6,GSR University
+S0608,Male,19,BSc,Physics,4,1,1,80,9,GSR University
+S0609,Male,24,BSc,Chemistry,3,2,23,38,4,GSR University
+S0609,Male,24,BSc,Geography,3,2,23,41,5,GSR University
+S0609,Male,24,BSc,Environmental Science,3,2,23,60,7,GSR University
+S0610,Female,24,BSc,Chemistry,4,2,16,62,7,GSR University
+S0610,Female,24,BSc,Environmental Science,4,2,16,87,9,GSR University
+S0610,Female,24,BSc,Geography,4,2,16,76,8,GSR University
+S0611,Female,24,BSc,Geography,2,2,25,45,5,GSR University
+S0611,Female,24,BSc,Physics,2,2,25,79,8,GSR University
+S0611,Female,24,BSc,Chemistry,2,2,25,37,4,GSR University
+S0612,Male,21,BSc,Environmental Science,2,2,16,88,9,GSR University
+S0612,Male,21,BSc,Mathematics,2,2,16,64,7,GSR University
+S0612,Male,21,BSc,Geography,2,2,16,54,6,GSR University
+S0613,Female,23,BSc,Geography,1,0,9,90,10,GSR University
+S0613,Female,23,BSc,Mathematics,1,0,9,75,8,GSR University
+S0613,Female,23,BSc,Physics,1,0,9,88,9,GSR University
+S0614,Male,19,BSc,Mathematics,1,1,15,84,9,GSR University
+S0614,Male,19,BSc,Environmental Science,1,1,15,77,8,GSR University
+S0614,Male,19,BSc,Physics,1,1,15,61,7,GSR University
+S0615,Female,18,BSc,Mathematics,2,1,24,60,7,GSR University
+S0615,Female,18,BSc,Geography,2,1,24,43,5,GSR University
+S0615,Female,18,BSc,Physics,2,1,24,44,5,GSR University
+S0616,Female,18,BSc,Environmental Science,4,2,27,70,8,GSR University
+S0616,Female,18,BSc,Geography,4,2,27,58,6,GSR University
+S0616,Female,18,BSc,Mathematics,4,2,27,88,9,GSR University
+S0617,Female,20,BSc,Environmental Science,3,0,13,71,8,GSR University
+S0617,Female,20,BSc,Geography,3,0,13,62,7,GSR University
+S0617,Female,20,BSc,Mathematics,3,0,13,54,6,GSR University
+S0618,Male,22,BSc,Physics,4,0,9,92,10,GSR University
+S0618,Male,22,BSc,Mathematics,4,0,9,46,5,GSR University
+S0618,Male,22,BSc,Environmental Science,4,0,9,56,6,GSR University
+S0619,Female,23,BSc,Mathematics,1,1,13,67,7,GSR University
+S0619,Female,23,BSc,Chemistry,1,1,13,79,8,GSR University
+S0619,Female,23,BSc,Physics,1,1,13,70,8,GSR University
+S0620,Female,21,BSc,Chemistry,2,2,22,38,4,GSR University
+S0620,Female,21,BSc,Physics,2,2,22,55,6,GSR University
+S0620,Female,21,BSc,Environmental Science,2,2,22,74,8,GSR University
+S0621,Female,20,BSc,Chemistry,3,2,13,57,6,GSR University
+S0621,Female,20,BSc,Mathematics,3,2,13,48,5,GSR University
+S0621,Female,20,BSc,Physics,3,2,13,41,5,GSR University
+S0622,Female,23,BSc,Geography,3,0,8,61,7,GSR University
+S0622,Female,23,BSc,Mathematics,3,0,8,86,9,GSR University
+S0622,Female,23,BSc,Physics,3,0,8,57,6,GSR University
+S0623,Female,20,BSc,Chemistry,3,2,0,62,7,GSR University
+S0623,Female,20,BSc,Physics,3,2,0,53,6,GSR University
+S0623,Female,20,BSc,Environmental Science,3,2,0,80,9,GSR University
+S0624,Female,23,BSc,Chemistry,3,0,26,63,7,GSR University
+S0624,Female,23,BSc,Geography,3,0,26,40,5,GSR University
+S0624,Female,23,BSc,Physics,3,0,26,59,6,GSR University
+S0625,Female,24,BSc,Geography,2,0,4,89,9,GSR University
+S0625,Female,24,BSc,Chemistry,2,0,4,35,4,GSR University
+S0625,Female,24,BSc,Physics,2,0,4,54,6,GSR University
+S0626,Male,21,BSc,Environmental Science,4,2,6,50,6,GSR University
+S0626,Male,21,BSc,Geography,4,2,6,69,7,GSR University
+S0626,Male,21,BSc,Chemistry,4,2,6,54,6,GSR University
+S0627,Male,23,BSc,Chemistry,1,2,25,36,4,GSR University
+S0627,Male,23,BSc,Environmental Science,1,2,25,63,7,GSR University
+S0627,Male,23,BSc,Physics,1,2,25,54,6,GSR University
+S0628,Female,23,BSc,Chemistry,1,2,0,61,7,GSR University
+S0628,Female,23,BSc,Physics,1,2,0,78,8,GSR University
+S0628,Female,23,BSc,Geography,1,2,0,46,5,GSR University
+S0629,Male,21,BSc,Geography,4,0,6,72,8,GSR University
+S0629,Male,21,BSc,Physics,4,0,6,61,7,GSR University
+S0629,Male,21,BSc,Chemistry,4,0,6,79,8,GSR University
+S0630,Male,20,BSc,Chemistry,1,0,21,79,8,GSR University
+S0630,Male,20,BSc,Physics,1,0,21,56,6,GSR University
+S0630,Male,20,BSc,Mathematics,1,0,21,77,8,GSR University
+S0631,Female,20,BSc,Environmental Science,4,1,25,47,5,GSR University
+S0631,Female,20,BSc,Physics,4,1,25,62,7,GSR University
+S0631,Female,20,BSc,Geography,4,1,25,43,5,GSR University
+S0632,Female,21,BSc,Chemistry,3,2,18,48,5,GSR University
+S0632,Female,21,BSc,Physics,3,2,18,45,5,GSR University
+S0632,Female,21,BSc,Geography,3,2,18,60,7,GSR University
+S0633,Male,19,BSc,Physics,3,1,1,86,9,GSR University
+S0633,Male,19,BSc,Environmental Science,3,1,1,72,8,GSR University
+S0633,Male,19,BSc,Chemistry,3,1,1,83,9,GSR University
+S0634,Female,19,BSc,Geography,1,2,7,90,10,GSR University
+S0634,Female,19,BSc,Physics,1,2,7,41,5,GSR University
+S0634,Female,19,BSc,Chemistry,1,2,7,45,5,GSR University
+S0635,Male,24,BSc,Physics,4,0,11,77,8,GSR University
+S0635,Male,24,BSc,Mathematics,4,0,11,85,9,GSR University
+S0635,Male,24,BSc,Environmental Science,4,0,11,87,9,GSR University
+S0636,Female,22,BSc,Environmental Science,1,0,12,91,10,GSR University
+S0636,Female,22,BSc,Mathematics,1,0,12,86,9,GSR University
+S0636,Female,22,BSc,Chemistry,1,0,12,88,9,GSR University
+S0637,Male,21,BSc,Environmental Science,4,0,6,57,6,GSR University
+S0637,Male,21,BSc,Physics,4,0,6,79,8,GSR University
+S0637,Male,21,BSc,Geography,4,0,6,57,6,GSR University
+S0638,Female,19,BSc,Mathematics,3,2,24,53,6,GSR University
+S0638,Female,19,BSc,Environmental Science,3,2,24,67,7,GSR University
+S0638,Female,19,BSc,Geography,3,2,24,70,8,GSR University
+S0639,Female,23,BSc,Geography,3,1,27,86,9,GSR University
+S0639,Female,23,BSc,Environmental Science,3,1,27,63,7,GSR University
+S0639,Female,23,BSc,Chemistry,3,1,27,79,8,GSR University
+S0640,Female,24,BSc,Geography,4,0,18,88,9,GSR University
+S0640,Female,24,BSc,Physics,4,0,18,86,9,GSR University
+S0640,Female,24,BSc,Environmental Science,4,0,18,92,10,GSR University
+S0641,Female,23,BSc,Environmental Science,3,0,9,44,5,GSR University
+S0641,Female,23,BSc,Mathematics,3,0,9,44,5,GSR University
+S0641,Female,23,BSc,Geography,3,0,9,91,10,GSR University
+S0642,Female,24,BSc,Chemistry,1,1,5,78,8,GSR University
+S0642,Female,24,BSc,Geography,1,1,5,87,9,GSR University
+S0642,Female,24,BSc,Physics,1,1,5,94,10,GSR University
+S0643,Female,19,BSc,Geography,1,2,21,64,7,GSR University
+S0643,Female,19,BSc,Mathematics,1,2,21,84,9,GSR University
+S0643,Female,19,BSc,Physics,1,2,21,43,5,GSR University
+S0644,Male,22,BSc,Physics,4,0,23,93,10,GSR University
+S0644,Male,22,BSc,Geography,4,0,23,77,8,GSR University
+S0644,Male,22,BSc,Chemistry,4,0,23,61,7,GSR University
+S0645,Male,23,BSc,Chemistry,2,0,15,65,7,GSR University
+S0645,Male,23,BSc,Physics,2,0,15,38,4,GSR University
+S0645,Male,23,BSc,Environmental Science,2,0,15,71,8,GSR University
+S0646,Male,18,BSc,Geography,4,1,25,56,6,GSR University
+S0646,Male,18,BSc,Mathematics,4,1,25,45,5,GSR University
+S0646,Male,18,BSc,Chemistry,4,1,25,36,4,GSR University
+S0647,Female,21,BSc,Chemistry,2,1,25,35,4,GSR University
+S0647,Female,21,BSc,Physics,2,1,25,92,10,GSR University
+S0647,Female,21,BSc,Environmental Science,2,1,25,60,7,GSR University
+S0648,Female,24,BSc,Mathematics,1,1,5,71,8,GSR University
+S0648,Female,24,BSc,Physics,1,1,5,52,6,GSR University
+S0648,Female,24,BSc,Chemistry,1,1,5,65,7,GSR University
+S0649,Male,23,BSc,Mathematics,2,0,9,88,9,GSR University
+S0649,Male,23,BSc,Environmental Science,2,0,9,64,7,GSR University
+S0649,Male,23,BSc,Geography,2,0,9,61,7,GSR University
+S0650,Male,24,BSc,Environmental Science,2,0,11,87,9,GSR University
+S0650,Male,24,BSc,Chemistry,2,0,11,49,5,GSR University
+S0650,Male,24,BSc,Mathematics,2,0,11,36,4,GSR University
+S0651,Male,21,BA,Psychology,1,1,17,92,10,GSR University
+S0651,Male,21,BA,English,1,1,17,67,7,GSR University
+S0651,Male,21,BA,Sociology,1,1,17,78,8,GSR University
+S0652,Male,20,BA,Economics,2,2,3,63,7,GSR University
+S0652,Male,20,BA,Psychology,2,2,3,58,6,GSR University
+S0652,Male,20,BA,English,2,2,3,56,6,GSR University
+S0653,Female,19,BA,History,3,1,9,50,6,GSR University
+S0653,Female,19,BA,Sociology,3,1,9,65,7,GSR University
+S0653,Female,19,BA,Political Science,3,1,9,48,5,GSR University
+S0654,Female,24,BA,Political Science,4,2,22,66,7,GSR University
+S0654,Female,24,BA,Sociology,4,2,22,39,4,GSR University
+S0654,Female,24,BA,Psychology,4,2,22,57,6,GSR University
+S0655,Female,22,BA,Psychology,1,2,9,93,10,GSR University
+S0655,Female,22,BA,English,1,2,9,81,9,GSR University
+S0655,Female,22,BA,Sociology,1,2,9,37,4,GSR University
+S0656,Female,20,BA,Psychology,4,0,14,63,7,GSR University
+S0656,Female,20,BA,English,4,0,14,53,6,GSR University
+S0656,Female,20,BA,History,4,0,14,37,4,GSR University
+S0657,Female,24,BA,Sociology,4,2,3,57,6,GSR University
+S0657,Female,24,BA,History,4,2,3,50,6,GSR University
+S0657,Female,24,BA,English,4,2,3,47,5,GSR University
+S0658,Female,20,BA,History,1,1,12,72,8,GSR University
+S0658,Female,20,BA,Economics,1,1,12,68,7,GSR University
+S0658,Female,20,BA,Sociology,1,1,12,75,8,GSR University
+S0659,Female,23,BA,Economics,1,0,11,90,10,GSR University
+S0659,Female,23,BA,Sociology,1,0,11,83,9,GSR University
+S0659,Female,23,BA,Psychology,1,0,11,59,6,GSR University
+S0660,Female,19,BA,Economics,1,0,27,77,8,GSR University
+S0660,Female,19,BA,Political Science,1,0,27,40,5,GSR University
+S0660,Female,19,BA,Psychology,1,0,27,81,9,GSR University
+S0661,Male,22,BA,Economics,1,1,29,94,10,GSR University
+S0661,Male,22,BA,English,1,1,29,91,10,GSR University
+S0661,Male,22,BA,Sociology,1,1,29,62,7,GSR University
+S0662,Female,20,BA,Political Science,3,2,8,68,7,GSR University
+S0662,Female,20,BA,Psychology,3,2,8,82,9,GSR University
+S0662,Female,20,BA,History,3,2,8,37,4,GSR University
+S0663,Female,19,BA,Political Science,2,2,29,88,9,GSR University
+S0663,Female,19,BA,History,2,2,29,52,6,GSR University
+S0663,Female,19,BA,Sociology,2,2,29,81,9,GSR University
+S0664,Female,19,BA,Psychology,2,2,12,81,9,GSR University
+S0664,Female,19,BA,Economics,2,2,12,91,10,GSR University
+S0664,Female,19,BA,English,2,2,12,89,9,GSR University
+S0665,Male,20,BA,Economics,3,2,20,85,9,GSR University
+S0665,Male,20,BA,Political Science,3,2,20,77,8,GSR University
+S0665,Male,20,BA,English,3,2,20,89,9,GSR University
+S0666,Male,23,BA,Economics,4,1,18,53,6,GSR University
+S0666,Male,23,BA,English,4,1,18,62,7,GSR University
+S0666,Male,23,BA,Psychology,4,1,18,93,10,GSR University
+S0667,Male,21,BA,Sociology,2,0,4,74,8,GSR University
+S0667,Male,21,BA,English,2,0,4,50,6,GSR University
+S0667,Male,21,BA,Psychology,2,0,4,72,8,GSR University
+S0668,Female,22,BA,Psychology,3,1,21,42,5,GSR University
+S0668,Female,22,BA,History,3,1,21,78,8,GSR University
+S0668,Female,22,BA,English,3,1,21,89,9,GSR University
+S0669,Female,24,BA,Political Science,1,1,7,57,6,GSR University
+S0669,Female,24,BA,History,1,1,7,85,9,GSR University
+S0669,Female,24,BA,Sociology,1,1,7,57,6,GSR University
+S0670,Male,20,BA,Psychology,3,1,12,55,6,GSR University
+S0670,Male,20,BA,English,3,1,12,91,10,GSR University
+S0670,Male,20,BA,Sociology,3,1,12,73,8,GSR University
+S0671,Male,24,BA,English,1,1,23,82,9,GSR University
+S0671,Male,24,BA,Sociology,1,1,23,54,6,GSR University
+S0671,Male,24,BA,Psychology,1,1,23,61,7,GSR University
+S0672,Male,23,BA,Sociology,1,0,12,83,9,GSR University
+S0672,Male,23,BA,Political Science,1,0,12,57,6,GSR University
+S0672,Male,23,BA,Economics,1,0,12,54,6,GSR University
+S0673,Female,22,BA,Sociology,1,0,27,75,8,GSR University
+S0673,Female,22,BA,Political Science,1,0,27,40,5,GSR University
+S0673,Female,22,BA,Psychology,1,0,27,45,5,GSR University
+S0674,Male,18,BA,Psychology,2,1,12,87,9,GSR University
+S0674,Male,18,BA,English,2,1,12,69,7,GSR University
+S0674,Male,18,BA,Economics,2,1,12,67,7,GSR University
+S0675,Female,20,BA,Sociology,4,0,19,70,8,GSR University
+S0675,Female,20,BA,English,4,0,19,59,6,GSR University
+S0675,Female,20,BA,History,4,0,19,79,8,GSR University
+S0676,Female,18,BA,Psychology,2,2,1,53,6,GSR University
+S0676,Female,18,BA,Sociology,2,2,1,59,6,GSR University
+S0676,Female,18,BA,Political Science,2,2,1,50,6,GSR University
+S0677,Male,23,BA,Psychology,1,0,9,68,7,GSR University
+S0677,Male,23,BA,Sociology,1,0,9,59,6,GSR University
+S0677,Male,23,BA,Economics,1,0,9,79,8,GSR University
+S0678,Male,23,BA,Economics,2,1,8,86,9,GSR University
+S0678,Male,23,BA,English,2,1,8,52,6,GSR University
+S0678,Male,23,BA,Sociology,2,1,8,94,10,GSR University
+S0679,Male,21,BA,Political Science,1,2,14,38,4,GSR University
+S0679,Male,21,BA,History,1,2,14,51,6,GSR University
+S0679,Male,21,BA,Economics,1,2,14,50,6,GSR University
+S0680,Male,24,BA,Economics,1,0,22,36,4,GSR University
+S0680,Male,24,BA,English,1,0,22,63,7,GSR University
+S0680,Male,24,BA,History,1,0,22,47,5,GSR University
+S0681,Female,21,BA,Economics,1,1,28,43,5,GSR University
+S0681,Female,21,BA,History,1,1,28,64,7,GSR University
+S0681,Female,21,BA,Psychology,1,1,28,87,9,GSR University
+S0682,Male,20,BA,Political Science,1,0,9,71,8,GSR University
+S0682,Male,20,BA,History,1,0,9,44,5,GSR University
+S0682,Male,20,BA,English,1,0,9,94,10,GSR University
+S0683,Female,18,BA,Economics,3,1,21,60,7,GSR University
+S0683,Female,18,BA,History,3,1,21,85,9,GSR University
+S0683,Female,18,BA,English,3,1,21,39,4,GSR University
+S0684,Male,24,BA,History,1,2,17,36,4,GSR University
+S0684,Male,24,BA,Psychology,1,2,17,59,6,GSR University
+S0684,Male,24,BA,English,1,2,17,47,5,GSR University
+S0685,Male,19,BA,English,4,1,22,45,5,GSR University
+S0685,Male,19,BA,Sociology,4,1,22,88,9,GSR University
+S0685,Male,19,BA,Psychology,4,1,22,54,6,GSR University
+S0686,Male,22,BA,History,2,2,27,78,8,GSR University
+S0686,Male,22,BA,Psychology,2,2,27,89,9,GSR University
+S0686,Male,22,BA,Economics,2,2,27,69,7,GSR University
+S0687,Female,24,BA,Psychology,1,2,5,81,9,GSR University
+S0687,Female,24,BA,History,1,2,5,88,9,GSR University
+S0687,Female,24,BA,Economics,1,2,5,74,8,GSR University
+S0688,Female,20,BA,History,2,2,9,44,5,GSR University
+S0688,Female,20,BA,Sociology,2,2,9,68,7,GSR University
+S0688,Female,20,BA,Political Science,2,2,9,70,8,GSR University
+S0689,Female,18,BA,Sociology,4,1,22,51,6,GSR University
+S0689,Female,18,BA,Political Science,4,1,22,80,9,GSR University
+S0689,Female,18,BA,English,4,1,22,58,6,GSR University
+S0690,Female,20,BA,English,3,2,29,48,5,GSR University
+S0690,Female,20,BA,Economics,3,2,29,85,9,GSR University
+S0690,Female,20,BA,Psychology,3,2,29,60,7,GSR University
+S0691,Female,22,BA,Psychology,4,2,29,41,5,GSR University
+S0691,Female,22,BA,English,4,2,29,43,5,GSR University
+S0691,Female,22,BA,History,4,2,29,79,8,GSR University
+S0692,Male,18,BA,Sociology,3,1,3,74,8,GSR University
+S0692,Male,18,BA,English,3,1,3,41,5,GSR University
+S0692,Male,18,BA,History,3,1,3,61,7,GSR University
+S0693,Male,18,BA,Psychology,4,1,6,87,9,GSR University
+S0693,Male,18,BA,History,4,1,6,67,7,GSR University
+S0693,Male,18,BA,Economics,4,1,6,84,9,GSR University
+S0694,Female,24,BA,Psychology,1,0,26,66,7,GSR University
+S0694,Female,24,BA,History,1,0,26,37,4,GSR University
+S0694,Female,24,BA,Economics,1,0,26,86,9,GSR University
+S0695,Female,24,BA,History,3,1,15,94,10,GSR University
+S0695,Female,24,BA,English,3,1,15,58,6,GSR University
+S0695,Female,24,BA,Sociology,3,1,15,86,9,GSR University
+S0696,Female,24,BA,English,2,1,13,89,9,GSR University
+S0696,Female,24,BA,Sociology,2,1,13,42,5,GSR University
+S0696,Female,24,BA,Economics,2,1,13,49,5,GSR University
+S0697,Female,20,BA,English,3,0,8,83,9,GSR University
+S0697,Female,20,BA,Political Science,3,0,8,47,5,GSR University
+S0697,Female,20,BA,Economics,3,0,8,35,4,GSR University
+S0698,Female,19,BA,Political Science,3,1,24,63,7,GSR University
+S0698,Female,19,BA,English,3,1,24,89,9,GSR University
+S0698,Female,19,BA,Sociology,3,1,24,65,7,GSR University
+S0699,Male,22,BA,Economics,2,1,7,59,6,GSR University
+S0699,Male,22,BA,Psychology,2,1,7,90,10,GSR University
+S0699,Male,22,BA,Sociology,2,1,7,64,7,GSR University
+S0700,Female,22,BA,Sociology,1,0,20,83,9,GSR University
+S0700,Female,22,BA,Psychology,1,0,20,77,8,GSR University
+S0700,Female,22,BA,History,1,0,20,51,6,GSR University
+S0701,Male,19,BA,Economics,2,0,6,39,4,GSR University
+S0701,Male,19,BA,Sociology,2,0,6,54,6,GSR University
+S0701,Male,19,BA,Psychology,2,0,6,50,6,GSR University
+S0702,Male,20,BA,Sociology,1,0,4,70,8,GSR University
+S0702,Male,20,BA,Political Science,1,0,4,56,6,GSR University
+S0702,Male,20,BA,Psychology,1,0,4,56,6,GSR University
+S0703,Female,23,BA,Sociology,3,0,5,67,7,GSR University
+S0703,Female,23,BA,Psychology,3,0,5,35,4,GSR University
+S0703,Female,23,BA,Economics,3,0,5,58,6,GSR University
+S0704,Female,21,BA,Psychology,1,1,26,76,8,GSR University
+S0704,Female,21,BA,History,1,1,26,75,8,GSR University
+S0704,Female,21,BA,English,1,1,26,89,9,GSR University
+S0705,Female,21,BA,Sociology,2,1,15,90,10,GSR University
+S0705,Female,21,BA,Political Science,2,1,15,52,6,GSR University
+S0705,Female,21,BA,English,2,1,15,88,9,GSR University
+S0706,Male,22,BA,Sociology,1,2,6,57,6,GSR University
+S0706,Male,22,BA,Economics,1,2,6,88,9,GSR University
+S0706,Male,22,BA,Political Science,1,2,6,85,9,GSR University
+S0707,Female,23,BA,English,2,1,3,40,5,GSR University
+S0707,Female,23,BA,Sociology,2,1,3,56,6,GSR University
+S0707,Female,23,BA,Economics,2,1,3,92,10,GSR University
+S0708,Female,18,BA,Psychology,2,0,19,48,5,GSR University
+S0708,Female,18,BA,Economics,2,0,19,43,5,GSR University
+S0708,Female,18,BA,Sociology,2,0,19,93,10,GSR University
+S0709,Female,24,BA,English,2,2,23,42,5,GSR University
+S0709,Female,24,BA,History,2,2,23,35,4,GSR University
+S0709,Female,24,BA,Economics,2,2,23,88,9,GSR University
+S0710,Male,18,BA,Psychology,4,2,6,64,7,GSR University
+S0710,Male,18,BA,History,4,2,6,63,7,GSR University
+S0710,Male,18,BA,Sociology,4,2,6,56,6,GSR University
+S0711,Female,20,BA,Sociology,2,0,18,64,7,GSR University
+S0711,Female,20,BA,Political Science,2,0,18,82,9,GSR University
+S0711,Female,20,BA,Economics,2,0,18,52,6,GSR University
+S0712,Female,24,BA,History,1,1,13,91,10,GSR University
+S0712,Female,24,BA,Economics,1,1,13,78,8,GSR University
+S0712,Female,24,BA,Psychology,1,1,13,68,7,GSR University
+S0713,Female,20,BA,Sociology,1,0,19,85,9,GSR University
+S0713,Female,20,BA,Political Science,1,0,19,35,4,GSR University
+S0713,Female,20,BA,English,1,0,19,61,7,GSR University
+S0714,Male,22,BA,Political Science,4,2,28,44,5,GSR University
+S0714,Male,22,BA,Psychology,4,2,28,77,8,GSR University
+S0714,Male,22,BA,English,4,2,28,51,6,GSR University
+S0715,Male,18,BA,English,3,2,11,79,8,GSR University
+S0715,Male,18,BA,Economics,3,2,11,38,4,GSR University
+S0715,Male,18,BA,History,3,2,11,48,5,GSR University
+S0716,Female,23,BA,Psychology,3,2,1,46,5,GSR University
+S0716,Female,23,BA,Political Science,3,2,1,40,5,GSR University
+S0716,Female,23,BA,Sociology,3,2,1,56,6,GSR University
+S0717,Female,18,BA,English,1,1,14,40,5,GSR University
+S0717,Female,18,BA,Sociology,1,1,14,79,8,GSR University
+S0717,Female,18,BA,Political Science,1,1,14,67,7,GSR University
+S0718,Male,24,BA,Economics,2,0,6,70,8,GSR University
+S0718,Male,24,BA,Psychology,2,0,6,79,8,GSR University
+S0718,Male,24,BA,English,2,0,6,89,9,GSR University
+S0719,Male,20,BA,Psychology,1,0,1,89,9,GSR University
+S0719,Male,20,BA,Economics,1,0,1,50,6,GSR University
+S0719,Male,20,BA,Political Science,1,0,1,48,5,GSR University
+S0720,Female,22,BA,Economics,3,2,2,57,6,GSR University
+S0720,Female,22,BA,Political Science,3,2,2,41,5,GSR University
+S0720,Female,22,BA,Sociology,3,2,2,37,4,GSR University
+S0721,Female,19,BA,Sociology,3,1,10,66,7,GSR University
+S0721,Female,19,BA,Political Science,3,1,10,40,5,GSR University
+S0721,Female,19,BA,History,3,1,10,73,8,GSR University
+S0722,Male,19,BA,Economics,2,1,29,44,5,GSR University
+S0722,Male,19,BA,Political Science,2,1,29,85,9,GSR University
+S0722,Male,19,BA,English,2,1,29,81,9,GSR University
+S0723,Male,19,BA,Psychology,4,0,14,80,9,GSR University
+S0723,Male,19,BA,History,4,0,14,93,10,GSR University
+S0723,Male,19,BA,English,4,0,14,84,9,GSR University
+S0724,Female,19,BA,Economics,3,1,6,60,7,GSR University
+S0724,Female,19,BA,Sociology,3,1,6,67,7,GSR University
+S0724,Female,19,BA,History,3,1,6,45,5,GSR University
+S0725,Male,19,BA,Sociology,1,2,20,67,7,GSR University
+S0725,Male,19,BA,Political Science,1,2,20,51,6,GSR University
+S0725,Male,19,BA,History,1,2,20,58,6,GSR University
+S0726,Male,22,BA,History,2,0,27,87,9,GSR University
+S0726,Male,22,BA,Political Science,2,0,27,84,9,GSR University
+S0726,Male,22,BA,Psychology,2,0,27,82,9,GSR University
+S0727,Female,23,BA,Sociology,2,2,20,44,5,GSR University
+S0727,Female,23,BA,Economics,2,2,20,79,8,GSR University
+S0727,Female,23,BA,English,2,2,20,51,6,GSR University
+S0728,Female,19,BA,Political Science,4,0,12,63,7,GSR University
+S0728,Female,19,BA,Sociology,4,0,12,65,7,GSR University
+S0728,Female,19,BA,Economics,4,0,12,38,4,GSR University
+S0729,Male,19,BA,History,4,2,10,49,5,GSR University
+S0729,Male,19,BA,Economics,4,2,10,62,7,GSR University
+S0729,Male,19,BA,Political Science,4,2,10,71,8,GSR University
+S0730,Male,24,BA,Political Science,2,1,24,66,7,GSR University
+S0730,Male,24,BA,Sociology,2,1,24,87,9,GSR University
+S0730,Male,24,BA,English,2,1,24,37,4,GSR University
+S0731,Male,19,BA,Political Science,2,2,16,37,4,GSR University
+S0731,Male,19,BA,History,2,2,16,77,8,GSR University
+S0731,Male,19,BA,Psychology,2,2,16,83,9,GSR University
+S0732,Female,24,BA,Political Science,3,0,21,35,4,GSR University
+S0732,Female,24,BA,History,3,0,21,83,9,GSR University
+S0732,Female,24,BA,English,3,0,21,59,6,GSR University
+S0733,Female,19,BA,Economics,4,1,7,48,5,GSR University
+S0733,Female,19,BA,English,4,1,7,77,8,GSR University
+S0733,Female,19,BA,Political Science,4,1,7,60,7,GSR University
+S0734,Female,19,BA,History,3,0,25,86,9,GSR University
+S0734,Female,19,BA,Economics,3,0,25,38,4,GSR University
+S0734,Female,19,BA,Political Science,3,0,25,60,7,GSR University
+S0735,Female,20,BA,Psychology,2,1,16,48,5,GSR University
+S0735,Female,20,BA,Political Science,2,1,16,58,6,GSR University
+S0735,Female,20,BA,English,2,1,16,68,7,GSR University
+S0736,Female,21,BA,Sociology,1,1,9,82,9,GSR University
+S0736,Female,21,BA,History,1,1,9,94,10,GSR University
+S0736,Female,21,BA,Economics,1,1,9,36,4,GSR University
+S0737,Female,21,BA,English,3,1,2,53,6,GSR University
+S0737,Female,21,BA,Political Science,3,1,2,68,7,GSR University
+S0737,Female,21,BA,Psychology,3,1,2,78,8,GSR University
+S0738,Female,22,BA,English,2,0,3,64,7,GSR University
+S0738,Female,22,BA,Psychology,2,0,3,87,9,GSR University
+S0738,Female,22,BA,Political Science,2,0,3,85,9,GSR University
+S0739,Female,24,BA,History,4,2,5,82,9,GSR University
+S0739,Female,24,BA,Economics,4,2,5,41,5,GSR University
+S0739,Female,24,BA,Psychology,4,2,5,93,10,GSR University
+S0740,Male,22,BA,History,3,2,25,37,4,GSR University
+S0740,Male,22,BA,Political Science,3,2,25,63,7,GSR University
+S0740,Male,22,BA,Sociology,3,2,25,40,5,GSR University
+S0741,Female,18,BA,Psychology,1,0,24,89,9,GSR University
+S0741,Female,18,BA,Economics,1,0,24,48,5,GSR University
+S0741,Female,18,BA,English,1,0,24,89,9,GSR University
+S0742,Female,23,BA,Sociology,4,1,11,51,6,GSR University
+S0742,Female,23,BA,Political Science,4,1,11,51,6,GSR University
+S0742,Female,23,BA,Psychology,4,1,11,37,4,GSR University
+S0743,Male,23,BA,Economics,3,0,11,55,6,GSR University
+S0743,Male,23,BA,Political Science,3,0,11,56,6,GSR University
+S0743,Male,23,BA,Psychology,3,0,11,91,10,GSR University
+S0744,Female,21,BA,Psychology,1,2,1,42,5,GSR University
+S0744,Female,21,BA,Political Science,1,2,1,85,9,GSR University
+S0744,Female,21,BA,Economics,1,2,1,45,5,GSR University
+S0745,Male,24,BA,Psychology,3,0,1,44,5,GSR University
+S0745,Male,24,BA,Economics,3,0,1,55,6,GSR University
+S0745,Male,24,BA,English,3,0,1,54,6,GSR University
+S0746,Male,21,BA,Political Science,2,0,13,78,8,GSR University
+S0746,Male,21,BA,Sociology,2,0,13,84,9,GSR University
+S0746,Male,21,BA,Psychology,2,0,13,64,7,GSR University
+S0747,Female,24,BA,Psychology,4,2,6,88,9,GSR University
+S0747,Female,24,BA,Political Science,4,2,6,78,8,GSR University
+S0747,Female,24,BA,Sociology,4,2,6,56,6,GSR University
+S0748,Female,21,BA,Psychology,3,1,25,58,6,GSR University
+S0748,Female,21,BA,Sociology,3,1,25,85,9,GSR University
+S0748,Female,21,BA,History,3,1,25,44,5,GSR University
+S0749,Female,22,BA,Psychology,2,0,24,62,7,GSR University
+S0749,Female,22,BA,Sociology,2,0,24,91,10,GSR University
+S0749,Female,22,BA,History,2,0,24,86,9,GSR University
+S0750,Female,21,BA,Psychology,2,2,9,76,8,GSR University
+S0750,Female,21,BA,Political Science,2,2,9,60,7,GSR University
+S0750,Female,21,BA,History,2,2,9,59,6,GSR University
+S0751,Male,20,BA,English,2,0,19,67,7,GSR University
+S0751,Male,20,BA,History,2,0,19,55,6,GSR University
+S0751,Male,20,BA,Sociology,2,0,19,36,4,GSR University
+S0752,Male,19,BA,Economics,1,0,1,88,9,GSR University
+S0752,Male,19,BA,English,1,0,1,52,6,GSR University
+S0752,Male,19,BA,History,1,0,1,80,9,GSR University
+S0753,Female,23,BA,English,4,0,29,83,9,GSR University
+S0753,Female,23,BA,Economics,4,0,29,45,5,GSR University
+S0753,Female,23,BA,Political Science,4,0,29,36,4,GSR University
+S0754,Female,19,BA,Political Science,4,0,14,52,6,GSR University
+S0754,Female,19,BA,Economics,4,0,14,71,8,GSR University
+S0754,Female,19,BA,History,4,0,14,64,7,GSR University
+S0755,Female,20,BA,Political Science,3,2,21,91,10,GSR University
+S0755,Female,20,BA,Economics,3,2,21,42,5,GSR University
+S0755,Female,20,BA,History,3,2,21,52,6,GSR University
+S0756,Female,18,BA,History,1,1,29,60,7,GSR University
+S0756,Female,18,BA,Sociology,1,1,29,74,8,GSR University
+S0756,Female,18,BA,English,1,1,29,93,10,GSR University
+S0757,Female,19,BA,Psychology,3,1,10,56,6,GSR University
+S0757,Female,19,BA,Political Science,3,1,10,46,5,GSR University
+S0757,Female,19,BA,English,3,1,10,36,4,GSR University
+S0758,Male,24,BA,History,3,1,25,47,5,GSR University
+S0758,Male,24,BA,Psychology,3,1,25,39,4,GSR University
+S0758,Male,24,BA,Political Science,3,1,25,45,5,GSR University
+S0759,Female,19,BA,English,1,0,20,41,5,GSR University
+S0759,Female,19,BA,Sociology,1,0,20,74,8,GSR University
+S0759,Female,19,BA,Psychology,1,0,20,62,7,GSR University
+S0760,Male,20,BA,Psychology,3,0,5,71,8,GSR University
+S0760,Male,20,BA,Economics,3,0,5,57,6,GSR University
+S0760,Male,20,BA,History,3,0,5,63,7,GSR University
+S0761,Female,22,BA,English,1,0,16,64,7,GSR University
+S0761,Female,22,BA,History,1,0,16,38,4,GSR University
+S0761,Female,22,BA,Sociology,1,0,16,74,8,GSR University
+S0762,Male,24,BA,Political Science,2,0,11,43,5,GSR University
+S0762,Male,24,BA,Psychology,2,0,11,46,5,GSR University
+S0762,Male,24,BA,Economics,2,0,11,39,4,GSR University
+S0763,Female,23,BA,Sociology,2,2,4,79,8,GSR University
+S0763,Female,23,BA,Psychology,2,2,4,82,9,GSR University
+S0763,Female,23,BA,Political Science,2,2,4,92,10,GSR University
+S0764,Male,23,BA,Sociology,2,1,3,71,8,GSR University
+S0764,Male,23,BA,History,2,1,3,85,9,GSR University
+S0764,Male,23,BA,Economics,2,1,3,44,5,GSR University
+S0765,Male,20,BA,Sociology,3,1,14,44,5,GSR University
+S0765,Male,20,BA,English,3,1,14,46,5,GSR University
+S0765,Male,20,BA,History,3,1,14,88,9,GSR University
+S0766,Male,21,BA,Psychology,2,0,22,43,5,GSR University
+S0766,Male,21,BA,Political Science,2,0,22,87,9,GSR University
+S0766,Male,21,BA,English,2,0,22,52,6,GSR University
+S0767,Male,20,BA,Sociology,2,2,24,79,8,GSR University
+S0767,Male,20,BA,Political Science,2,2,24,84,9,GSR University
+S0767,Male,20,BA,Psychology,2,2,24,49,5,GSR University
+S0768,Female,21,BA,Sociology,4,0,1,82,9,GSR University
+S0768,Female,21,BA,Psychology,4,0,1,93,10,GSR University
+S0768,Female,21,BA,Economics,4,0,1,61,7,GSR University
+S0769,Female,20,BA,Political Science,2,1,6,56,6,GSR University
+S0769,Female,20,BA,Psychology,2,1,6,38,4,GSR University
+S0769,Female,20,BA,Sociology,2,1,6,83,9,GSR University
+S0770,Male,20,BA,Psychology,4,2,22,65,7,GSR University
+S0770,Male,20,BA,Economics,4,2,22,81,9,GSR University
+S0770,Male,20,BA,Political Science,4,2,22,65,7,GSR University
+S0771,Female,24,BA,Psychology,4,2,10,91,10,GSR University
+S0771,Female,24,BA,Political Science,4,2,10,81,9,GSR University
+S0771,Female,24,BA,Economics,4,2,10,47,5,GSR University
+S0772,Male,24,BA,Psychology,4,1,11,56,6,GSR University
+S0772,Male,24,BA,English,4,1,11,84,9,GSR University
+S0772,Male,24,BA,History,4,1,11,91,10,GSR University
+S0773,Male,19,BA,English,4,0,11,57,6,GSR University
+S0773,Male,19,BA,History,4,0,11,88,9,GSR University
+S0773,Male,19,BA,Economics,4,0,11,87,9,GSR University
+S0774,Male,21,BA,Psychology,3,0,20,64,7,GSR University
+S0774,Male,21,BA,Political Science,3,0,20,79,8,GSR University
+S0774,Male,21,BA,Sociology,3,0,20,52,6,GSR University
+S0775,Female,23,BA,Political Science,4,2,12,93,10,GSR University
+S0775,Female,23,BA,History,4,2,12,68,7,GSR University
+S0775,Female,23,BA,Psychology,4,2,12,36,4,GSR University
+S0776,Male,22,BA,English,2,1,8,72,8,GSR University
+S0776,Male,22,BA,Political Science,2,1,8,61,7,GSR University
+S0776,Male,22,BA,Sociology,2,1,8,94,10,GSR University
+S0777,Male,20,BA,Sociology,4,0,27,43,5,GSR University
+S0777,Male,20,BA,Political Science,4,0,27,51,6,GSR University
+S0777,Male,20,BA,Economics,4,0,27,39,4,GSR University
+S0778,Male,19,BA,English,2,2,19,84,9,GSR University
+S0778,Male,19,BA,History,2,2,19,67,7,GSR University
+S0778,Male,19,BA,Sociology,2,2,19,47,5,GSR University
+S0779,Female,23,BA,Psychology,1,1,28,44,5,GSR University
+S0779,Female,23,BA,Economics,1,1,28,65,7,GSR University
+S0779,Female,23,BA,History,1,1,28,40,5,GSR University
+S0780,Male,18,BA,Economics,3,1,26,86,9,GSR University
+S0780,Male,18,BA,English,3,1,26,54,6,GSR University
+S0780,Male,18,BA,History,3,1,26,72,8,GSR University
+S0781,Male,23,BA,Sociology,4,0,23,63,7,GSR University
+S0781,Male,23,BA,English,4,0,23,53,6,GSR University
+S0781,Male,23,BA,Economics,4,0,23,67,7,GSR University
+S0782,Male,18,BA,History,3,1,20,79,8,GSR University
+S0782,Male,18,BA,Psychology,3,1,20,72,8,GSR University
+S0782,Male,18,BA,Economics,3,1,20,79,8,GSR University
+S0783,Female,24,BA,History,4,0,1,57,6,GSR University
+S0783,Female,24,BA,Economics,4,0,1,43,5,GSR University
+S0783,Female,24,BA,Sociology,4,0,1,51,6,GSR University
+S0784,Female,22,BA,English,3,2,23,43,5,GSR University
+S0784,Female,22,BA,Sociology,3,2,23,51,6,GSR University
+S0784,Female,22,BA,Political Science,3,2,23,61,7,GSR University
+S0785,Female,24,BA,Sociology,3,1,3,87,9,GSR University
+S0785,Female,24,BA,History,3,1,3,88,9,GSR University
+S0785,Female,24,BA,Economics,3,1,3,93,10,GSR University
+S0786,Male,24,BA,Sociology,3,0,3,38,4,GSR University
+S0786,Male,24,BA,Political Science,3,0,3,58,6,GSR University
+S0786,Male,24,BA,History,3,0,3,63,7,GSR University
+S0787,Female,18,BA,Sociology,3,1,4,52,6,GSR University
+S0787,Female,18,BA,Psychology,3,1,4,51,6,GSR University
+S0787,Female,18,BA,Political Science,3,1,4,64,7,GSR University
+S0788,Male,20,BA,History,3,0,0,56,6,GSR University
+S0788,Male,20,BA,Economics,3,0,0,61,7,GSR University
+S0788,Male,20,BA,Psychology,3,0,0,53,6,GSR University
+S0789,Female,22,BA,Political Science,4,0,20,93,10,GSR University
+S0789,Female,22,BA,Sociology,4,0,20,93,10,GSR University
+S0789,Female,22,BA,History,4,0,20,66,7,GSR University
+S0790,Male,23,BA,Psychology,4,1,17,73,8,GSR University
+S0790,Male,23,BA,English,4,1,17,83,9,GSR University
+S0790,Male,23,BA,History,4,1,17,63,7,GSR University
+S0791,Female,19,BA,Political Science,4,1,29,43,5,GSR University
+S0791,Female,19,BA,English,4,1,29,93,10,GSR University
+S0791,Female,19,BA,Psychology,4,1,29,43,5,GSR University
+S0792,Female,23,BA,English,3,2,2,73,8,GSR University
+S0792,Female,23,BA,Political Science,3,2,2,54,6,GSR University
+S0792,Female,23,BA,Sociology,3,2,2,59,6,GSR University
+S0793,Female,21,BA,Political Science,2,2,13,38,4,GSR University
+S0793,Female,21,BA,Psychology,2,2,13,49,5,GSR University
+S0793,Female,21,BA,History,2,2,13,58,6,GSR University
+S0794,Male,18,BA,English,3,0,11,72,8,GSR University
+S0794,Male,18,BA,Political Science,3,0,11,94,10,GSR University
+S0794,Male,18,BA,Economics,3,0,11,46,5,GSR University
+S0795,Female,24,BA,Political Science,2,1,14,41,5,GSR University
+S0795,Female,24,BA,Psychology,2,1,14,75,8,GSR University
+S0795,Female,24,BA,English,2,1,14,65,7,GSR University
+S0796,Female,20,BA,Political Science,3,2,6,85,9,GSR University
+S0796,Female,20,BA,Sociology,3,2,6,68,7,GSR University
+S0796,Female,20,BA,English,3,2,6,78,8,GSR University
+S0797,Female,24,BA,English,2,1,4,44,5,GSR University
+S0797,Female,24,BA,Sociology,2,1,4,85,9,GSR University
+S0797,Female,24,BA,Economics,2,1,4,37,4,GSR University
+S0798,Female,22,BA,Political Science,1,0,6,58,6,GSR University
+S0798,Female,22,BA,English,1,0,6,51,6,GSR University
+S0798,Female,22,BA,Economics,1,0,6,86,9,GSR University
+S0799,Male,23,BA,Sociology,1,1,8,72,8,GSR University
+S0799,Male,23,BA,History,1,1,8,38,4,GSR University
+S0799,Male,23,BA,English,1,1,8,58,6,GSR University
+S0800,Male,20,BA,Sociology,3,0,4,47,5,GSR University
+S0800,Male,20,BA,History,3,0,4,38,4,GSR University
+S0800,Male,20,BA,English,3,0,4,80,9,GSR University
+S0801,Male,23,BA,History,3,1,16,36,4,GSR University
+S0801,Male,23,BA,Economics,3,1,16,91,10,GSR University
+S0801,Male,23,BA,Psychology,3,1,16,47,5,GSR University
+S0802,Female,21,BA,Economics,4,2,26,94,10,GSR University
+S0802,Female,21,BA,English,4,2,26,92,10,GSR University
+S0802,Female,21,BA,Sociology,4,2,26,46,5,GSR University
+S0803,Female,22,BA,Political Science,3,2,12,47,5,GSR University
+S0803,Female,22,BA,History,3,2,12,90,10,GSR University
+S0803,Female,22,BA,Sociology,3,2,12,44,5,GSR University
+S0804,Male,18,BA,Sociology,4,1,15,45,5,GSR University
+S0804,Male,18,BA,History,4,1,15,41,5,GSR University
+S0804,Male,18,BA,English,4,1,15,87,9,GSR University
+S0805,Female,19,BA,Sociology,4,1,2,40,5,GSR University
+S0805,Female,19,BA,History,4,1,2,75,8,GSR University
+S0805,Female,19,BA,English,4,1,2,66,7,GSR University
+S0806,Male,21,BA,History,2,1,15,79,8,GSR University
+S0806,Male,21,BA,Economics,2,1,15,45,5,GSR University
+S0806,Male,21,BA,Psychology,2,1,15,40,5,GSR University
+S0807,Male,22,BA,English,3,1,5,59,6,GSR University
+S0807,Male,22,BA,Political Science,3,1,5,49,5,GSR University
+S0807,Male,22,BA,Psychology,3,1,5,94,10,GSR University
+S0808,Male,18,BA,Political Science,4,0,16,39,4,GSR University
+S0808,Male,18,BA,Psychology,4,0,16,73,8,GSR University
+S0808,Male,18,BA,Economics,4,0,16,52,6,GSR University
+S0809,Female,23,BA,Sociology,1,0,29,82,9,GSR University
+S0809,Female,23,BA,English,1,0,29,78,8,GSR University
+S0809,Female,23,BA,Psychology,1,0,29,52,6,GSR University
+S0810,Male,24,BA,English,4,1,5,47,5,GSR University
+S0810,Male,24,BA,Economics,4,1,5,75,8,GSR University
+S0810,Male,24,BA,Psychology,4,1,5,50,6,GSR University
+S0811,Male,20,BA,History,3,0,6,64,7,GSR University
+S0811,Male,20,BA,Political Science,3,0,6,92,10,GSR University
+S0811,Male,20,BA,English,3,0,6,79,8,GSR University
+S0812,Female,20,BA,Sociology,4,2,9,62,7,GSR University
+S0812,Female,20,BA,Economics,4,2,9,68,7,GSR University
+S0812,Female,20,BA,English,4,2,9,87,9,GSR University
+S0813,Female,24,BA,Political Science,2,2,18,85,9,GSR University
+S0813,Female,24,BA,Sociology,2,2,18,73,8,GSR University
+S0813,Female,24,BA,Economics,2,2,18,38,4,GSR University
+S0814,Male,23,BA,Economics,4,0,19,61,7,GSR University
+S0814,Male,23,BA,Psychology,4,0,19,67,7,GSR University
+S0814,Male,23,BA,Sociology,4,0,19,55,6,GSR University
+S0815,Male,24,BA,English,2,1,1,93,10,GSR University
+S0815,Male,24,BA,History,2,1,1,35,4,GSR University
+S0815,Male,24,BA,Psychology,2,1,1,69,7,GSR University
+S0816,Male,20,BA,Sociology,4,2,0,85,9,GSR University
+S0816,Male,20,BA,Economics,4,2,0,36,4,GSR University
+S0816,Male,20,BA,Psychology,4,2,0,52,6,GSR University
+S0817,Female,23,BA,Political Science,1,1,4,65,7,GSR University
+S0817,Female,23,BA,Economics,1,1,4,44,5,GSR University
+S0817,Female,23,BA,Sociology,1,1,4,84,9,GSR University
+S0818,Female,21,BA,Sociology,2,0,16,80,9,GSR University
+S0818,Female,21,BA,Psychology,2,0,16,60,7,GSR University
+S0818,Female,21,BA,History,2,0,16,55,6,GSR University
+S0819,Female,22,BA,Sociology,2,2,11,50,6,GSR University
+S0819,Female,22,BA,English,2,2,11,35,4,GSR University
+S0819,Female,22,BA,Political Science,2,2,11,50,6,GSR University
+S0820,Male,22,BA,Economics,4,2,12,72,8,GSR University
+S0820,Male,22,BA,English,4,2,12,60,7,GSR University
+S0820,Male,22,BA,Sociology,4,2,12,92,10,GSR University
+S0821,Male,23,BA,Sociology,2,1,24,72,8,GSR University
+S0821,Male,23,BA,History,2,1,24,55,6,GSR University
+S0821,Male,23,BA,Economics,2,1,24,42,5,GSR University
+S0822,Female,20,BA,English,3,0,23,91,10,GSR University
+S0822,Female,20,BA,Economics,3,0,23,63,7,GSR University
+S0822,Female,20,BA,Political Science,3,0,23,82,9,GSR University
+S0823,Male,18,BA,Political Science,2,1,9,71,8,GSR University
+S0823,Male,18,BA,History,2,1,9,56,6,GSR University
+S0823,Male,18,BA,English,2,1,9,41,5,GSR University
+S0824,Male,24,BA,Political Science,4,0,15,48,5,GSR University
+S0824,Male,24,BA,English,4,0,15,87,9,GSR University
+S0824,Male,24,BA,History,4,0,15,67,7,GSR University
+S0825,Male,18,BA,Economics,1,2,26,77,8,GSR University
+S0825,Male,18,BA,Sociology,1,2,26,62,7,GSR University
+S0825,Male,18,BA,Political Science,1,2,26,62,7,GSR University
+S0826,Male,24,BA,Psychology,1,1,6,80,9,GSR University
+S0826,Male,24,BA,Economics,1,1,6,36,4,GSR University
+S0826,Male,24,BA,Political Science,1,1,6,59,6,GSR University
+S0827,Male,18,BA,Political Science,3,0,22,37,4,GSR University
+S0827,Male,18,BA,Psychology,3,0,22,40,5,GSR University
+S0827,Male,18,BA,English,3,0,22,92,10,GSR University
+S0828,Male,23,BA,Political Science,2,1,25,54,6,GSR University
+S0828,Male,23,BA,English,2,1,25,73,8,GSR University
+S0828,Male,23,BA,Psychology,2,1,25,58,6,GSR University
+S0829,Male,21,BA,Political Science,1,0,26,75,8,GSR University
+S0829,Male,21,BA,History,1,0,26,81,9,GSR University
+S0829,Male,21,BA,Economics,1,0,26,37,4,GSR University
+S0830,Male,23,BA,Political Science,3,1,11,44,5,GSR University
+S0830,Male,23,BA,Economics,3,1,11,69,7,GSR University
+S0830,Male,23,BA,Sociology,3,1,11,58,6,GSR University
+S0831,Female,21,BA,Sociology,4,2,16,49,5,GSR University
+S0831,Female,21,BA,Psychology,4,2,16,60,7,GSR University
+S0831,Female,21,BA,Economics,4,2,16,85,9,GSR University
+S0832,Male,21,BA,Psychology,1,2,12,75,8,GSR University
+S0832,Male,21,BA,English,1,2,12,76,8,GSR University
+S0832,Male,21,BA,Sociology,1,2,12,84,9,GSR University
+S0833,Male,24,BA,Economics,3,2,2,82,9,GSR University
+S0833,Male,24,BA,Political Science,3,2,2,49,5,GSR University
+S0833,Male,24,BA,Psychology,3,2,2,36,4,GSR University
+S0834,Male,18,BA,Political Science,3,1,20,90,10,GSR University
+S0834,Male,18,BA,History,3,1,20,69,7,GSR University
+S0834,Male,18,BA,Psychology,3,1,20,82,9,GSR University
+S0835,Female,23,BA,Psychology,4,0,22,85,9,GSR University
+S0835,Female,23,BA,Sociology,4,0,22,56,6,GSR University
+S0835,Female,23,BA,Economics,4,0,22,58,6,GSR University
+S0836,Male,20,BA,Political Science,4,0,20,84,9,GSR University
+S0836,Male,20,BA,History,4,0,20,50,6,GSR University
+S0836,Male,20,BA,English,4,0,20,75,8,GSR University
+S0837,Female,19,BA,Political Science,2,0,3,51,6,GSR University
+S0837,Female,19,BA,English,2,0,3,50,6,GSR University
+S0837,Female,19,BA,Economics,2,0,3,94,10,GSR University
+S0838,Male,24,BA,Economics,1,2,13,93,10,GSR University
+S0838,Male,24,BA,Political Science,1,2,13,67,7,GSR University
+S0838,Male,24,BA,Sociology,1,2,13,69,7,GSR University
+S0839,Male,19,BA,Psychology,2,2,18,93,10,GSR University
+S0839,Male,19,BA,Economics,2,2,18,71,8,GSR University
+S0839,Male,19,BA,English,2,2,18,52,6,GSR University
+S0840,Female,21,BA,Psychology,1,2,13,76,8,GSR University
+S0840,Female,21,BA,History,1,2,13,66,7,GSR University
+S0840,Female,21,BA,Economics,1,2,13,44,5,GSR University
+S0841,Male,20,BA,Political Science,1,0,9,91,10,GSR University
+S0841,Male,20,BA,Sociology,1,0,9,63,7,GSR University
+S0841,Male,20,BA,History,1,0,9,84,9,GSR University
+S0842,Male,23,BA,Sociology,3,1,23,52,6,GSR University
+S0842,Male,23,BA,Economics,3,1,23,84,9,GSR University
+S0842,Male,23,BA,English,3,1,23,91,10,GSR University
+S0843,Female,18,BA,English,3,2,13,72,8,GSR University
+S0843,Female,18,BA,Psychology,3,2,13,79,8,GSR University
+S0843,Female,18,BA,Sociology,3,2,13,76,8,GSR University
+S0844,Female,19,BA,Political Science,3,1,15,89,9,GSR University
+S0844,Female,19,BA,Sociology,3,1,15,48,5,GSR University
+S0844,Female,19,BA,Psychology,3,1,15,67,7,GSR University
+S0845,Female,21,BA,History,1,1,11,76,8,GSR University
+S0845,Female,21,BA,Sociology,1,1,11,66,7,GSR University
+S0845,Female,21,BA,English,1,1,11,67,7,GSR University
+S0846,Male,23,BA,Sociology,2,1,11,64,7,GSR University
+S0846,Male,23,BA,Economics,2,1,11,43,5,GSR University
+S0846,Male,23,BA,English,2,1,11,60,7,GSR University
+S0847,Female,19,BA,Sociology,3,1,3,69,7,GSR University
+S0847,Female,19,BA,History,3,1,3,89,9,GSR University
+S0847,Female,19,BA,Psychology,3,1,3,57,6,GSR University
+S0848,Female,18,BA,English,1,1,8,52,6,GSR University
+S0848,Female,18,BA,Psychology,1,1,8,47,5,GSR University
+S0848,Female,18,BA,History,1,1,8,80,9,GSR University
+S0849,Female,22,BA,Economics,2,1,23,41,5,GSR University
+S0849,Female,22,BA,Sociology,2,1,23,40,5,GSR University
+S0849,Female,22,BA,Psychology,2,1,23,88,9,GSR University
+S0850,Male,24,BA,Economics,1,2,25,92,10,GSR University
+S0850,Male,24,BA,Sociology,1,2,25,83,9,GSR University
+S0850,Male,24,BA,Political Science,1,2,25,76,8,GSR University

@@ -1,0 +1,851 @@
+student_id,student_name,gender,age,department,admission_year,state,email,university_name
+S0001,Nisha,Female,24,Computer Engineering,2021,Maharashtra,s0001@gsr.edu.in,GSR University
+S0002,Meera,Female,20,Computer Engineering,2022,Tamil Nadu,s0002@gsr.edu.in,GSR University
+S0003,Neha,Female,18,Computer Engineering,2021,Bihar,s0003@gsr.edu.in,GSR University
+S0004,Priya,Female,21,Computer Engineering,2023,Bihar,s0004@gsr.edu.in,GSR University
+S0005,Ankit,Male,20,Computer Engineering,2023,Uttar Pradesh,s0005@gsr.edu.in,GSR University
+S0006,Shreya,Female,18,Computer Engineering,2022,Maharashtra,s0006@gsr.edu.in,GSR University
+S0007,Aarav,Male,23,Computer Engineering,2021,Tamil Nadu,s0007@gsr.edu.in,GSR University
+S0008,Karan,Male,23,Computer Engineering,2023,Haryana,s0008@gsr.edu.in,GSR University
+S0009,Aditi,Female,24,Computer Engineering,2023,Tamil Nadu,s0009@gsr.edu.in,GSR University
+S0010,Meera,Female,22,Computer Engineering,2023,Bihar,s0010@gsr.edu.in,GSR University
+S0011,Suresh,Male,18,Computer Engineering,2022,Tamil Nadu,s0011@gsr.edu.in,GSR University
+S0012,Amit,Male,20,Computer Engineering,2023,Delhi,s0012@gsr.edu.in,GSR University
+S0013,Sakshi,Female,21,Computer Engineering,2021,Odisha,s0013@gsr.edu.in,GSR University
+S0014,Rakesh,Male,22,Computer Engineering,2021,Bihar,s0014@gsr.edu.in,GSR University
+S0015,Vivek,Male,18,Computer Engineering,2022,Delhi,s0015@gsr.edu.in,GSR University
+S0016,Aditya,Male,21,Computer Engineering,2021,Odisha,s0016@gsr.edu.in,GSR University
+S0017,Arjun,Male,24,Computer Engineering,2021,Uttar Pradesh,s0017@gsr.edu.in,GSR University
+S0018,Ananya,Female,21,Computer Engineering,2021,Gujarat,s0018@gsr.edu.in,GSR University
+S0019,Deepak,Male,23,Computer Engineering,2022,Haryana,s0019@gsr.edu.in,GSR University
+S0020,Rahul,Male,20,Computer Engineering,2021,Bihar,s0020@gsr.edu.in,GSR University
+S0021,Ishita,Female,18,Computer Engineering,2023,Uttar Pradesh,s0021@gsr.edu.in,GSR University
+S0022,Ankit,Male,22,Computer Engineering,2022,Uttar Pradesh,s0022@gsr.edu.in,GSR University
+S0023,Suresh,Male,18,Computer Engineering,2022,Telangana,s0023@gsr.edu.in,GSR University
+S0024,Nikhil,Male,21,Computer Engineering,2023,Andhra Pradesh,s0024@gsr.edu.in,GSR University
+S0025,Deepak,Male,18,Computer Engineering,2022,Haryana,s0025@gsr.edu.in,GSR University
+S0026,Karan,Male,24,Computer Engineering,2023,Uttar Pradesh,s0026@gsr.edu.in,GSR University
+S0027,Aarav,Male,21,Computer Engineering,2023,Tamil Nadu,s0027@gsr.edu.in,GSR University
+S0028,Sakshi,Female,18,Computer Engineering,2022,Uttar Pradesh,s0028@gsr.edu.in,GSR University
+S0029,Deepak,Male,20,Computer Engineering,2021,Telangana,s0029@gsr.edu.in,GSR University
+S0030,Priya,Female,18,Computer Engineering,2022,Delhi,s0030@gsr.edu.in,GSR University
+S0031,Amit,Male,18,Computer Engineering,2023,Telangana,s0031@gsr.edu.in,GSR University
+S0032,Arjun,Male,21,Computer Engineering,2021,Gujarat,s0032@gsr.edu.in,GSR University
+S0033,Arjun,Male,21,Computer Engineering,2021,Madhya Pradesh,s0033@gsr.edu.in,GSR University
+S0034,Pooja,Female,22,Computer Engineering,2023,Andhra Pradesh,s0034@gsr.edu.in,GSR University
+S0035,Nisha,Female,18,Computer Engineering,2023,Uttar Pradesh,s0035@gsr.edu.in,GSR University
+S0036,Manish,Male,22,Computer Engineering,2023,Karnataka,s0036@gsr.edu.in,GSR University
+S0037,Riya,Female,18,Computer Engineering,2023,Tamil Nadu,s0037@gsr.edu.in,GSR University
+S0038,Sneha,Female,19,Computer Engineering,2022,Rajasthan,s0038@gsr.edu.in,GSR University
+S0039,Rahul,Male,18,Computer Engineering,2023,Bihar,s0039@gsr.edu.in,GSR University
+S0040,Riya,Female,22,Computer Engineering,2021,Madhya Pradesh,s0040@gsr.edu.in,GSR University
+S0041,Arjun,Male,21,Computer Engineering,2021,Tamil Nadu,s0041@gsr.edu.in,GSR University
+S0042,Deepak,Male,19,Computer Engineering,2021,Odisha,s0042@gsr.edu.in,GSR University
+S0043,Kavya,Female,24,Computer Engineering,2022,Delhi,s0043@gsr.edu.in,GSR University
+S0044,Priya,Female,21,Computer Engineering,2021,Andhra Pradesh,s0044@gsr.edu.in,GSR University
+S0045,Manish,Male,20,Computer Engineering,2023,Gujarat,s0045@gsr.edu.in,GSR University
+S0046,Karan,Male,23,Computer Engineering,2023,West Bengal,s0046@gsr.edu.in,GSR University
+S0047,Ananya,Female,23,Computer Engineering,2023,West Bengal,s0047@gsr.edu.in,GSR University
+S0048,Aditya,Male,22,Computer Engineering,2022,Karnataka,s0048@gsr.edu.in,GSR University
+S0049,Karan,Male,22,Computer Engineering,2023,Punjab,s0049@gsr.edu.in,GSR University
+S0050,Suresh,Male,21,Computer Engineering,2022,Bihar,s0050@gsr.edu.in,GSR University
+S0051,Shreya,Female,24,Computer Engineering,2022,Andhra Pradesh,s0051@gsr.edu.in,GSR University
+S0052,Shreya,Female,24,Computer Engineering,2022,Gujarat,s0052@gsr.edu.in,GSR University
+S0053,Karan,Male,20,Computer Engineering,2021,Punjab,s0053@gsr.edu.in,GSR University
+S0054,Amit,Male,21,Computer Engineering,2021,Odisha,s0054@gsr.edu.in,GSR University
+S0055,Aditi,Female,22,Computer Engineering,2021,Karnataka,s0055@gsr.edu.in,GSR University
+S0056,Nikhil,Male,19,Computer Engineering,2021,Odisha,s0056@gsr.edu.in,GSR University
+S0057,Nikhil,Male,22,Computer Engineering,2022,Haryana,s0057@gsr.edu.in,GSR University
+S0058,Priya,Female,24,Computer Engineering,2022,Rajasthan,s0058@gsr.edu.in,GSR University
+S0059,Manish,Male,23,Computer Engineering,2022,Punjab,s0059@gsr.edu.in,GSR University
+S0060,Rahul,Male,21,Computer Engineering,2023,Telangana,s0060@gsr.edu.in,GSR University
+S0061,Aditi,Female,24,Computer Engineering,2023,Bihar,s0061@gsr.edu.in,GSR University
+S0062,Rohan,Male,18,Computer Engineering,2023,Andhra Pradesh,s0062@gsr.edu.in,GSR University
+S0063,Suresh,Male,24,Computer Engineering,2022,Odisha,s0063@gsr.edu.in,GSR University
+S0064,Nisha,Female,24,Computer Engineering,2022,Uttar Pradesh,s0064@gsr.edu.in,GSR University
+S0065,Rahul,Male,23,Computer Engineering,2022,Karnataka,s0065@gsr.edu.in,GSR University
+S0066,Ishita,Female,21,Computer Engineering,2021,Bihar,s0066@gsr.edu.in,GSR University
+S0067,Ankit,Male,20,Computer Engineering,2023,Delhi,s0067@gsr.edu.in,GSR University
+S0068,Suresh,Male,22,Computer Engineering,2021,Punjab,s0068@gsr.edu.in,GSR University
+S0069,Pallavi,Female,18,Computer Engineering,2021,Telangana,s0069@gsr.edu.in,GSR University
+S0070,Nikhil,Male,23,Computer Engineering,2022,Telangana,s0070@gsr.edu.in,GSR University
+S0071,Nikhil,Male,23,Computer Engineering,2023,Haryana,s0071@gsr.edu.in,GSR University
+S0072,Neha,Female,23,Computer Engineering,2021,Gujarat,s0072@gsr.edu.in,GSR University
+S0073,Sakshi,Female,21,Computer Engineering,2021,Punjab,s0073@gsr.edu.in,GSR University
+S0074,Rakesh,Male,21,Computer Engineering,2023,Andhra Pradesh,s0074@gsr.edu.in,GSR University
+S0075,Aditi,Female,18,Computer Engineering,2023,Gujarat,s0075@gsr.edu.in,GSR University
+S0076,Ishita,Female,18,Computer Engineering,2021,Uttar Pradesh,s0076@gsr.edu.in,GSR University
+S0077,Ankit,Male,20,Computer Engineering,2022,Andhra Pradesh,s0077@gsr.edu.in,GSR University
+S0078,Komal,Female,23,Computer Engineering,2022,Tamil Nadu,s0078@gsr.edu.in,GSR University
+S0079,Aarav,Male,19,Computer Engineering,2021,Andhra Pradesh,s0079@gsr.edu.in,GSR University
+S0080,Manish,Male,23,Computer Engineering,2021,Uttar Pradesh,s0080@gsr.edu.in,GSR University
+S0081,Meera,Female,19,Computer Engineering,2022,Telangana,s0081@gsr.edu.in,GSR University
+S0082,Rohan,Male,24,Computer Engineering,2023,Odisha,s0082@gsr.edu.in,GSR University
+S0083,Sneha,Female,21,Computer Engineering,2021,Madhya Pradesh,s0083@gsr.edu.in,GSR University
+S0084,Ishita,Female,18,Computer Engineering,2023,Karnataka,s0084@gsr.edu.in,GSR University
+S0085,Pooja,Female,18,Computer Engineering,2023,Telangana,s0085@gsr.edu.in,GSR University
+S0086,Manish,Male,20,Computer Engineering,2022,Tamil Nadu,s0086@gsr.edu.in,GSR University
+S0087,Pallavi,Female,22,Computer Engineering,2023,Odisha,s0087@gsr.edu.in,GSR University
+S0088,Meera,Female,22,Computer Engineering,2023,Tamil Nadu,s0088@gsr.edu.in,GSR University
+S0089,Sanjay,Male,19,Computer Engineering,2022,Rajasthan,s0089@gsr.edu.in,GSR University
+S0090,Nikhil,Male,20,Computer Engineering,2023,Gujarat,s0090@gsr.edu.in,GSR University
+S0091,Amit,Male,24,Computer Engineering,2023,West Bengal,s0091@gsr.edu.in,GSR University
+S0092,Priya,Female,19,Computer Engineering,2021,Tamil Nadu,s0092@gsr.edu.in,GSR University
+S0093,Priya,Female,22,Computer Engineering,2022,Maharashtra,s0093@gsr.edu.in,GSR University
+S0094,Manish,Male,24,Computer Engineering,2023,Tamil Nadu,s0094@gsr.edu.in,GSR University
+S0095,Shreya,Female,21,Computer Engineering,2021,Maharashtra,s0095@gsr.edu.in,GSR University
+S0096,Priya,Female,18,Computer Engineering,2023,Madhya Pradesh,s0096@gsr.edu.in,GSR University
+S0097,Aarav,Male,20,Computer Engineering,2021,Uttar Pradesh,s0097@gsr.edu.in,GSR University
+S0098,Pallavi,Female,21,Computer Engineering,2021,Telangana,s0098@gsr.edu.in,GSR University
+S0099,Kavya,Female,21,Computer Engineering,2021,Punjab,s0099@gsr.edu.in,GSR University
+S0100,Neha,Female,18,Computer Engineering,2022,Madhya Pradesh,s0100@gsr.edu.in,GSR University
+S0101,Ishita,Female,22,Computer Engineering,2021,Punjab,s0101@gsr.edu.in,GSR University
+S0102,Sneha,Female,18,Computer Engineering,2023,Andhra Pradesh,s0102@gsr.edu.in,GSR University
+S0103,Pallavi,Female,19,Computer Engineering,2023,Haryana,s0103@gsr.edu.in,GSR University
+S0104,Amit,Male,18,Computer Engineering,2021,Odisha,s0104@gsr.edu.in,GSR University
+S0105,Amit,Male,23,Computer Engineering,2022,Tamil Nadu,s0105@gsr.edu.in,GSR University
+S0106,Priya,Female,18,Computer Engineering,2021,Madhya Pradesh,s0106@gsr.edu.in,GSR University
+S0107,Vivek,Male,18,Computer Engineering,2022,Rajasthan,s0107@gsr.edu.in,GSR University
+S0108,Ananya,Female,23,Computer Engineering,2022,Telangana,s0108@gsr.edu.in,GSR University
+S0109,Meera,Female,22,Computer Engineering,2021,Madhya Pradesh,s0109@gsr.edu.in,GSR University
+S0110,Nikhil,Male,23,Computer Engineering,2023,Uttar Pradesh,s0110@gsr.edu.in,GSR University
+S0111,Aditi,Female,19,Computer Engineering,2022,Bihar,s0111@gsr.edu.in,GSR University
+S0112,Arjun,Male,23,Computer Engineering,2021,Tamil Nadu,s0112@gsr.edu.in,GSR University
+S0113,Karan,Male,19,Computer Engineering,2021,Punjab,s0113@gsr.edu.in,GSR University
+S0114,Amit,Male,24,Computer Engineering,2021,Rajasthan,s0114@gsr.edu.in,GSR University
+S0115,Sneha,Female,20,Computer Engineering,2022,West Bengal,s0115@gsr.edu.in,GSR University
+S0116,Neha,Female,23,Computer Engineering,2021,West Bengal,s0116@gsr.edu.in,GSR University
+S0117,Rakesh,Male,18,Computer Engineering,2023,Uttar Pradesh,s0117@gsr.edu.in,GSR University
+S0118,Aditi,Female,18,Computer Engineering,2023,Punjab,s0118@gsr.edu.in,GSR University
+S0119,Deepak,Male,24,Computer Engineering,2021,Uttar Pradesh,s0119@gsr.edu.in,GSR University
+S0120,Ankit,Male,24,Computer Engineering,2021,Karnataka,s0120@gsr.edu.in,GSR University
+S0121,Vivek,Male,19,Computer Engineering,2022,West Bengal,s0121@gsr.edu.in,GSR University
+S0122,Neha,Female,20,Computer Engineering,2022,Andhra Pradesh,s0122@gsr.edu.in,GSR University
+S0123,Aditi,Female,24,Computer Engineering,2021,Rajasthan,s0123@gsr.edu.in,GSR University
+S0124,Aditi,Female,21,Computer Engineering,2022,Delhi,s0124@gsr.edu.in,GSR University
+S0125,Ankit,Male,21,Computer Engineering,2022,Delhi,s0125@gsr.edu.in,GSR University
+S0126,Ananya,Female,20,Computer Engineering,2023,Bihar,s0126@gsr.edu.in,GSR University
+S0127,Rakesh,Male,19,Computer Engineering,2023,Madhya Pradesh,s0127@gsr.edu.in,GSR University
+S0128,Sanjay,Male,23,Computer Engineering,2022,Karnataka,s0128@gsr.edu.in,GSR University
+S0129,Neha,Female,20,Computer Engineering,2022,Tamil Nadu,s0129@gsr.edu.in,GSR University
+S0130,Aarav,Male,18,Computer Engineering,2023,Bihar,s0130@gsr.edu.in,GSR University
+S0131,Suresh,Male,20,Computer Engineering,2021,Bihar,s0131@gsr.edu.in,GSR University
+S0132,Kavya,Female,21,Computer Engineering,2021,Maharashtra,s0132@gsr.edu.in,GSR University
+S0133,Shreya,Female,20,Computer Engineering,2022,Punjab,s0133@gsr.edu.in,GSR University
+S0134,Ankit,Male,21,Computer Engineering,2023,Karnataka,s0134@gsr.edu.in,GSR University
+S0135,Aditi,Female,23,Computer Engineering,2023,Uttar Pradesh,s0135@gsr.edu.in,GSR University
+S0136,Komal,Female,18,Computer Engineering,2021,Uttar Pradesh,s0136@gsr.edu.in,GSR University
+S0137,Manish,Male,19,Computer Engineering,2021,Madhya Pradesh,s0137@gsr.edu.in,GSR University
+S0138,Deepak,Male,24,Computer Engineering,2021,Rajasthan,s0138@gsr.edu.in,GSR University
+S0139,Priya,Female,18,Computer Engineering,2023,Tamil Nadu,s0139@gsr.edu.in,GSR University
+S0140,Shreya,Female,20,Computer Engineering,2023,Maharashtra,s0140@gsr.edu.in,GSR University
+S0141,Shreya,Female,21,Computer Engineering,2021,Rajasthan,s0141@gsr.edu.in,GSR University
+S0142,Nisha,Female,20,Computer Engineering,2023,Haryana,s0142@gsr.edu.in,GSR University
+S0143,Riya,Female,23,Computer Engineering,2022,Andhra Pradesh,s0143@gsr.edu.in,GSR University
+S0144,Rahul,Male,20,Computer Engineering,2021,Madhya Pradesh,s0144@gsr.edu.in,GSR University
+S0145,Sanjay,Male,22,Computer Engineering,2022,Tamil Nadu,s0145@gsr.edu.in,GSR University
+S0146,Rahul,Male,20,Computer Engineering,2022,Karnataka,s0146@gsr.edu.in,GSR University
+S0147,Nisha,Female,22,Computer Engineering,2023,Delhi,s0147@gsr.edu.in,GSR University
+S0148,Ishita,Female,21,Computer Engineering,2022,Andhra Pradesh,s0148@gsr.edu.in,GSR University
+S0149,Sakshi,Female,18,Computer Engineering,2021,Maharashtra,s0149@gsr.edu.in,GSR University
+S0150,Amit,Male,24,Computer Engineering,2023,Haryana,s0150@gsr.edu.in,GSR University
+S0151,Priya,Female,20,Civil Engineering,2021,Punjab,s0151@gsr.edu.in,GSR University
+S0152,Karan,Male,19,Civil Engineering,2023,Delhi,s0152@gsr.edu.in,GSR University
+S0153,Aditya,Male,19,Civil Engineering,2022,Andhra Pradesh,s0153@gsr.edu.in,GSR University
+S0154,Priya,Female,18,Civil Engineering,2021,Gujarat,s0154@gsr.edu.in,GSR University
+S0155,Rahul,Male,24,Civil Engineering,2021,West Bengal,s0155@gsr.edu.in,GSR University
+S0156,Deepak,Male,23,Civil Engineering,2023,Bihar,s0156@gsr.edu.in,GSR University
+S0157,Rahul,Male,21,Civil Engineering,2023,Odisha,s0157@gsr.edu.in,GSR University
+S0158,Nisha,Female,19,Civil Engineering,2023,Maharashtra,s0158@gsr.edu.in,GSR University
+S0159,Nisha,Female,18,Civil Engineering,2023,Delhi,s0159@gsr.edu.in,GSR University
+S0160,Pallavi,Female,24,Civil Engineering,2023,Uttar Pradesh,s0160@gsr.edu.in,GSR University
+S0161,Ankit,Male,21,Civil Engineering,2021,Delhi,s0161@gsr.edu.in,GSR University
+S0162,Rohan,Male,19,Civil Engineering,2021,Bihar,s0162@gsr.edu.in,GSR University
+S0163,Riya,Female,20,Civil Engineering,2021,Delhi,s0163@gsr.edu.in,GSR University
+S0164,Pooja,Female,20,Civil Engineering,2023,Tamil Nadu,s0164@gsr.edu.in,GSR University
+S0165,Sanjay,Male,19,Civil Engineering,2022,Tamil Nadu,s0165@gsr.edu.in,GSR University
+S0166,Nikhil,Male,19,Civil Engineering,2023,Telangana,s0166@gsr.edu.in,GSR University
+S0167,Rahul,Male,20,Civil Engineering,2023,West Bengal,s0167@gsr.edu.in,GSR University
+S0168,Pooja,Female,19,Civil Engineering,2021,Uttar Pradesh,s0168@gsr.edu.in,GSR University
+S0169,Nikhil,Male,20,Civil Engineering,2022,Telangana,s0169@gsr.edu.in,GSR University
+S0170,Rahul,Male,22,Civil Engineering,2021,Maharashtra,s0170@gsr.edu.in,GSR University
+S0171,Arjun,Male,22,Civil Engineering,2021,Madhya Pradesh,s0171@gsr.edu.in,GSR University
+S0172,Pooja,Female,22,Civil Engineering,2021,Bihar,s0172@gsr.edu.in,GSR University
+S0173,Ishita,Female,19,Civil Engineering,2023,Bihar,s0173@gsr.edu.in,GSR University
+S0174,Vivek,Male,22,Civil Engineering,2023,Maharashtra,s0174@gsr.edu.in,GSR University
+S0175,Rohan,Male,23,Civil Engineering,2021,Andhra Pradesh,s0175@gsr.edu.in,GSR University
+S0176,Sanjay,Male,23,Civil Engineering,2021,Punjab,s0176@gsr.edu.in,GSR University
+S0177,Aditi,Female,22,Civil Engineering,2022,Haryana,s0177@gsr.edu.in,GSR University
+S0178,Suresh,Male,24,Civil Engineering,2021,Rajasthan,s0178@gsr.edu.in,GSR University
+S0179,Aditya,Male,21,Civil Engineering,2021,Delhi,s0179@gsr.edu.in,GSR University
+S0180,Kavya,Female,23,Civil Engineering,2021,Andhra Pradesh,s0180@gsr.edu.in,GSR University
+S0181,Arjun,Male,22,Civil Engineering,2021,Madhya Pradesh,s0181@gsr.edu.in,GSR University
+S0182,Neha,Female,18,Civil Engineering,2023,Uttar Pradesh,s0182@gsr.edu.in,GSR University
+S0183,Kavya,Female,21,Civil Engineering,2023,Andhra Pradesh,s0183@gsr.edu.in,GSR University
+S0184,Deepak,Male,24,Civil Engineering,2022,Haryana,s0184@gsr.edu.in,GSR University
+S0185,Meera,Female,21,Civil Engineering,2021,Andhra Pradesh,s0185@gsr.edu.in,GSR University
+S0186,Pallavi,Female,24,Civil Engineering,2021,Telangana,s0186@gsr.edu.in,GSR University
+S0187,Sneha,Female,22,Civil Engineering,2021,Andhra Pradesh,s0187@gsr.edu.in,GSR University
+S0188,Ananya,Female,20,Civil Engineering,2021,Karnataka,s0188@gsr.edu.in,GSR University
+S0189,Meera,Female,23,Civil Engineering,2022,Odisha,s0189@gsr.edu.in,GSR University
+S0190,Pallavi,Female,22,Civil Engineering,2022,Odisha,s0190@gsr.edu.in,GSR University
+S0191,Nisha,Female,23,Civil Engineering,2023,Odisha,s0191@gsr.edu.in,GSR University
+S0192,Karan,Male,23,Civil Engineering,2022,Karnataka,s0192@gsr.edu.in,GSR University
+S0193,Rakesh,Male,24,Civil Engineering,2023,Uttar Pradesh,s0193@gsr.edu.in,GSR University
+S0194,Vivek,Male,23,Civil Engineering,2021,Telangana,s0194@gsr.edu.in,GSR University
+S0195,Ishita,Female,24,Civil Engineering,2021,Tamil Nadu,s0195@gsr.edu.in,GSR University
+S0196,Komal,Female,19,Civil Engineering,2022,Gujarat,s0196@gsr.edu.in,GSR University
+S0197,Rahul,Male,20,Civil Engineering,2021,Tamil Nadu,s0197@gsr.edu.in,GSR University
+S0198,Aditi,Female,22,Civil Engineering,2023,Tamil Nadu,s0198@gsr.edu.in,GSR University
+S0199,Vivek,Male,18,Civil Engineering,2022,Delhi,s0199@gsr.edu.in,GSR University
+S0200,Komal,Female,19,Civil Engineering,2021,Odisha,s0200@gsr.edu.in,GSR University
+S0201,Pooja,Female,19,Civil Engineering,2022,Madhya Pradesh,s0201@gsr.edu.in,GSR University
+S0202,Riya,Female,23,Civil Engineering,2022,Madhya Pradesh,s0202@gsr.edu.in,GSR University
+S0203,Deepak,Male,24,Civil Engineering,2023,Gujarat,s0203@gsr.edu.in,GSR University
+S0204,Aarav,Male,22,Civil Engineering,2021,Andhra Pradesh,s0204@gsr.edu.in,GSR University
+S0205,Rahul,Male,19,Civil Engineering,2021,Haryana,s0205@gsr.edu.in,GSR University
+S0206,Pooja,Female,22,Civil Engineering,2021,Uttar Pradesh,s0206@gsr.edu.in,GSR University
+S0207,Manish,Male,22,Civil Engineering,2022,Gujarat,s0207@gsr.edu.in,GSR University
+S0208,Meera,Female,22,Civil Engineering,2022,Rajasthan,s0208@gsr.edu.in,GSR University
+S0209,Manish,Male,24,Civil Engineering,2023,Uttar Pradesh,s0209@gsr.edu.in,GSR University
+S0210,Ananya,Female,19,Civil Engineering,2023,Tamil Nadu,s0210@gsr.edu.in,GSR University
+S0211,Rahul,Male,18,Civil Engineering,2021,Bihar,s0211@gsr.edu.in,GSR University
+S0212,Ananya,Female,19,Civil Engineering,2021,Punjab,s0212@gsr.edu.in,GSR University
+S0213,Ankit,Male,23,Civil Engineering,2023,Madhya Pradesh,s0213@gsr.edu.in,GSR University
+S0214,Meera,Female,23,Civil Engineering,2023,Bihar,s0214@gsr.edu.in,GSR University
+S0215,Nikhil,Male,18,Civil Engineering,2021,Gujarat,s0215@gsr.edu.in,GSR University
+S0216,Ananya,Female,19,Civil Engineering,2021,Madhya Pradesh,s0216@gsr.edu.in,GSR University
+S0217,Ankit,Male,22,Civil Engineering,2022,Haryana,s0217@gsr.edu.in,GSR University
+S0218,Kavya,Female,23,Civil Engineering,2023,Telangana,s0218@gsr.edu.in,GSR University
+S0219,Rohan,Male,18,Civil Engineering,2023,Andhra Pradesh,s0219@gsr.edu.in,GSR University
+S0220,Rahul,Male,18,Civil Engineering,2023,Delhi,s0220@gsr.edu.in,GSR University
+S0221,Nisha,Female,23,Civil Engineering,2022,Gujarat,s0221@gsr.edu.in,GSR University
+S0222,Vivek,Male,21,Civil Engineering,2023,Delhi,s0222@gsr.edu.in,GSR University
+S0223,Suresh,Male,21,Civil Engineering,2021,Tamil Nadu,s0223@gsr.edu.in,GSR University
+S0224,Vivek,Male,20,Civil Engineering,2023,Rajasthan,s0224@gsr.edu.in,GSR University
+S0225,Nikhil,Male,21,Civil Engineering,2023,Andhra Pradesh,s0225@gsr.edu.in,GSR University
+S0226,Aditya,Male,23,Civil Engineering,2023,Haryana,s0226@gsr.edu.in,GSR University
+S0227,Rahul,Male,18,Civil Engineering,2022,Punjab,s0227@gsr.edu.in,GSR University
+S0228,Deepak,Male,24,Civil Engineering,2021,Delhi,s0228@gsr.edu.in,GSR University
+S0229,Pooja,Female,22,Civil Engineering,2021,Rajasthan,s0229@gsr.edu.in,GSR University
+S0230,Rakesh,Male,19,Civil Engineering,2023,Haryana,s0230@gsr.edu.in,GSR University
+S0231,Nisha,Female,20,Civil Engineering,2022,West Bengal,s0231@gsr.edu.in,GSR University
+S0232,Amit,Male,19,Civil Engineering,2022,Madhya Pradesh,s0232@gsr.edu.in,GSR University
+S0233,Karan,Male,22,Civil Engineering,2023,West Bengal,s0233@gsr.edu.in,GSR University
+S0234,Rakesh,Male,20,Civil Engineering,2023,Karnataka,s0234@gsr.edu.in,GSR University
+S0235,Nisha,Female,24,Civil Engineering,2021,Delhi,s0235@gsr.edu.in,GSR University
+S0236,Riya,Female,23,Civil Engineering,2023,Madhya Pradesh,s0236@gsr.edu.in,GSR University
+S0237,Manish,Male,18,Civil Engineering,2022,Uttar Pradesh,s0237@gsr.edu.in,GSR University
+S0238,Komal,Female,23,Civil Engineering,2021,Madhya Pradesh,s0238@gsr.edu.in,GSR University
+S0239,Pooja,Female,24,Civil Engineering,2021,Odisha,s0239@gsr.edu.in,GSR University
+S0240,Neha,Female,21,Civil Engineering,2021,Maharashtra,s0240@gsr.edu.in,GSR University
+S0241,Aditi,Female,23,Civil Engineering,2021,West Bengal,s0241@gsr.edu.in,GSR University
+S0242,Manish,Male,21,Civil Engineering,2021,West Bengal,s0242@gsr.edu.in,GSR University
+S0243,Ananya,Female,23,Civil Engineering,2023,Haryana,s0243@gsr.edu.in,GSR University
+S0244,Karan,Male,18,Civil Engineering,2023,Bihar,s0244@gsr.edu.in,GSR University
+S0245,Vivek,Male,20,Civil Engineering,2022,Rajasthan,s0245@gsr.edu.in,GSR University
+S0246,Karan,Male,20,Civil Engineering,2021,Madhya Pradesh,s0246@gsr.edu.in,GSR University
+S0247,Sanjay,Male,22,Civil Engineering,2021,Andhra Pradesh,s0247@gsr.edu.in,GSR University
+S0248,Rakesh,Male,22,Civil Engineering,2021,Odisha,s0248@gsr.edu.in,GSR University
+S0249,Vivek,Male,19,Civil Engineering,2021,Karnataka,s0249@gsr.edu.in,GSR University
+S0250,Rakesh,Male,23,Civil Engineering,2023,Punjab,s0250@gsr.edu.in,GSR University
+S0251,Ishita,Female,22,Civil Engineering,2021,Punjab,s0251@gsr.edu.in,GSR University
+S0252,Neha,Female,22,Civil Engineering,2021,West Bengal,s0252@gsr.edu.in,GSR University
+S0253,Aditya,Male,20,Civil Engineering,2022,Madhya Pradesh,s0253@gsr.edu.in,GSR University
+S0254,Suresh,Male,24,Civil Engineering,2023,Haryana,s0254@gsr.edu.in,GSR University
+S0255,Arjun,Male,21,Civil Engineering,2022,Haryana,s0255@gsr.edu.in,GSR University
+S0256,Komal,Female,21,Civil Engineering,2023,Andhra Pradesh,s0256@gsr.edu.in,GSR University
+S0257,Riya,Female,21,Civil Engineering,2022,Telangana,s0257@gsr.edu.in,GSR University
+S0258,Pallavi,Female,22,Civil Engineering,2023,West Bengal,s0258@gsr.edu.in,GSR University
+S0259,Ankit,Male,22,Civil Engineering,2021,Bihar,s0259@gsr.edu.in,GSR University
+S0260,Deepak,Male,18,Civil Engineering,2022,West Bengal,s0260@gsr.edu.in,GSR University
+S0261,Pooja,Female,21,Civil Engineering,2021,Telangana,s0261@gsr.edu.in,GSR University
+S0262,Nisha,Female,22,Civil Engineering,2022,Odisha,s0262@gsr.edu.in,GSR University
+S0263,Rakesh,Male,22,Civil Engineering,2023,West Bengal,s0263@gsr.edu.in,GSR University
+S0264,Nisha,Female,20,Civil Engineering,2021,Delhi,s0264@gsr.edu.in,GSR University
+S0265,Amit,Male,21,Civil Engineering,2021,Bihar,s0265@gsr.edu.in,GSR University
+S0266,Pooja,Female,20,Civil Engineering,2021,Delhi,s0266@gsr.edu.in,GSR University
+S0267,Arjun,Male,21,Civil Engineering,2022,Andhra Pradesh,s0267@gsr.edu.in,GSR University
+S0268,Riya,Female,23,Civil Engineering,2021,Karnataka,s0268@gsr.edu.in,GSR University
+S0269,Aditya,Male,19,Civil Engineering,2021,Rajasthan,s0269@gsr.edu.in,GSR University
+S0270,Meera,Female,24,Civil Engineering,2021,Bihar,s0270@gsr.edu.in,GSR University
+S0271,Neha,Female,22,Civil Engineering,2021,Rajasthan,s0271@gsr.edu.in,GSR University
+S0272,Ananya,Female,18,Civil Engineering,2022,Punjab,s0272@gsr.edu.in,GSR University
+S0273,Ishita,Female,22,Civil Engineering,2022,Maharashtra,s0273@gsr.edu.in,GSR University
+S0274,Karan,Male,24,Civil Engineering,2022,Rajasthan,s0274@gsr.edu.in,GSR University
+S0275,Ankit,Male,23,Civil Engineering,2023,Bihar,s0275@gsr.edu.in,GSR University
+S0276,Aarav,Male,19,Civil Engineering,2023,Rajasthan,s0276@gsr.edu.in,GSR University
+S0277,Amit,Male,21,Civil Engineering,2021,Gujarat,s0277@gsr.edu.in,GSR University
+S0278,Pooja,Female,22,Civil Engineering,2022,Telangana,s0278@gsr.edu.in,GSR University
+S0279,Ankit,Male,21,Civil Engineering,2022,Punjab,s0279@gsr.edu.in,GSR University
+S0280,Meera,Female,22,Civil Engineering,2023,Punjab,s0280@gsr.edu.in,GSR University
+S0281,Sakshi,Female,21,Civil Engineering,2023,Andhra Pradesh,s0281@gsr.edu.in,GSR University
+S0282,Neha,Female,18,Civil Engineering,2022,Tamil Nadu,s0282@gsr.edu.in,GSR University
+S0283,Pooja,Female,19,Civil Engineering,2022,West Bengal,s0283@gsr.edu.in,GSR University
+S0284,Aditi,Female,19,Civil Engineering,2022,Gujarat,s0284@gsr.edu.in,GSR University
+S0285,Nisha,Female,20,Civil Engineering,2023,Odisha,s0285@gsr.edu.in,GSR University
+S0286,Vivek,Male,20,Civil Engineering,2023,Karnataka,s0286@gsr.edu.in,GSR University
+S0287,Deepak,Male,22,Civil Engineering,2022,Andhra Pradesh,s0287@gsr.edu.in,GSR University
+S0288,Aditya,Male,19,Civil Engineering,2023,Punjab,s0288@gsr.edu.in,GSR University
+S0289,Aarav,Male,22,Civil Engineering,2022,Haryana,s0289@gsr.edu.in,GSR University
+S0290,Shreya,Female,23,Civil Engineering,2023,Maharashtra,s0290@gsr.edu.in,GSR University
+S0291,Rohan,Male,20,Civil Engineering,2023,Rajasthan,s0291@gsr.edu.in,GSR University
+S0292,Sneha,Female,20,Civil Engineering,2022,Karnataka,s0292@gsr.edu.in,GSR University
+S0293,Aditi,Female,22,Civil Engineering,2022,Rajasthan,s0293@gsr.edu.in,GSR University
+S0294,Kavya,Female,18,Civil Engineering,2021,West Bengal,s0294@gsr.edu.in,GSR University
+S0295,Arjun,Male,21,Civil Engineering,2022,Odisha,s0295@gsr.edu.in,GSR University
+S0296,Pallavi,Female,19,Civil Engineering,2022,Delhi,s0296@gsr.edu.in,GSR University
+S0297,Sakshi,Female,20,Civil Engineering,2022,Delhi,s0297@gsr.edu.in,GSR University
+S0298,Deepak,Male,24,Civil Engineering,2021,West Bengal,s0298@gsr.edu.in,GSR University
+S0299,Aditi,Female,22,Civil Engineering,2023,Punjab,s0299@gsr.edu.in,GSR University
+S0300,Aarav,Male,20,Civil Engineering,2022,Tamil Nadu,s0300@gsr.edu.in,GSR University
+S0301,Nisha,Female,24,Electrical Engineering,2021,Odisha,s0301@gsr.edu.in,GSR University
+S0302,Nikhil,Male,20,Electrical Engineering,2021,Odisha,s0302@gsr.edu.in,GSR University
+S0303,Aditi,Female,18,Electrical Engineering,2021,Tamil Nadu,s0303@gsr.edu.in,GSR University
+S0304,Deepak,Male,20,Electrical Engineering,2021,Haryana,s0304@gsr.edu.in,GSR University
+S0305,Aditya,Male,19,Electrical Engineering,2021,Karnataka,s0305@gsr.edu.in,GSR University
+S0306,Ishita,Female,23,Electrical Engineering,2023,Uttar Pradesh,s0306@gsr.edu.in,GSR University
+S0307,Manish,Male,23,Electrical Engineering,2021,West Bengal,s0307@gsr.edu.in,GSR University
+S0308,Sanjay,Male,23,Electrical Engineering,2022,Odisha,s0308@gsr.edu.in,GSR University
+S0309,Arjun,Male,18,Electrical Engineering,2021,Haryana,s0309@gsr.edu.in,GSR University
+S0310,Shreya,Female,21,Electrical Engineering,2023,Bihar,s0310@gsr.edu.in,GSR University
+S0311,Priya,Female,23,Electrical Engineering,2021,Delhi,s0311@gsr.edu.in,GSR University
+S0312,Rohan,Male,20,Electrical Engineering,2023,Maharashtra,s0312@gsr.edu.in,GSR University
+S0313,Pallavi,Female,22,Electrical Engineering,2022,Haryana,s0313@gsr.edu.in,GSR University
+S0314,Nisha,Female,18,Electrical Engineering,2022,Rajasthan,s0314@gsr.edu.in,GSR University
+S0315,Meera,Female,22,Electrical Engineering,2021,Uttar Pradesh,s0315@gsr.edu.in,GSR University
+S0316,Manish,Male,20,Electrical Engineering,2023,Telangana,s0316@gsr.edu.in,GSR University
+S0317,Nikhil,Male,20,Electrical Engineering,2021,Uttar Pradesh,s0317@gsr.edu.in,GSR University
+S0318,Sanjay,Male,21,Electrical Engineering,2022,Telangana,s0318@gsr.edu.in,GSR University
+S0319,Nisha,Female,20,Electrical Engineering,2023,Odisha,s0319@gsr.edu.in,GSR University
+S0320,Rohan,Male,22,Electrical Engineering,2023,Odisha,s0320@gsr.edu.in,GSR University
+S0321,Aditi,Female,24,Electrical Engineering,2022,Punjab,s0321@gsr.edu.in,GSR University
+S0322,Ananya,Female,18,Electrical Engineering,2023,Gujarat,s0322@gsr.edu.in,GSR University
+S0323,Rohan,Male,21,Electrical Engineering,2023,Madhya Pradesh,s0323@gsr.edu.in,GSR University
+S0324,Kavya,Female,24,Electrical Engineering,2021,Telangana,s0324@gsr.edu.in,GSR University
+S0325,Ananya,Female,23,Electrical Engineering,2022,Uttar Pradesh,s0325@gsr.edu.in,GSR University
+S0326,Vivek,Male,20,Electrical Engineering,2022,Madhya Pradesh,s0326@gsr.edu.in,GSR University
+S0327,Pallavi,Female,23,Electrical Engineering,2022,Bihar,s0327@gsr.edu.in,GSR University
+S0328,Aditya,Male,21,Electrical Engineering,2022,Karnataka,s0328@gsr.edu.in,GSR University
+S0329,Sanjay,Male,23,Electrical Engineering,2023,Madhya Pradesh,s0329@gsr.edu.in,GSR University
+S0330,Rahul,Male,21,Electrical Engineering,2023,Odisha,s0330@gsr.edu.in,GSR University
+S0331,Pallavi,Female,18,Electrical Engineering,2023,Odisha,s0331@gsr.edu.in,GSR University
+S0332,Amit,Male,18,Electrical Engineering,2022,Rajasthan,s0332@gsr.edu.in,GSR University
+S0333,Deepak,Male,18,Electrical Engineering,2023,Haryana,s0333@gsr.edu.in,GSR University
+S0334,Rahul,Male,23,Electrical Engineering,2022,Telangana,s0334@gsr.edu.in,GSR University
+S0335,Karan,Male,24,Electrical Engineering,2021,Delhi,s0335@gsr.edu.in,GSR University
+S0336,Ankit,Male,20,Electrical Engineering,2022,Tamil Nadu,s0336@gsr.edu.in,GSR University
+S0337,Sakshi,Female,21,Electrical Engineering,2022,Haryana,s0337@gsr.edu.in,GSR University
+S0338,Manish,Male,22,Electrical Engineering,2023,Rajasthan,s0338@gsr.edu.in,GSR University
+S0339,Kavya,Female,23,Electrical Engineering,2021,West Bengal,s0339@gsr.edu.in,GSR University
+S0340,Deepak,Male,18,Electrical Engineering,2022,Karnataka,s0340@gsr.edu.in,GSR University
+S0341,Ishita,Female,23,Electrical Engineering,2021,Gujarat,s0341@gsr.edu.in,GSR University
+S0342,Sakshi,Female,20,Electrical Engineering,2022,Gujarat,s0342@gsr.edu.in,GSR University
+S0343,Pooja,Female,18,Electrical Engineering,2023,Bihar,s0343@gsr.edu.in,GSR University
+S0344,Pallavi,Female,18,Electrical Engineering,2022,Punjab,s0344@gsr.edu.in,GSR University
+S0345,Aarav,Male,18,Electrical Engineering,2023,Tamil Nadu,s0345@gsr.edu.in,GSR University
+S0346,Priya,Female,20,Electrical Engineering,2021,Bihar,s0346@gsr.edu.in,GSR University
+S0347,Ananya,Female,20,Electrical Engineering,2022,Punjab,s0347@gsr.edu.in,GSR University
+S0348,Sakshi,Female,24,Electrical Engineering,2021,Bihar,s0348@gsr.edu.in,GSR University
+S0349,Amit,Male,24,Electrical Engineering,2023,Bihar,s0349@gsr.edu.in,GSR University
+S0350,Ishita,Female,24,Electrical Engineering,2022,Odisha,s0350@gsr.edu.in,GSR University
+S0351,Aarav,Male,24,Electrical Engineering,2021,Delhi,s0351@gsr.edu.in,GSR University
+S0352,Neha,Female,19,Electrical Engineering,2022,Bihar,s0352@gsr.edu.in,GSR University
+S0353,Karan,Male,23,Electrical Engineering,2022,Madhya Pradesh,s0353@gsr.edu.in,GSR University
+S0354,Manish,Male,18,Electrical Engineering,2022,West Bengal,s0354@gsr.edu.in,GSR University
+S0355,Riya,Female,22,Electrical Engineering,2023,Gujarat,s0355@gsr.edu.in,GSR University
+S0356,Ananya,Female,20,Electrical Engineering,2023,Punjab,s0356@gsr.edu.in,GSR University
+S0357,Kavya,Female,21,Electrical Engineering,2022,Bihar,s0357@gsr.edu.in,GSR University
+S0358,Amit,Male,19,Electrical Engineering,2022,Delhi,s0358@gsr.edu.in,GSR University
+S0359,Rahul,Male,21,Electrical Engineering,2021,Uttar Pradesh,s0359@gsr.edu.in,GSR University
+S0360,Meera,Female,19,Electrical Engineering,2021,Gujarat,s0360@gsr.edu.in,GSR University
+S0361,Priya,Female,23,Electrical Engineering,2023,Punjab,s0361@gsr.edu.in,GSR University
+S0362,Sakshi,Female,22,Electrical Engineering,2023,Karnataka,s0362@gsr.edu.in,GSR University
+S0363,Karan,Male,19,Electrical Engineering,2021,Bihar,s0363@gsr.edu.in,GSR University
+S0364,Amit,Male,20,Electrical Engineering,2022,Bihar,s0364@gsr.edu.in,GSR University
+S0365,Manish,Male,22,Electrical Engineering,2023,Haryana,s0365@gsr.edu.in,GSR University
+S0366,Pooja,Female,24,Electrical Engineering,2021,Telangana,s0366@gsr.edu.in,GSR University
+S0367,Karan,Male,18,Electrical Engineering,2022,Tamil Nadu,s0367@gsr.edu.in,GSR University
+S0368,Kavya,Female,19,Electrical Engineering,2021,Delhi,s0368@gsr.edu.in,GSR University
+S0369,Aarav,Male,20,Electrical Engineering,2023,Punjab,s0369@gsr.edu.in,GSR University
+S0370,Aditya,Male,19,Electrical Engineering,2022,Maharashtra,s0370@gsr.edu.in,GSR University
+S0371,Aditi,Female,18,Electrical Engineering,2023,Delhi,s0371@gsr.edu.in,GSR University
+S0372,Meera,Female,22,Electrical Engineering,2021,Madhya Pradesh,s0372@gsr.edu.in,GSR University
+S0373,Komal,Female,21,Electrical Engineering,2022,Uttar Pradesh,s0373@gsr.edu.in,GSR University
+S0374,Komal,Female,23,Electrical Engineering,2021,Haryana,s0374@gsr.edu.in,GSR University
+S0375,Pooja,Female,21,Electrical Engineering,2022,West Bengal,s0375@gsr.edu.in,GSR University
+S0376,Amit,Male,24,Electrical Engineering,2022,Karnataka,s0376@gsr.edu.in,GSR University
+S0377,Aditi,Female,19,Electrical Engineering,2022,Telangana,s0377@gsr.edu.in,GSR University
+S0378,Amit,Male,21,Electrical Engineering,2021,Telangana,s0378@gsr.edu.in,GSR University
+S0379,Rohan,Male,22,Electrical Engineering,2022,West Bengal,s0379@gsr.edu.in,GSR University
+S0380,Priya,Female,22,Electrical Engineering,2023,Madhya Pradesh,s0380@gsr.edu.in,GSR University
+S0381,Nikhil,Male,19,Electrical Engineering,2021,Karnataka,s0381@gsr.edu.in,GSR University
+S0382,Sneha,Female,19,Electrical Engineering,2023,Delhi,s0382@gsr.edu.in,GSR University
+S0383,Rohan,Male,18,Electrical Engineering,2021,Uttar Pradesh,s0383@gsr.edu.in,GSR University
+S0384,Riya,Female,20,Electrical Engineering,2022,Haryana,s0384@gsr.edu.in,GSR University
+S0385,Manish,Male,23,Electrical Engineering,2023,Tamil Nadu,s0385@gsr.edu.in,GSR University
+S0386,Rakesh,Male,22,Electrical Engineering,2023,Rajasthan,s0386@gsr.edu.in,GSR University
+S0387,Ishita,Female,23,Electrical Engineering,2022,Delhi,s0387@gsr.edu.in,GSR University
+S0388,Komal,Female,20,Electrical Engineering,2023,Rajasthan,s0388@gsr.edu.in,GSR University
+S0389,Rahul,Male,22,Electrical Engineering,2023,Haryana,s0389@gsr.edu.in,GSR University
+S0390,Aarav,Male,20,Electrical Engineering,2023,Bihar,s0390@gsr.edu.in,GSR University
+S0391,Priya,Female,23,Electrical Engineering,2021,Madhya Pradesh,s0391@gsr.edu.in,GSR University
+S0392,Neha,Female,23,Electrical Engineering,2022,Madhya Pradesh,s0392@gsr.edu.in,GSR University
+S0393,Priya,Female,19,Electrical Engineering,2021,Tamil Nadu,s0393@gsr.edu.in,GSR University
+S0394,Aditya,Male,19,Electrical Engineering,2023,Uttar Pradesh,s0394@gsr.edu.in,GSR University
+S0395,Sneha,Female,18,Electrical Engineering,2021,Rajasthan,s0395@gsr.edu.in,GSR University
+S0396,Amit,Male,18,Electrical Engineering,2023,Haryana,s0396@gsr.edu.in,GSR University
+S0397,Amit,Male,21,Electrical Engineering,2022,Maharashtra,s0397@gsr.edu.in,GSR University
+S0398,Neha,Female,18,Electrical Engineering,2022,Bihar,s0398@gsr.edu.in,GSR University
+S0399,Pooja,Female,18,Electrical Engineering,2023,Telangana,s0399@gsr.edu.in,GSR University
+S0400,Amit,Male,21,Electrical Engineering,2021,Madhya Pradesh,s0400@gsr.edu.in,GSR University
+S0401,Karan,Male,18,Electrical Engineering,2022,Odisha,s0401@gsr.edu.in,GSR University
+S0402,Rakesh,Male,19,Electrical Engineering,2023,Haryana,s0402@gsr.edu.in,GSR University
+S0403,Nikhil,Male,23,Electrical Engineering,2021,Rajasthan,s0403@gsr.edu.in,GSR University
+S0404,Priya,Female,24,Electrical Engineering,2023,Tamil Nadu,s0404@gsr.edu.in,GSR University
+S0405,Nisha,Female,18,Electrical Engineering,2021,Andhra Pradesh,s0405@gsr.edu.in,GSR University
+S0406,Pooja,Female,22,Electrical Engineering,2021,Uttar Pradesh,s0406@gsr.edu.in,GSR University
+S0407,Aarav,Male,23,Electrical Engineering,2021,Odisha,s0407@gsr.edu.in,GSR University
+S0408,Pooja,Female,21,Electrical Engineering,2023,Bihar,s0408@gsr.edu.in,GSR University
+S0409,Deepak,Male,21,Electrical Engineering,2023,Andhra Pradesh,s0409@gsr.edu.in,GSR University
+S0410,Rahul,Male,19,Electrical Engineering,2022,Uttar Pradesh,s0410@gsr.edu.in,GSR University
+S0411,Amit,Male,22,Electrical Engineering,2023,Delhi,s0411@gsr.edu.in,GSR University
+S0412,Sanjay,Male,20,Electrical Engineering,2022,Delhi,s0412@gsr.edu.in,GSR University
+S0413,Suresh,Male,18,Electrical Engineering,2023,West Bengal,s0413@gsr.edu.in,GSR University
+S0414,Ishita,Female,19,Electrical Engineering,2021,Haryana,s0414@gsr.edu.in,GSR University
+S0415,Aarav,Male,24,Electrical Engineering,2022,Bihar,s0415@gsr.edu.in,GSR University
+S0416,Arjun,Male,21,Electrical Engineering,2023,Delhi,s0416@gsr.edu.in,GSR University
+S0417,Aarav,Male,22,Electrical Engineering,2021,Tamil Nadu,s0417@gsr.edu.in,GSR University
+S0418,Nisha,Female,23,Electrical Engineering,2023,Haryana,s0418@gsr.edu.in,GSR University
+S0419,Aarav,Male,19,Electrical Engineering,2023,Telangana,s0419@gsr.edu.in,GSR University
+S0420,Rahul,Male,19,Electrical Engineering,2023,Maharashtra,s0420@gsr.edu.in,GSR University
+S0421,Sakshi,Female,23,Electrical Engineering,2021,West Bengal,s0421@gsr.edu.in,GSR University
+S0422,Riya,Female,22,Electrical Engineering,2023,West Bengal,s0422@gsr.edu.in,GSR University
+S0423,Ankit,Male,19,Electrical Engineering,2022,Karnataka,s0423@gsr.edu.in,GSR University
+S0424,Shreya,Female,19,Electrical Engineering,2022,Madhya Pradesh,s0424@gsr.edu.in,GSR University
+S0425,Komal,Female,23,Electrical Engineering,2022,Uttar Pradesh,s0425@gsr.edu.in,GSR University
+S0426,Amit,Male,20,Electrical Engineering,2022,Rajasthan,s0426@gsr.edu.in,GSR University
+S0427,Arjun,Male,21,Electrical Engineering,2022,Madhya Pradesh,s0427@gsr.edu.in,GSR University
+S0428,Rohan,Male,23,Electrical Engineering,2021,Gujarat,s0428@gsr.edu.in,GSR University
+S0429,Ananya,Female,22,Electrical Engineering,2023,West Bengal,s0429@gsr.edu.in,GSR University
+S0430,Rahul,Male,22,Electrical Engineering,2023,Rajasthan,s0430@gsr.edu.in,GSR University
+S0431,Deepak,Male,19,Electrical Engineering,2023,Maharashtra,s0431@gsr.edu.in,GSR University
+S0432,Amit,Male,23,Electrical Engineering,2021,Gujarat,s0432@gsr.edu.in,GSR University
+S0433,Rahul,Male,21,Electrical Engineering,2022,Uttar Pradesh,s0433@gsr.edu.in,GSR University
+S0434,Sakshi,Female,22,Electrical Engineering,2022,Telangana,s0434@gsr.edu.in,GSR University
+S0435,Suresh,Male,18,Electrical Engineering,2021,Madhya Pradesh,s0435@gsr.edu.in,GSR University
+S0436,Deepak,Male,20,Electrical Engineering,2023,West Bengal,s0436@gsr.edu.in,GSR University
+S0437,Ananya,Female,24,Electrical Engineering,2021,Tamil Nadu,s0437@gsr.edu.in,GSR University
+S0438,Suresh,Male,21,Electrical Engineering,2022,Haryana,s0438@gsr.edu.in,GSR University
+S0439,Sakshi,Female,20,Electrical Engineering,2022,Madhya Pradesh,s0439@gsr.edu.in,GSR University
+S0440,Amit,Male,24,Electrical Engineering,2021,Tamil Nadu,s0440@gsr.edu.in,GSR University
+S0441,Rahul,Male,18,Electrical Engineering,2023,Karnataka,s0441@gsr.edu.in,GSR University
+S0442,Ankit,Male,22,Electrical Engineering,2022,West Bengal,s0442@gsr.edu.in,GSR University
+S0443,Ankit,Male,23,Electrical Engineering,2023,West Bengal,s0443@gsr.edu.in,GSR University
+S0444,Rohan,Male,20,Electrical Engineering,2021,Madhya Pradesh,s0444@gsr.edu.in,GSR University
+S0445,Manish,Male,23,Electrical Engineering,2021,Bihar,s0445@gsr.edu.in,GSR University
+S0446,Sneha,Female,23,Electrical Engineering,2022,Punjab,s0446@gsr.edu.in,GSR University
+S0447,Aarav,Male,24,Electrical Engineering,2023,Rajasthan,s0447@gsr.edu.in,GSR University
+S0448,Priya,Female,19,Electrical Engineering,2021,Telangana,s0448@gsr.edu.in,GSR University
+S0449,Ankit,Male,23,Electrical Engineering,2021,West Bengal,s0449@gsr.edu.in,GSR University
+S0450,Priya,Female,24,Electrical Engineering,2023,Telangana,s0450@gsr.edu.in,GSR University
+S0451,Sneha,Female,18,BBA,2022,Andhra Pradesh,s0451@gsr.edu.in,GSR University
+S0452,Sanjay,Male,20,BBA,2022,Punjab,s0452@gsr.edu.in,GSR University
+S0453,Meera,Female,21,BBA,2022,Rajasthan,s0453@gsr.edu.in,GSR University
+S0454,Komal,Female,23,BBA,2022,West Bengal,s0454@gsr.edu.in,GSR University
+S0455,Karan,Male,20,BBA,2022,Punjab,s0455@gsr.edu.in,GSR University
+S0456,Aditya,Male,20,BBA,2022,Tamil Nadu,s0456@gsr.edu.in,GSR University
+S0457,Ankit,Male,18,BBA,2023,Punjab,s0457@gsr.edu.in,GSR University
+S0458,Sanjay,Male,21,BBA,2021,Telangana,s0458@gsr.edu.in,GSR University
+S0459,Rohan,Male,22,BBA,2022,Odisha,s0459@gsr.edu.in,GSR University
+S0460,Rakesh,Male,23,BBA,2022,Gujarat,s0460@gsr.edu.in,GSR University
+S0461,Pallavi,Female,24,BBA,2023,Delhi,s0461@gsr.edu.in,GSR University
+S0462,Komal,Female,18,BBA,2021,Delhi,s0462@gsr.edu.in,GSR University
+S0463,Sanjay,Male,23,BBA,2022,Telangana,s0463@gsr.edu.in,GSR University
+S0464,Manish,Male,20,BBA,2023,Madhya Pradesh,s0464@gsr.edu.in,GSR University
+S0465,Ishita,Female,23,BBA,2021,West Bengal,s0465@gsr.edu.in,GSR University
+S0466,Riya,Female,23,BBA,2022,Gujarat,s0466@gsr.edu.in,GSR University
+S0467,Kavya,Female,20,BBA,2023,Odisha,s0467@gsr.edu.in,GSR University
+S0468,Riya,Female,21,BBA,2022,West Bengal,s0468@gsr.edu.in,GSR University
+S0469,Pallavi,Female,20,BBA,2022,Telangana,s0469@gsr.edu.in,GSR University
+S0470,Karan,Male,18,BBA,2023,Tamil Nadu,s0470@gsr.edu.in,GSR University
+S0471,Shreya,Female,22,BBA,2022,Tamil Nadu,s0471@gsr.edu.in,GSR University
+S0472,Deepak,Male,21,BBA,2022,Maharashtra,s0472@gsr.edu.in,GSR University
+S0473,Kavya,Female,20,BBA,2023,West Bengal,s0473@gsr.edu.in,GSR University
+S0474,Sanjay,Male,24,BBA,2022,Rajasthan,s0474@gsr.edu.in,GSR University
+S0475,Nisha,Female,20,BBA,2023,Karnataka,s0475@gsr.edu.in,GSR University
+S0476,Ishita,Female,19,BBA,2021,Karnataka,s0476@gsr.edu.in,GSR University
+S0477,Suresh,Male,23,BBA,2023,Gujarat,s0477@gsr.edu.in,GSR University
+S0478,Komal,Female,22,BBA,2021,Telangana,s0478@gsr.edu.in,GSR University
+S0479,Deepak,Male,20,BBA,2022,Uttar Pradesh,s0479@gsr.edu.in,GSR University
+S0480,Suresh,Male,21,BBA,2022,Maharashtra,s0480@gsr.edu.in,GSR University
+S0481,Meera,Female,22,BBA,2021,Rajasthan,s0481@gsr.edu.in,GSR University
+S0482,Komal,Female,23,BBA,2023,Karnataka,s0482@gsr.edu.in,GSR University
+S0483,Priya,Female,22,BBA,2022,Odisha,s0483@gsr.edu.in,GSR University
+S0484,Pooja,Female,21,BBA,2022,Haryana,s0484@gsr.edu.in,GSR University
+S0485,Sanjay,Male,18,BBA,2022,Madhya Pradesh,s0485@gsr.edu.in,GSR University
+S0486,Priya,Female,24,BBA,2022,Telangana,s0486@gsr.edu.in,GSR University
+S0487,Nikhil,Male,23,BBA,2023,Rajasthan,s0487@gsr.edu.in,GSR University
+S0488,Kavya,Female,24,BBA,2023,Bihar,s0488@gsr.edu.in,GSR University
+S0489,Ankit,Male,24,BBA,2022,Telangana,s0489@gsr.edu.in,GSR University
+S0490,Riya,Female,23,BBA,2021,Haryana,s0490@gsr.edu.in,GSR University
+S0491,Priya,Female,24,BBA,2021,Madhya Pradesh,s0491@gsr.edu.in,GSR University
+S0492,Nikhil,Male,23,BBA,2022,Tamil Nadu,s0492@gsr.edu.in,GSR University
+S0493,Sanjay,Male,23,BBA,2021,Rajasthan,s0493@gsr.edu.in,GSR University
+S0494,Rohan,Male,23,BBA,2023,Bihar,s0494@gsr.edu.in,GSR University
+S0495,Deepak,Male,19,BBA,2021,West Bengal,s0495@gsr.edu.in,GSR University
+S0496,Aditya,Male,22,BBA,2023,Delhi,s0496@gsr.edu.in,GSR University
+S0497,Ankit,Male,22,BBA,2021,Maharashtra,s0497@gsr.edu.in,GSR University
+S0498,Kavya,Female,18,BBA,2021,Delhi,s0498@gsr.edu.in,GSR University
+S0499,Arjun,Male,20,BBA,2022,Rajasthan,s0499@gsr.edu.in,GSR University
+S0500,Aditya,Male,19,BBA,2021,Punjab,s0500@gsr.edu.in,GSR University
+S0501,Vivek,Male,21,BBA,2023,Madhya Pradesh,s0501@gsr.edu.in,GSR University
+S0502,Sakshi,Female,20,BBA,2021,Karnataka,s0502@gsr.edu.in,GSR University
+S0503,Sneha,Female,23,BBA,2021,Haryana,s0503@gsr.edu.in,GSR University
+S0504,Komal,Female,18,BBA,2022,Haryana,s0504@gsr.edu.in,GSR University
+S0505,Nisha,Female,22,BBA,2021,West Bengal,s0505@gsr.edu.in,GSR University
+S0506,Pallavi,Female,24,BBA,2023,Karnataka,s0506@gsr.edu.in,GSR University
+S0507,Neha,Female,22,BBA,2022,Madhya Pradesh,s0507@gsr.edu.in,GSR University
+S0508,Pooja,Female,20,BBA,2022,Delhi,s0508@gsr.edu.in,GSR University
+S0509,Nikhil,Male,21,BBA,2021,Andhra Pradesh,s0509@gsr.edu.in,GSR University
+S0510,Sakshi,Female,18,BBA,2022,Andhra Pradesh,s0510@gsr.edu.in,GSR University
+S0511,Rahul,Male,21,BBA,2023,Punjab,s0511@gsr.edu.in,GSR University
+S0512,Aditya,Male,24,BBA,2021,West Bengal,s0512@gsr.edu.in,GSR University
+S0513,Arjun,Male,18,BBA,2023,Delhi,s0513@gsr.edu.in,GSR University
+S0514,Nisha,Female,23,BBA,2022,Bihar,s0514@gsr.edu.in,GSR University
+S0515,Pooja,Female,23,BBA,2022,Telangana,s0515@gsr.edu.in,GSR University
+S0516,Rahul,Male,20,BBA,2021,Rajasthan,s0516@gsr.edu.in,GSR University
+S0517,Deepak,Male,22,BBA,2022,Uttar Pradesh,s0517@gsr.edu.in,GSR University
+S0518,Neha,Female,24,BBA,2022,Haryana,s0518@gsr.edu.in,GSR University
+S0519,Kavya,Female,20,BBA,2023,Delhi,s0519@gsr.edu.in,GSR University
+S0520,Meera,Female,19,BBA,2022,Maharashtra,s0520@gsr.edu.in,GSR University
+S0521,Deepak,Male,19,BBA,2023,Rajasthan,s0521@gsr.edu.in,GSR University
+S0522,Pooja,Female,18,BBA,2021,Haryana,s0522@gsr.edu.in,GSR University
+S0523,Komal,Female,23,BBA,2023,Odisha,s0523@gsr.edu.in,GSR University
+S0524,Meera,Female,18,BBA,2021,Andhra Pradesh,s0524@gsr.edu.in,GSR University
+S0525,Shreya,Female,21,BBA,2023,West Bengal,s0525@gsr.edu.in,GSR University
+S0526,Deepak,Male,18,BBA,2022,Odisha,s0526@gsr.edu.in,GSR University
+S0527,Sakshi,Female,21,BBA,2021,Haryana,s0527@gsr.edu.in,GSR University
+S0528,Sakshi,Female,23,BBA,2022,Tamil Nadu,s0528@gsr.edu.in,GSR University
+S0529,Nisha,Female,21,BBA,2021,Haryana,s0529@gsr.edu.in,GSR University
+S0530,Rahul,Male,20,BBA,2023,Odisha,s0530@gsr.edu.in,GSR University
+S0531,Sanjay,Male,24,BBA,2023,Madhya Pradesh,s0531@gsr.edu.in,GSR University
+S0532,Komal,Female,18,BBA,2021,Madhya Pradesh,s0532@gsr.edu.in,GSR University
+S0533,Priya,Female,19,BBA,2023,Madhya Pradesh,s0533@gsr.edu.in,GSR University
+S0534,Aarav,Male,23,BBA,2022,Odisha,s0534@gsr.edu.in,GSR University
+S0535,Ishita,Female,24,BBA,2021,Haryana,s0535@gsr.edu.in,GSR University
+S0536,Arjun,Male,23,BBA,2023,Karnataka,s0536@gsr.edu.in,GSR University
+S0537,Rohan,Male,23,BBA,2022,Gujarat,s0537@gsr.edu.in,GSR University
+S0538,Sanjay,Male,24,BBA,2022,Karnataka,s0538@gsr.edu.in,GSR University
+S0539,Karan,Male,19,BBA,2021,Odisha,s0539@gsr.edu.in,GSR University
+S0540,Riya,Female,18,BBA,2022,Punjab,s0540@gsr.edu.in,GSR University
+S0541,Suresh,Male,23,BBA,2022,Telangana,s0541@gsr.edu.in,GSR University
+S0542,Aditya,Male,20,BBA,2022,Andhra Pradesh,s0542@gsr.edu.in,GSR University
+S0543,Deepak,Male,22,BBA,2022,Odisha,s0543@gsr.edu.in,GSR University
+S0544,Pooja,Female,20,BBA,2023,Telangana,s0544@gsr.edu.in,GSR University
+S0545,Kavya,Female,23,BBA,2021,West Bengal,s0545@gsr.edu.in,GSR University
+S0546,Priya,Female,20,BBA,2021,Odisha,s0546@gsr.edu.in,GSR University
+S0547,Neha,Female,19,BBA,2023,Bihar,s0547@gsr.edu.in,GSR University
+S0548,Nisha,Female,21,BBA,2022,Telangana,s0548@gsr.edu.in,GSR University
+S0549,Sakshi,Female,19,BBA,2023,Gujarat,s0549@gsr.edu.in,GSR University
+S0550,Priya,Female,18,BBA,2022,Maharashtra,s0550@gsr.edu.in,GSR University
+S0551,Pooja,Female,22,BSc,2023,Uttar Pradesh,s0551@gsr.edu.in,GSR University
+S0552,Amit,Male,24,BSc,2022,Madhya Pradesh,s0552@gsr.edu.in,GSR University
+S0553,Meera,Female,21,BSc,2023,Delhi,s0553@gsr.edu.in,GSR University
+S0554,Shreya,Female,19,BSc,2022,Telangana,s0554@gsr.edu.in,GSR University
+S0555,Nisha,Female,20,BSc,2022,Uttar Pradesh,s0555@gsr.edu.in,GSR University
+S0556,Nikhil,Male,18,BSc,2021,West Bengal,s0556@gsr.edu.in,GSR University
+S0557,Aarav,Male,23,BSc,2023,Andhra Pradesh,s0557@gsr.edu.in,GSR University
+S0558,Suresh,Male,22,BSc,2022,Andhra Pradesh,s0558@gsr.edu.in,GSR University
+S0559,Shreya,Female,23,BSc,2021,Madhya Pradesh,s0559@gsr.edu.in,GSR University
+S0560,Rohan,Male,19,BSc,2023,Telangana,s0560@gsr.edu.in,GSR University
+S0561,Amit,Male,21,BSc,2023,Delhi,s0561@gsr.edu.in,GSR University
+S0562,Nisha,Female,19,BSc,2022,Uttar Pradesh,s0562@gsr.edu.in,GSR University
+S0563,Sneha,Female,20,BSc,2021,Maharashtra,s0563@gsr.edu.in,GSR University
+S0564,Pooja,Female,20,BSc,2022,Uttar Pradesh,s0564@gsr.edu.in,GSR University
+S0565,Priya,Female,22,BSc,2021,Andhra Pradesh,s0565@gsr.edu.in,GSR University
+S0566,Riya,Female,18,BSc,2021,Rajasthan,s0566@gsr.edu.in,GSR University
+S0567,Amit,Male,23,BSc,2022,Madhya Pradesh,s0567@gsr.edu.in,GSR University
+S0568,Sanjay,Male,21,BSc,2023,Punjab,s0568@gsr.edu.in,GSR University
+S0569,Vivek,Male,21,BSc,2023,Bihar,s0569@gsr.edu.in,GSR University
+S0570,Meera,Female,19,BSc,2021,Andhra Pradesh,s0570@gsr.edu.in,GSR University
+S0571,Ananya,Female,22,BSc,2023,Uttar Pradesh,s0571@gsr.edu.in,GSR University
+S0572,Deepak,Male,21,BSc,2022,Haryana,s0572@gsr.edu.in,GSR University
+S0573,Ananya,Female,24,BSc,2022,Maharashtra,s0573@gsr.edu.in,GSR University
+S0574,Meera,Female,22,BSc,2022,Tamil Nadu,s0574@gsr.edu.in,GSR University
+S0575,Amit,Male,24,BSc,2022,Tamil Nadu,s0575@gsr.edu.in,GSR University
+S0576,Komal,Female,22,BSc,2022,Uttar Pradesh,s0576@gsr.edu.in,GSR University
+S0577,Nisha,Female,18,BSc,2022,Punjab,s0577@gsr.edu.in,GSR University
+S0578,Ankit,Male,22,BSc,2023,Gujarat,s0578@gsr.edu.in,GSR University
+S0579,Aarav,Male,24,BSc,2022,Delhi,s0579@gsr.edu.in,GSR University
+S0580,Karan,Male,21,BSc,2021,Telangana,s0580@gsr.edu.in,GSR University
+S0581,Deepak,Male,21,BSc,2022,Uttar Pradesh,s0581@gsr.edu.in,GSR University
+S0582,Nikhil,Male,22,BSc,2021,Madhya Pradesh,s0582@gsr.edu.in,GSR University
+S0583,Nisha,Female,19,BSc,2023,Maharashtra,s0583@gsr.edu.in,GSR University
+S0584,Aditi,Female,22,BSc,2022,Tamil Nadu,s0584@gsr.edu.in,GSR University
+S0585,Sneha,Female,22,BSc,2023,Tamil Nadu,s0585@gsr.edu.in,GSR University
+S0586,Priya,Female,23,BSc,2023,Tamil Nadu,s0586@gsr.edu.in,GSR University
+S0587,Manish,Male,23,BSc,2021,Telangana,s0587@gsr.edu.in,GSR University
+S0588,Komal,Female,23,BSc,2021,Gujarat,s0588@gsr.edu.in,GSR University
+S0589,Rakesh,Male,20,BSc,2021,Odisha,s0589@gsr.edu.in,GSR University
+S0590,Pallavi,Female,22,BSc,2023,Maharashtra,s0590@gsr.edu.in,GSR University
+S0591,Pooja,Female,20,BSc,2021,Karnataka,s0591@gsr.edu.in,GSR University
+S0592,Suresh,Male,18,BSc,2022,Odisha,s0592@gsr.edu.in,GSR University
+S0593,Sneha,Female,18,BSc,2021,Madhya Pradesh,s0593@gsr.edu.in,GSR University
+S0594,Deepak,Male,23,BSc,2021,Karnataka,s0594@gsr.edu.in,GSR University
+S0595,Aarav,Male,22,BSc,2022,Odisha,s0595@gsr.edu.in,GSR University
+S0596,Sakshi,Female,19,BSc,2021,Haryana,s0596@gsr.edu.in,GSR University
+S0597,Arjun,Male,23,BSc,2021,Karnataka,s0597@gsr.edu.in,GSR University
+S0598,Rahul,Male,19,BSc,2021,Karnataka,s0598@gsr.edu.in,GSR University
+S0599,Sanjay,Male,21,BSc,2022,Punjab,s0599@gsr.edu.in,GSR University
+S0600,Rohan,Male,23,BSc,2023,Uttar Pradesh,s0600@gsr.edu.in,GSR University
+S0601,Amit,Male,21,BSc,2022,Odisha,s0601@gsr.edu.in,GSR University
+S0602,Arjun,Male,21,BSc,2023,Haryana,s0602@gsr.edu.in,GSR University
+S0603,Rohan,Male,22,BSc,2022,Punjab,s0603@gsr.edu.in,GSR University
+S0604,Karan,Male,21,BSc,2023,Maharashtra,s0604@gsr.edu.in,GSR University
+S0605,Meera,Female,18,BSc,2023,Punjab,s0605@gsr.edu.in,GSR University
+S0606,Pooja,Female,19,BSc,2022,Madhya Pradesh,s0606@gsr.edu.in,GSR University
+S0607,Aditi,Female,19,BSc,2021,West Bengal,s0607@gsr.edu.in,GSR University
+S0608,Deepak,Male,19,BSc,2022,Rajasthan,s0608@gsr.edu.in,GSR University
+S0609,Nikhil,Male,24,BSc,2021,West Bengal,s0609@gsr.edu.in,GSR University
+S0610,Meera,Female,24,BSc,2022,Uttar Pradesh,s0610@gsr.edu.in,GSR University
+S0611,Pallavi,Female,24,BSc,2021,Gujarat,s0611@gsr.edu.in,GSR University
+S0612,Manish,Male,21,BSc,2021,Uttar Pradesh,s0612@gsr.edu.in,GSR University
+S0613,Sneha,Female,23,BSc,2022,Haryana,s0613@gsr.edu.in,GSR University
+S0614,Nikhil,Male,19,BSc,2023,Punjab,s0614@gsr.edu.in,GSR University
+S0615,Meera,Female,18,BSc,2022,Rajasthan,s0615@gsr.edu.in,GSR University
+S0616,Shreya,Female,18,BSc,2023,Delhi,s0616@gsr.edu.in,GSR University
+S0617,Ishita,Female,20,BSc,2023,Haryana,s0617@gsr.edu.in,GSR University
+S0618,Vivek,Male,22,BSc,2021,Odisha,s0618@gsr.edu.in,GSR University
+S0619,Meera,Female,23,BSc,2021,Telangana,s0619@gsr.edu.in,GSR University
+S0620,Nisha,Female,21,BSc,2023,Andhra Pradesh,s0620@gsr.edu.in,GSR University
+S0621,Sakshi,Female,20,BSc,2023,Bihar,s0621@gsr.edu.in,GSR University
+S0622,Komal,Female,23,BSc,2021,Rajasthan,s0622@gsr.edu.in,GSR University
+S0623,Ishita,Female,20,BSc,2021,Rajasthan,s0623@gsr.edu.in,GSR University
+S0624,Kavya,Female,23,BSc,2022,Rajasthan,s0624@gsr.edu.in,GSR University
+S0625,Ananya,Female,24,BSc,2023,Uttar Pradesh,s0625@gsr.edu.in,GSR University
+S0626,Arjun,Male,21,BSc,2022,Gujarat,s0626@gsr.edu.in,GSR University
+S0627,Nikhil,Male,23,BSc,2022,Gujarat,s0627@gsr.edu.in,GSR University
+S0628,Sneha,Female,23,BSc,2023,Andhra Pradesh,s0628@gsr.edu.in,GSR University
+S0629,Amit,Male,21,BSc,2021,Uttar Pradesh,s0629@gsr.edu.in,GSR University
+S0630,Deepak,Male,20,BSc,2021,Uttar Pradesh,s0630@gsr.edu.in,GSR University
+S0631,Ananya,Female,20,BSc,2021,Bihar,s0631@gsr.edu.in,GSR University
+S0632,Meera,Female,21,BSc,2022,Odisha,s0632@gsr.edu.in,GSR University
+S0633,Aditya,Male,19,BSc,2023,Maharashtra,s0633@gsr.edu.in,GSR University
+S0634,Shreya,Female,19,BSc,2023,Punjab,s0634@gsr.edu.in,GSR University
+S0635,Arjun,Male,24,BSc,2023,Uttar Pradesh,s0635@gsr.edu.in,GSR University
+S0636,Ananya,Female,22,BSc,2022,Telangana,s0636@gsr.edu.in,GSR University
+S0637,Nikhil,Male,21,BSc,2022,Telangana,s0637@gsr.edu.in,GSR University
+S0638,Pallavi,Female,19,BSc,2023,Maharashtra,s0638@gsr.edu.in,GSR University
+S0639,Pooja,Female,23,BSc,2023,Delhi,s0639@gsr.edu.in,GSR University
+S0640,Kavya,Female,24,BSc,2021,Haryana,s0640@gsr.edu.in,GSR University
+S0641,Riya,Female,23,BSc,2021,Karnataka,s0641@gsr.edu.in,GSR University
+S0642,Nisha,Female,24,BSc,2022,Tamil Nadu,s0642@gsr.edu.in,GSR University
+S0643,Komal,Female,19,BSc,2021,Gujarat,s0643@gsr.edu.in,GSR University
+S0644,Deepak,Male,22,BSc,2023,Gujarat,s0644@gsr.edu.in,GSR University
+S0645,Rohan,Male,23,BSc,2022,Haryana,s0645@gsr.edu.in,GSR University
+S0646,Karan,Male,18,BSc,2022,Telangana,s0646@gsr.edu.in,GSR University
+S0647,Riya,Female,21,BSc,2023,Haryana,s0647@gsr.edu.in,GSR University
+S0648,Nisha,Female,24,BSc,2023,Punjab,s0648@gsr.edu.in,GSR University
+S0649,Aarav,Male,23,BSc,2023,Andhra Pradesh,s0649@gsr.edu.in,GSR University
+S0650,Nikhil,Male,24,BSc,2023,Delhi,s0650@gsr.edu.in,GSR University
+S0651,Aarav,Male,21,BA,2021,Delhi,s0651@gsr.edu.in,GSR University
+S0652,Sanjay,Male,20,BA,2022,Andhra Pradesh,s0652@gsr.edu.in,GSR University
+S0653,Kavya,Female,19,BA,2022,Maharashtra,s0653@gsr.edu.in,GSR University
+S0654,Sneha,Female,24,BA,2021,Haryana,s0654@gsr.edu.in,GSR University
+S0655,Nisha,Female,22,BA,2022,Uttar Pradesh,s0655@gsr.edu.in,GSR University
+S0656,Sneha,Female,20,BA,2023,Madhya Pradesh,s0656@gsr.edu.in,GSR University
+S0657,Aditi,Female,24,BA,2021,Bihar,s0657@gsr.edu.in,GSR University
+S0658,Riya,Female,20,BA,2021,Rajasthan,s0658@gsr.edu.in,GSR University
+S0659,Ananya,Female,23,BA,2022,Gujarat,s0659@gsr.edu.in,GSR University
+S0660,Sneha,Female,19,BA,2022,Delhi,s0660@gsr.edu.in,GSR University
+S0661,Sanjay,Male,22,BA,2022,Odisha,s0661@gsr.edu.in,GSR University
+S0662,Shreya,Female,20,BA,2023,Uttar Pradesh,s0662@gsr.edu.in,GSR University
+S0663,Pallavi,Female,19,BA,2021,Karnataka,s0663@gsr.edu.in,GSR University
+S0664,Sneha,Female,19,BA,2023,Maharashtra,s0664@gsr.edu.in,GSR University
+S0665,Nikhil,Male,20,BA,2021,Delhi,s0665@gsr.edu.in,GSR University
+S0666,Amit,Male,23,BA,2023,Rajasthan,s0666@gsr.edu.in,GSR University
+S0667,Amit,Male,21,BA,2023,West Bengal,s0667@gsr.edu.in,GSR University
+S0668,Ananya,Female,22,BA,2022,Tamil Nadu,s0668@gsr.edu.in,GSR University
+S0669,Sakshi,Female,24,BA,2023,Uttar Pradesh,s0669@gsr.edu.in,GSR University
+S0670,Arjun,Male,20,BA,2022,Uttar Pradesh,s0670@gsr.edu.in,GSR University
+S0671,Rahul,Male,24,BA,2023,Madhya Pradesh,s0671@gsr.edu.in,GSR University
+S0672,Manish,Male,23,BA,2022,Punjab,s0672@gsr.edu.in,GSR University
+S0673,Nisha,Female,22,BA,2022,Maharashtra,s0673@gsr.edu.in,GSR University
+S0674,Karan,Male,18,BA,2022,Haryana,s0674@gsr.edu.in,GSR University
+S0675,Aditi,Female,20,BA,2021,Tamil Nadu,s0675@gsr.edu.in,GSR University
+S0676,Pooja,Female,18,BA,2021,Odisha,s0676@gsr.edu.in,GSR University
+S0677,Aditya,Male,23,BA,2022,Delhi,s0677@gsr.edu.in,GSR University
+S0678,Arjun,Male,23,BA,2021,Maharashtra,s0678@gsr.edu.in,GSR University
+S0679,Amit,Male,21,BA,2023,Rajasthan,s0679@gsr.edu.in,GSR University
+S0680,Aditya,Male,24,BA,2021,Rajasthan,s0680@gsr.edu.in,GSR University
+S0681,Riya,Female,21,BA,2023,Tamil Nadu,s0681@gsr.edu.in,GSR University
+S0682,Suresh,Male,20,BA,2023,Telangana,s0682@gsr.edu.in,GSR University
+S0683,Nisha,Female,18,BA,2022,Uttar Pradesh,s0683@gsr.edu.in,GSR University
+S0684,Vivek,Male,24,BA,2023,Maharashtra,s0684@gsr.edu.in,GSR University
+S0685,Vivek,Male,19,BA,2021,West Bengal,s0685@gsr.edu.in,GSR University
+S0686,Ankit,Male,22,BA,2021,Telangana,s0686@gsr.edu.in,GSR University
+S0687,Kavya,Female,24,BA,2023,Rajasthan,s0687@gsr.edu.in,GSR University
+S0688,Shreya,Female,20,BA,2022,Bihar,s0688@gsr.edu.in,GSR University
+S0689,Nisha,Female,18,BA,2022,Delhi,s0689@gsr.edu.in,GSR University
+S0690,Priya,Female,20,BA,2022,Maharashtra,s0690@gsr.edu.in,GSR University
+S0691,Kavya,Female,22,BA,2021,Odisha,s0691@gsr.edu.in,GSR University
+S0692,Manish,Male,18,BA,2022,Telangana,s0692@gsr.edu.in,GSR University
+S0693,Sanjay,Male,18,BA,2022,Uttar Pradesh,s0693@gsr.edu.in,GSR University
+S0694,Ananya,Female,24,BA,2021,Tamil Nadu,s0694@gsr.edu.in,GSR University
+S0695,Ananya,Female,24,BA,2023,Rajasthan,s0695@gsr.edu.in,GSR University
+S0696,Riya,Female,24,BA,2021,Rajasthan,s0696@gsr.edu.in,GSR University
+S0697,Komal,Female,20,BA,2022,Bihar,s0697@gsr.edu.in,GSR University
+S0698,Kavya,Female,19,BA,2021,Gujarat,s0698@gsr.edu.in,GSR University
+S0699,Rakesh,Male,22,BA,2021,Uttar Pradesh,s0699@gsr.edu.in,GSR University
+S0700,Riya,Female,22,BA,2023,Uttar Pradesh,s0700@gsr.edu.in,GSR University
+S0701,Suresh,Male,19,BA,2023,Tamil Nadu,s0701@gsr.edu.in,GSR University
+S0702,Ankit,Male,20,BA,2022,Gujarat,s0702@gsr.edu.in,GSR University
+S0703,Meera,Female,23,BA,2023,Telangana,s0703@gsr.edu.in,GSR University
+S0704,Sneha,Female,21,BA,2021,Uttar Pradesh,s0704@gsr.edu.in,GSR University
+S0705,Sneha,Female,21,BA,2022,Tamil Nadu,s0705@gsr.edu.in,GSR University
+S0706,Aditya,Male,22,BA,2023,Karnataka,s0706@gsr.edu.in,GSR University
+S0707,Sakshi,Female,23,BA,2023,Uttar Pradesh,s0707@gsr.edu.in,GSR University
+S0708,Sneha,Female,18,BA,2023,West Bengal,s0708@gsr.edu.in,GSR University
+S0709,Ishita,Female,24,BA,2023,Odisha,s0709@gsr.edu.in,GSR University
+S0710,Manish,Male,18,BA,2022,Madhya Pradesh,s0710@gsr.edu.in,GSR University
+S0711,Pallavi,Female,20,BA,2023,Madhya Pradesh,s0711@gsr.edu.in,GSR University
+S0712,Nisha,Female,24,BA,2023,Gujarat,s0712@gsr.edu.in,GSR University
+S0713,Komal,Female,20,BA,2023,Gujarat,s0713@gsr.edu.in,GSR University
+S0714,Aditya,Male,22,BA,2022,Uttar Pradesh,s0714@gsr.edu.in,GSR University
+S0715,Amit,Male,18,BA,2022,Madhya Pradesh,s0715@gsr.edu.in,GSR University
+S0716,Pooja,Female,23,BA,2022,Haryana,s0716@gsr.edu.in,GSR University
+S0717,Aditi,Female,18,BA,2022,Punjab,s0717@gsr.edu.in,GSR University
+S0718,Rohan,Male,24,BA,2022,West Bengal,s0718@gsr.edu.in,GSR University
+S0719,Amit,Male,20,BA,2021,Maharashtra,s0719@gsr.edu.in,GSR University
+S0720,Kavya,Female,22,BA,2022,Uttar Pradesh,s0720@gsr.edu.in,GSR University
+S0721,Nisha,Female,19,BA,2021,Haryana,s0721@gsr.edu.in,GSR University
+S0722,Manish,Male,19,BA,2023,Rajasthan,s0722@gsr.edu.in,GSR University
+S0723,Amit,Male,19,BA,2023,Punjab,s0723@gsr.edu.in,GSR University
+S0724,Sakshi,Female,19,BA,2023,Andhra Pradesh,s0724@gsr.edu.in,GSR University
+S0725,Aarav,Male,19,BA,2022,Andhra Pradesh,s0725@gsr.edu.in,GSR University
+S0726,Rakesh,Male,22,BA,2023,Madhya Pradesh,s0726@gsr.edu.in,GSR University
+S0727,Neha,Female,23,BA,2022,Haryana,s0727@gsr.edu.in,GSR University
+S0728,Ishita,Female,19,BA,2023,Karnataka,s0728@gsr.edu.in,GSR University
+S0729,Aarav,Male,19,BA,2022,Uttar Pradesh,s0729@gsr.edu.in,GSR University
+S0730,Rakesh,Male,24,BA,2022,Bihar,s0730@gsr.edu.in,GSR University
+S0731,Rohan,Male,19,BA,2023,Madhya Pradesh,s0731@gsr.edu.in,GSR University
+S0732,Sneha,Female,24,BA,2021,Tamil Nadu,s0732@gsr.edu.in,GSR University
+S0733,Meera,Female,19,BA,2022,West Bengal,s0733@gsr.edu.in,GSR University
+S0734,Riya,Female,19,BA,2023,Haryana,s0734@gsr.edu.in,GSR University
+S0735,Sneha,Female,20,BA,2022,Gujarat,s0735@gsr.edu.in,GSR University
+S0736,Pallavi,Female,21,BA,2022,Rajasthan,s0736@gsr.edu.in,GSR University
+S0737,Ananya,Female,21,BA,2022,Madhya Pradesh,s0737@gsr.edu.in,GSR University
+S0738,Shreya,Female,22,BA,2021,Odisha,s0738@gsr.edu.in,GSR University
+S0739,Nisha,Female,24,BA,2023,Gujarat,s0739@gsr.edu.in,GSR University
+S0740,Rohan,Male,22,BA,2022,Uttar Pradesh,s0740@gsr.edu.in,GSR University
+S0741,Riya,Female,18,BA,2023,Rajasthan,s0741@gsr.edu.in,GSR University
+S0742,Pooja,Female,23,BA,2022,Bihar,s0742@gsr.edu.in,GSR University
+S0743,Deepak,Male,23,BA,2023,Andhra Pradesh,s0743@gsr.edu.in,GSR University
+S0744,Shreya,Female,21,BA,2021,Gujarat,s0744@gsr.edu.in,GSR University
+S0745,Rohan,Male,24,BA,2023,Madhya Pradesh,s0745@gsr.edu.in,GSR University
+S0746,Aditya,Male,21,BA,2022,Delhi,s0746@gsr.edu.in,GSR University
+S0747,Nisha,Female,24,BA,2023,Madhya Pradesh,s0747@gsr.edu.in,GSR University
+S0748,Ananya,Female,21,BA,2021,Haryana,s0748@gsr.edu.in,GSR University
+S0749,Meera,Female,22,BA,2021,Delhi,s0749@gsr.edu.in,GSR University
+S0750,Riya,Female,21,BA,2022,Madhya Pradesh,s0750@gsr.edu.in,GSR University
+S0751,Rakesh,Male,20,BA,2022,Telangana,s0751@gsr.edu.in,GSR University
+S0752,Aditya,Male,19,BA,2023,Bihar,s0752@gsr.edu.in,GSR University
+S0753,Komal,Female,23,BA,2023,Madhya Pradesh,s0753@gsr.edu.in,GSR University
+S0754,Pallavi,Female,19,BA,2023,Uttar Pradesh,s0754@gsr.edu.in,GSR University
+S0755,Nisha,Female,20,BA,2023,Rajasthan,s0755@gsr.edu.in,GSR University
+S0756,Riya,Female,18,BA,2022,Maharashtra,s0756@gsr.edu.in,GSR University
+S0757,Kavya,Female,19,BA,2022,Karnataka,s0757@gsr.edu.in,GSR University
+S0758,Karan,Male,24,BA,2022,Odisha,s0758@gsr.edu.in,GSR University
+S0759,Ishita,Female,19,BA,2021,Tamil Nadu,s0759@gsr.edu.in,GSR University
+S0760,Aditya,Male,20,BA,2021,Uttar Pradesh,s0760@gsr.edu.in,GSR University
+S0761,Pooja,Female,22,BA,2021,Punjab,s0761@gsr.edu.in,GSR University
+S0762,Rakesh,Male,24,BA,2023,Telangana,s0762@gsr.edu.in,GSR University
+S0763,Meera,Female,23,BA,2023,Maharashtra,s0763@gsr.edu.in,GSR University
+S0764,Nikhil,Male,23,BA,2022,Andhra Pradesh,s0764@gsr.edu.in,GSR University
+S0765,Rakesh,Male,20,BA,2023,Karnataka,s0765@gsr.edu.in,GSR University
+S0766,Manish,Male,21,BA,2022,Karnataka,s0766@gsr.edu.in,GSR University
+S0767,Aditya,Male,20,BA,2021,Telangana,s0767@gsr.edu.in,GSR University
+S0768,Meera,Female,21,BA,2023,Odisha,s0768@gsr.edu.in,GSR University
+S0769,Pallavi,Female,20,BA,2021,Bihar,s0769@gsr.edu.in,GSR University
+S0770,Amit,Male,20,BA,2021,Rajasthan,s0770@gsr.edu.in,GSR University
+S0771,Kavya,Female,24,BA,2023,Bihar,s0771@gsr.edu.in,GSR University
+S0772,Karan,Male,24,BA,2022,Haryana,s0772@gsr.edu.in,GSR University
+S0773,Rahul,Male,19,BA,2023,Odisha,s0773@gsr.edu.in,GSR University
+S0774,Amit,Male,21,BA,2021,Punjab,s0774@gsr.edu.in,GSR University
+S0775,Neha,Female,23,BA,2022,Odisha,s0775@gsr.edu.in,GSR University
+S0776,Rakesh,Male,22,BA,2022,Andhra Pradesh,s0776@gsr.edu.in,GSR University
+S0777,Deepak,Male,20,BA,2021,Gujarat,s0777@gsr.edu.in,GSR University
+S0778,Nikhil,Male,19,BA,2023,West Bengal,s0778@gsr.edu.in,GSR University
+S0779,Ishita,Female,23,BA,2022,Odisha,s0779@gsr.edu.in,GSR University
+S0780,Vivek,Male,18,BA,2023,Punjab,s0780@gsr.edu.in,GSR University
+S0781,Vivek,Male,23,BA,2021,Telangana,s0781@gsr.edu.in,GSR University
+S0782,Karan,Male,18,BA,2023,Karnataka,s0782@gsr.edu.in,GSR University
+S0783,Komal,Female,24,BA,2022,Maharashtra,s0783@gsr.edu.in,GSR University
+S0784,Nisha,Female,22,BA,2022,Telangana,s0784@gsr.edu.in,GSR University
+S0785,Kavya,Female,24,BA,2023,Andhra Pradesh,s0785@gsr.edu.in,GSR University
+S0786,Rohan,Male,24,BA,2023,Telangana,s0786@gsr.edu.in,GSR University
+S0787,Riya,Female,18,BA,2021,Delhi,s0787@gsr.edu.in,GSR University
+S0788,Rohan,Male,20,BA,2021,Delhi,s0788@gsr.edu.in,GSR University
+S0789,Ishita,Female,22,BA,2023,Karnataka,s0789@gsr.edu.in,GSR University
+S0790,Deepak,Male,23,BA,2022,Uttar Pradesh,s0790@gsr.edu.in,GSR University
+S0791,Pallavi,Female,19,BA,2021,Telangana,s0791@gsr.edu.in,GSR University
+S0792,Ishita,Female,23,BA,2022,Andhra Pradesh,s0792@gsr.edu.in,GSR University
+S0793,Aditi,Female,21,BA,2022,Maharashtra,s0793@gsr.edu.in,GSR University
+S0794,Vivek,Male,18,BA,2023,Gujarat,s0794@gsr.edu.in,GSR University
+S0795,Neha,Female,24,BA,2022,Uttar Pradesh,s0795@gsr.edu.in,GSR University
+S0796,Kavya,Female,20,BA,2021,Maharashtra,s0796@gsr.edu.in,GSR University
+S0797,Kavya,Female,24,BA,2021,Telangana,s0797@gsr.edu.in,GSR University
+S0798,Meera,Female,22,BA,2023,Gujarat,s0798@gsr.edu.in,GSR University
+S0799,Rakesh,Male,23,BA,2021,Karnataka,s0799@gsr.edu.in,GSR University
+S0800,Aarav,Male,20,BA,2022,Andhra Pradesh,s0800@gsr.edu.in,GSR University
+S0801,Deepak,Male,23,BA,2022,Bihar,s0801@gsr.edu.in,GSR University
+S0802,Komal,Female,21,BA,2021,Odisha,s0802@gsr.edu.in,GSR University
+S0803,Meera,Female,22,BA,2022,West Bengal,s0803@gsr.edu.in,GSR University
+S0804,Manish,Male,18,BA,2021,Andhra Pradesh,s0804@gsr.edu.in,GSR University
+S0805,Priya,Female,19,BA,2021,Delhi,s0805@gsr.edu.in,GSR University
+S0806,Karan,Male,21,BA,2021,Punjab,s0806@gsr.edu.in,GSR University
+S0807,Sanjay,Male,22,BA,2023,Punjab,s0807@gsr.edu.in,GSR University
+S0808,Vivek,Male,18,BA,2021,Odisha,s0808@gsr.edu.in,GSR University
+S0809,Pooja,Female,23,BA,2021,Delhi,s0809@gsr.edu.in,GSR University
+S0810,Rohan,Male,24,BA,2021,Tamil Nadu,s0810@gsr.edu.in,GSR University
+S0811,Vivek,Male,20,BA,2023,Odisha,s0811@gsr.edu.in,GSR University
+S0812,Shreya,Female,20,BA,2022,Uttar Pradesh,s0812@gsr.edu.in,GSR University
+S0813,Priya,Female,24,BA,2022,Haryana,s0813@gsr.edu.in,GSR University
+S0814,Suresh,Male,23,BA,2021,Madhya Pradesh,s0814@gsr.edu.in,GSR University
+S0815,Suresh,Male,24,BA,2023,Tamil Nadu,s0815@gsr.edu.in,GSR University
+S0816,Sanjay,Male,20,BA,2021,Delhi,s0816@gsr.edu.in,GSR University
+S0817,Ananya,Female,23,BA,2021,Haryana,s0817@gsr.edu.in,GSR University
+S0818,Kavya,Female,21,BA,2021,Haryana,s0818@gsr.edu.in,GSR University
+S0819,Ananya,Female,22,BA,2021,Madhya Pradesh,s0819@gsr.edu.in,GSR University
+S0820,Nikhil,Male,22,BA,2021,Punjab,s0820@gsr.edu.in,GSR University
+S0821,Arjun,Male,23,BA,2021,Punjab,s0821@gsr.edu.in,GSR University
+S0822,Riya,Female,20,BA,2023,Odisha,s0822@gsr.edu.in,GSR University
+S0823,Suresh,Male,18,BA,2023,Maharashtra,s0823@gsr.edu.in,GSR University
+S0824,Vivek,Male,24,BA,2022,Maharashtra,s0824@gsr.edu.in,GSR University
+S0825,Nikhil,Male,18,BA,2022,Gujarat,s0825@gsr.edu.in,GSR University
+S0826,Rahul,Male,24,BA,2023,Maharashtra,s0826@gsr.edu.in,GSR University
+S0827,Arjun,Male,18,BA,2021,Gujarat,s0827@gsr.edu.in,GSR University
+S0828,Karan,Male,23,BA,2023,Madhya Pradesh,s0828@gsr.edu.in,GSR University
+S0829,Nikhil,Male,21,BA,2021,Odisha,s0829@gsr.edu.in,GSR University
+S0830,Manish,Male,23,BA,2023,Odisha,s0830@gsr.edu.in,GSR University
+S0831,Kavya,Female,21,BA,2021,Maharashtra,s0831@gsr.edu.in,GSR University
+S0832,Arjun,Male,21,BA,2023,Gujarat,s0832@gsr.edu.in,GSR University
+S0833,Deepak,Male,24,BA,2023,Karnataka,s0833@gsr.edu.in,GSR University
+S0834,Deepak,Male,18,BA,2023,West Bengal,s0834@gsr.edu.in,GSR University
+S0835,Meera,Female,23,BA,2022,Madhya Pradesh,s0835@gsr.edu.in,GSR University
+S0836,Aditya,Male,20,BA,2021,Uttar Pradesh,s0836@gsr.edu.in,GSR University
+S0837,Meera,Female,19,BA,2022,Maharashtra,s0837@gsr.edu.in,GSR University
+S0838,Rahul,Male,24,BA,2021,Maharashtra,s0838@gsr.edu.in,GSR University
+S0839,Rakesh,Male,19,BA,2021,Andhra Pradesh,s0839@gsr.edu.in,GSR University
+S0840,Aditi,Female,21,BA,2022,Andhra Pradesh,s0840@gsr.edu.in,GSR University
+S0841,Rahul,Male,20,BA,2023,Rajasthan,s0841@gsr.edu.in,GSR University
+S0842,Deepak,Male,23,BA,2023,West Bengal,s0842@gsr.edu.in,GSR University
+S0843,Pooja,Female,18,BA,2021,Odisha,s0843@gsr.edu.in,GSR University
+S0844,Nisha,Female,19,BA,2021,Delhi,s0844@gsr.edu.in,GSR University
+S0845,Kavya,Female,21,BA,2021,Telangana,s0845@gsr.edu.in,GSR University
+S0846,Nikhil,Male,23,BA,2022,Delhi,s0846@gsr.edu.in,GSR University
+S0847,Priya,Female,19,BA,2022,Rajasthan,s0847@gsr.edu.in,GSR University
+S0848,Pallavi,Female,18,BA,2022,Bihar,s0848@gsr.edu.in,GSR University
+S0849,Ishita,Female,22,BA,2022,Gujarat,s0849@gsr.edu.in,GSR University
+S0850,Aditya,Male,24,BA,2022,Bihar,s0850@gsr.edu.in,GSR University
