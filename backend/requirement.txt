@@ -4,6 +4,7 @@ psycopg2-binary
 sqlalchemy
 python-dotenv
 requests
-sentence-transformers
-chromadb
+sentence-transformers==2.2.2
+chromadb==0.4.15
 openai
+numpy
