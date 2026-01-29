@@ -4,8 +4,6 @@ psycopg2-binary
 sqlalchemy
 python-dotenv
 requests
-sentence-transformers==2.2.2
 chromadb==0.4.15
 openai
-numpy
-huggingface_hub==0.24.0
+numpy==1.26.4
