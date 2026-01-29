@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dump folders
+test_dump/
