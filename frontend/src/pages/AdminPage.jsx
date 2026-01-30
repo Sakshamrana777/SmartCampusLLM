@@ -22,7 +22,7 @@ export default function AdminPage() {
   const [event, setEvent] = useState(null);
   const [sports, setSports] = useState(null);
 
-  const API = "http://127.0.0.1:8000";
+  const API = import.meta.env.VITE_API_BASE;
 
   useEffect(() => {
     // Stats
