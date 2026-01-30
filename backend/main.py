@@ -26,11 +26,12 @@ app = FastAPI(title="SmartCampus AI Backend")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],    # allow Vercel frontend
-    allow_credentials=True,
+    allow_origins=["*"],           # Allow all frontends
+    allow_credentials=False,       # MUST be false for wildcard
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 @app.get("/")
 def root():
