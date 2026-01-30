@@ -6,3 +6,4 @@ def retrieve_faq_context(query: str, top_k=2):
         n_results=top_k
     )
     return results["documents"][0] if results["documents"] else []
+    

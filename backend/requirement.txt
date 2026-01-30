@@ -7,3 +7,4 @@ requests
 chromadb==0.4.15
 openai
 numpy==1.26.4
+uvicorn
