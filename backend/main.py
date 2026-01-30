@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from sqlalchemy import text
 
-# Internal Modules
+# Internal
 from db import engine
 from conversation_memory import init_session, get_history, add_message
 from message_router import classify_message
@@ -20,52 +20,37 @@ from access_control import apply_rbac
 from auth_service import authenticate_user
 
 
-# --------------------------------------------------------
-# SQL CLEANUP
-# --------------------------------------------------------
-def cleanup_sql(sql: str) -> str:
-    sql = (
-        sql.replace("```sql", "")
-        .replace("```", "")
-        .replace("\n", " ")
-        .replace("\r", " ")
-        .replace("\t", " ")
-    )
-    return " ".join(sql.split())
-
-
-# --------------------------------------------------------
-# FASTAPI CONFIG
-# --------------------------------------------------------
+# -------------------------------
+#  FIXED CORS FOR VERCEL
+# -------------------------------
 app = FastAPI(title="SmartCampus AI Assistant")
-print("🔥 SmartCampus Backend Loaded Successfully")
 
-
-@app.get("/")
-def root():
-    return {"status": "SmartCampus backend running"}
-
-@app.get("/health")
-def health():
-    return {"ok": True}
-
-
-# CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["*"],   # works for Vercel frontend
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 
-# --------------------------------------------------------
+@app.get("/")
+def root():
+    return {"status": "SmartCampus backend running"}
+
+
+@app.get("/health")
+def health():
+    return {"ok": True}
+
+
+# -------------------------------
 # MODELS
-# --------------------------------------------------------
+# -------------------------------
 class LoginRequest(BaseModel):
     username: str
     password: str
+
 
 class AskRequest(BaseModel):
     session_id: str
@@ -75,9 +60,26 @@ class AskRequest(BaseModel):
     message: str
 
 
-# --------------------------------------------------------
+# -------------------------------
+#  FIXED FAQ LOADER  (VERCEL SAFE)
+# -------------------------------
+faqs_loaded = False
+
+def load_faqs_once():
+    global faqs_loaded
+    if faqs_loaded:
+        return
+    with engine.connect() as conn:
+        rows = conn.execute(text("SELECT question, answer FROM faqs")).fetchall()
+
+    add_faqs([(q, a) for q, a in rows])
+    faqs_loaded = True
+    print("✅ FAQs loaded into RAG store (lazy load)")
+
+
+# -------------------------------
 # LOGIN
-# --------------------------------------------------------
+# -------------------------------
 @app.post("/login")
 def login(req: LoginRequest):
 
@@ -107,23 +109,13 @@ def login(req: LoginRequest):
     }
 
 
-# --------------------------------------------------------
-# LOAD FAQS (ON STARTUP)
-# --------------------------------------------------------
-@app.on_event("startup")
-def load_faq_data():
-    with engine.connect() as conn:
-        rows = conn.execute(text("SELECT question, answer FROM faqs")).fetchall()
-
-    add_faqs([(q, a) for q, a in rows])
-    print("✅ FAQs loaded into RAG store")
-
-
-# --------------------------------------------------------
-# ASK / CHAT / SQL / FAQ
-# --------------------------------------------------------
+# -------------------------------
+# ASK
+# -------------------------------
 @app.post("/ask")
 def ask(req: AskRequest):
+
+    load_faqs_once()   # REQUIRED FOR VERCEL
 
     session_id = req.session_id
     role = req.role
@@ -162,23 +154,20 @@ def ask(req: AskRequest):
                 prompt = build_admin_prompt(message, schema)
 
             sql = call_llm(prompt).strip()
-            sql = cleanup_sql(sql)
+            sql = " ".join(sql.replace("```sql", "").replace("```", "").split())
 
             if not is_safe_sql(sql):
                 response = "❌ Unsafe SQL blocked."
             else:
                 sql = apply_rbac(sql, role, user_id)
                 rows, cols = execute_sql(sql)
-                response = {
-                    "sql": sql,
-                    "data": [dict(zip(cols, row)) for row in rows]
-                }
+                response = {"sql": sql, "data": [dict(zip(cols, row)) for row in rows]}
 
         except Exception as e:
             response = f"SQL ERROR: {e}"
 
     else:
-        response = "I'm not sure how to help with that."
+        response = "I’m not sure how to help with that."
 
     add_message(session_id, "assistant", str(response))
     return {
@@ -188,42 +177,31 @@ def ask(req: AskRequest):
     }
 
 
-# --------------------------------------------------------
-# STUDENT DASHBOARD
-# --------------------------------------------------------
+# -------------------------------
+# STUDENT / FACULTY / ADMIN ROUTES
+# -------------------------------
 @app.get("/student/{student_id}/gpa")
 def get_overall_gpa(student_id: str):
-    try:
-        sql = text("""
-            SELECT ROUND(AVG(gpa)::numeric, 2)
-            FROM student_performance
-            WHERE student_id = :sid
-        """)
-        rows, _ = execute_sql(sql, {"sid": student_id})
-        return {"overall_gpa": rows[0][0] or 0}
-
-    except Exception as e:
-        raise HTTPException(500, f"GPA calculation failed: {e}")
+    sql = text("""
+        SELECT ROUND(AVG(gpa)::numeric, 2)
+        FROM student_performance
+        WHERE student_id = :sid
+    """)
+    rows, _ = execute_sql(sql, {"sid": student_id})
+    return {"overall_gpa": rows[0][0] or 0}
 
 
 @app.get("/student/{student_id}/subjects")
 def get_subjects(student_id: str):
-    try:
-        sql = text("""
-            SELECT DISTINCT subject_name
-            FROM student_performance
-            WHERE student_id = :sid
-        """)
-        rows, _ = execute_sql(sql, {"sid": student_id})
-        return {"subjects": [r[0] for r in rows]}
-
-    except Exception as e:
-        raise HTTPException(500, f"Subject retrieval failed: {e}")
+    sql = text("""
+        SELECT DISTINCT subject_name
+        FROM student_performance
+        WHERE student_id = :sid
+    """)
+    rows, _ = execute_sql(sql, {"sid": student_id})
+    return {"subjects": [r[0] for r in rows]}
 
 
-# --------------------------------------------------------
-# FACULTY DASHBOARD
-# --------------------------------------------------------
 @app.get("/faculty/{dept}/summary")
 def faculty_summary(dept: str):
 
@@ -264,9 +242,6 @@ def top_students(dept: str):
     }
 
 
-# --------------------------------------------------------
-# ADMIN ANALYTICS
-# --------------------------------------------------------
 @app.get("/admin/stats")
 def admin_stats():
 
