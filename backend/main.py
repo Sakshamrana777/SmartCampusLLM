@@ -19,19 +19,33 @@ from rag_store import add_faqs
 from access_control import apply_rbac
 from auth_service import authenticate_user
 
-# -----------------------------------------------------
-# FASTAPI + CORS
-# -----------------------------------------------------
+
+# --------------------------------------------------------
+# SQL CLEANUP
+# --------------------------------------------------------
+def cleanup_sql(sql: str) -> str:
+    sql = (
+        sql.replace("```sql", "")
+           .replace("```", "")
+           .replace("\n", " ")
+           .replace("\r", " ")
+           .replace("\t", " ")
+    )
+    return " ".join(sql.split())
+
+
+# --------------------------------------------------------
+# FASTAPI APP
+# --------------------------------------------------------
 app = FastAPI(title="SmartCampus AI Backend")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],           # Allow all frontends
-    allow_credentials=False,       # MUST be false for wildcard
+    allow_origins=["*"],     # Allow all (Vercel)
+    allow_credentials=False, # MUST be false with "*"
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 @app.get("/")
 def root():
@@ -41,9 +55,10 @@ def root():
 def health():
     return {"ok": True}
 
-# -----------------------------------------------------
+
+# --------------------------------------------------------
 # MODELS
-# -----------------------------------------------------
+# --------------------------------------------------------
 class LoginRequest(BaseModel):
     username: str
     password: str
@@ -55,9 +70,10 @@ class AskRequest(BaseModel):
     department: str | None
     message: str
 
-# -----------------------------------------------------
+
+# --------------------------------------------------------
 # LOGIN
-# -----------------------------------------------------
+# --------------------------------------------------------
 @app.post("/login")
 def login(req: LoginRequest):
     user = authenticate_user(req.username, req.password)
@@ -84,68 +100,165 @@ def login(req: LoginRequest):
         "username": user["username"]
     }
 
-# -----------------------------------------------------
-# LOAD FAQS
-# -----------------------------------------------------
+
+# --------------------------------------------------------
+# LOAD FAQS ON STARTUP
+# --------------------------------------------------------
 @app.on_event("startup")
 def load_faqs():
     with engine.connect() as conn:
         rows = conn.execute(text("SELECT question, answer FROM faqs")).fetchall()
-
     add_faqs([(q, a) for q, a in rows])
     print("FAQs loaded")
 
-# -----------------------------------------------------
+
+# --------------------------------------------------------
 # ASK ENDPOINT
-# -----------------------------------------------------
+# --------------------------------------------------------
 @app.post("/ask")
 def ask(req: AskRequest):
-    session_id = req.session_id
-    role = req.role
-    message = req.message
 
-    init_session(session_id)
-    add_message(session_id, "user", message)
+    init_session(req.session_id)
+    add_message(req.session_id, "user", req.message)
 
-    route = classify_message(message)
+    route = classify_message(req.message)
 
+    # Chat
     if route in ["greeting", "chat"]:
-        response = call_llm(f"You are a helpful SmartCampus assistant.\nUser: {message}")
+        response = call_llm(f"You are a helpful SmartCampus assistant.\nUser: {req.message}")
 
+    # FAQ
     elif route == "faq":
-        ctx = retrieve_faq_context(message)
-        prompt = f"Use ONLY this context:\n\n{ctx}\n\nQ: {message}"
+        ctx = retrieve_faq_context(req.message)
+        prompt = f"Use ONLY this context:\n\n{ctx}\n\nQ: {req.message}"
         response = call_llm(prompt)
 
+    # SQL Mode
     elif route == "sql":
         schema = load_schema()
 
-        if role == "student":
-            prompt = build_student_prompt(message, schema, req.user_id)
-        elif role == "faculty":
-            prompt = build_faculty_prompt(message, schema, req.department)
+        if req.role == "student":
+            prompt = build_student_prompt(req.message, schema, req.user_id)
+        elif req.role == "faculty":
+            prompt = build_faculty_prompt(req.message, schema, req.department)
         else:
-            prompt = build_admin_prompt(message, schema)
+            prompt = build_admin_prompt(req.message, schema)
 
         sql = call_llm(prompt).strip()
-        sql = sql.replace("```sql", "").replace("```", "")
-        sql = " ".join(sql.split())
+        sql = cleanup_sql(sql)
 
         if not is_safe_sql(sql):
             response = "Unsafe SQL blocked."
         else:
-            sql = apply_rbac(sql, role, req.user_id)
+            sql = apply_rbac(sql, req.role, req.user_id)
             rows, cols = execute_sql(sql)
             response = {
                 "sql": sql,
                 "data": [dict(zip(cols, r)) for r in rows]
             }
-    else:
-        response = "I don't know how to respond."
 
-    add_message(session_id, "assistant", str(response))
+    else:
+        response = "I don’t know how to respond."
+
+    add_message(req.session_id, "assistant", str(response))
+
     return {
         "route": route,
         "response": response,
-        "history": get_history(session_id)
+        "history": get_history(req.session_id)
     }
+
+
+# --------------------------------------------------------
+# STUDENT ROUTES
+# --------------------------------------------------------
+@app.get("/student/{student_id}/gpa")
+def student_gpa(student_id: str):
+    rows, _ = execute_sql(
+        f"SELECT ROUND(AVG(gpa),2) FROM student_performance WHERE student_id='{student_id}'"
+    )
+    return {"overall_gpa": rows[0][0]}
+
+
+@app.get("/student/{student_id}/subjects")
+def student_subjects(student_id: str):
+    rows, _ = execute_sql(
+        f"SELECT DISTINCT subject_name FROM student_performance WHERE student_id='{student_id}'"
+    )
+    return {"subjects": [r[0] for r in rows]}
+
+
+# --------------------------------------------------------
+# FACULTY ROUTES
+# --------------------------------------------------------
+@app.get("/faculty/{dept}/summary")
+def faculty_summary(dept: str):
+    with engine.connect() as conn:
+        total = conn.execute(text("SELECT COUNT(*) FROM students WHERE department=:d"), {"d": dept}).scalar()
+        avg = conn.execute(text("""
+            SELECT AVG(gpa) 
+            FROM student_performance sp 
+            JOIN students s ON s.student_id = sp.student_id 
+            WHERE s.department=:d
+        """), {"d": dept}).scalar()
+
+    return {"department": dept, "total_students": total, "avg_gpa": round(avg or 0, 2)}
+
+
+@app.get("/faculty/{dept}/top-students")
+def faculty_top(dept: str):
+    rows = engine.execute(text("""
+        SELECT s.student_name, sp.gpa, sp.final_marks, sp.absences
+        FROM students s 
+        JOIN student_performance sp 
+           ON s.student_id = sp.student_id 
+        WHERE s.department=:d
+        ORDER BY sp.gpa DESC 
+        LIMIT 5
+    """), {"d": dept}).fetchall()
+
+    return {"students": [
+        {"name": r[0], "gpa": r[1], "marks": r[2], "absences": r[3]}
+        for r in rows
+    ]}
+
+
+# --------------------------------------------------------
+# ADMIN ROUTES
+# --------------------------------------------------------
+@app.get("/admin/stats")
+def admin_stats():
+    with engine.connect() as conn:
+        s_count = conn.execute(text("SELECT COUNT(*) FROM students")).scalar()
+        f_count = conn.execute(text("SELECT COUNT(*) FROM faculty_details")).scalar()
+    return {"students": s_count, "faculty": f_count}
+
+
+@app.get("/admin/top-students")
+def admin_top_students():
+    rows, _ = execute_sql("""
+        SELECT s.student_name, s.department, ROUND(AVG(sp.gpa),2)
+        FROM students s
+        JOIN student_performance sp ON s.student_id = sp.student_id
+        GROUP BY s.student_name, s.department
+        ORDER BY 3 DESC
+        LIMIT 5
+    """)
+    return {"students": [
+        {"name": r[0], "department": r[1], "gpa": r[2]}
+        for r in rows
+    ]}
+
+
+@app.get("/admin/top-faculty")
+def admin_top_faculty():
+    rows, _ = execute_sql("""
+        SELECT lecturer_id, department, designation, overall_performance_score
+        FROM faculty_details
+        ORDER BY overall_performance_score DESC
+        LIMIT 5
+    """)
+    return {"faculty": [
+        {"lecturer_id": r[0], "department": r[1], "designation": r[2], "score": r[3]}
+        for r in rows
+    ]}
