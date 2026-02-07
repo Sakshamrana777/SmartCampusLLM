@@ -1,0 +1,858 @@
+user_id,username,password,role,linked_student_id,department
+ADMIN_01,admin,123,admin,,
+U_S0001,S0001,S0001,student,S0001,Computer Engineering
+U_S0002,S0002,S0002,student,S0002,Computer Engineering
+U_S0003,S0003,S0003,student,S0003,Computer Engineering
+U_S0004,S0004,S0004,student,S0004,Computer Engineering
+U_S0005,S0005,S0005,student,S0005,Computer Engineering
+U_S0006,S0006,S0006,student,S0006,Computer Engineering
+U_S0007,S0007,S0007,student,S0007,Computer Engineering
+U_S0008,S0008,S0008,student,S0008,Computer Engineering
+U_S0009,S0009,S0009,student,S0009,Computer Engineering
+U_S0010,S0010,S0010,student,S0010,Computer Engineering
+U_S0011,S0011,S0011,student,S0011,Computer Engineering
+U_S0012,S0012,S0012,student,S0012,Computer Engineering
+U_S0013,S0013,S0013,student,S0013,Computer Engineering
+U_S0014,S0014,S0014,student,S0014,Computer Engineering
+U_S0015,S0015,S0015,student,S0015,Computer Engineering
+U_S0016,S0016,S0016,student,S0016,Computer Engineering
+U_S0017,S0017,S0017,student,S0017,Computer Engineering
+U_S0018,S0018,S0018,student,S0018,Computer Engineering
+U_S0019,S0019,S0019,student,S0019,Computer Engineering
+U_S0020,S0020,S0020,student,S0020,Computer Engineering
+U_S0021,S0021,S0021,student,S0021,Computer Engineering
+U_S0022,S0022,S0022,student,S0022,Computer Engineering
+U_S0023,S0023,S0023,student,S0023,Computer Engineering
+U_S0024,S0024,S0024,student,S0024,Computer Engineering
+U_S0025,S0025,S0025,student,S0025,Computer Engineering
+U_S0026,S0026,S0026,student,S0026,Computer Engineering
+U_S0027,S0027,S0027,student,S0027,Computer Engineering
+U_S0028,S0028,S0028,student,S0028,Computer Engineering
+U_S0029,S0029,S0029,student,S0029,Computer Engineering
+U_S0030,S0030,S0030,student,S0030,Computer Engineering
+U_S0031,S0031,S0031,student,S0031,Computer Engineering
+U_S0032,S0032,S0032,student,S0032,Computer Engineering
+U_S0033,S0033,S0033,student,S0033,Computer Engineering
+U_S0034,S0034,S0034,student,S0034,Computer Engineering
+U_S0035,S0035,S0035,student,S0035,Computer Engineering
+U_S0036,S0036,S0036,student,S0036,Computer Engineering
+U_S0037,S0037,S0037,student,S0037,Computer Engineering
+U_S0038,S0038,S0038,student,S0038,Computer Engineering
+U_S0039,S0039,S0039,student,S0039,Computer Engineering
+U_S0040,S0040,S0040,student,S0040,Computer Engineering
+U_S0041,S0041,S0041,student,S0041,Computer Engineering
+U_S0042,S0042,S0042,student,S0042,Computer Engineering
+U_S0043,S0043,S0043,student,S0043,Computer Engineering
+U_S0044,S0044,S0044,student,S0044,Computer Engineering
+U_S0045,S0045,S0045,student,S0045,Computer Engineering
+U_S0046,S0046,S0046,student,S0046,Computer Engineering
+U_S0047,S0047,S0047,student,S0047,Computer Engineering
+U_S0048,S0048,S0048,student,S0048,Computer Engineering
+U_S0049,S0049,S0049,student,S0049,Computer Engineering
+U_S0050,S0050,S0050,student,S0050,Computer Engineering
+U_S0051,S0051,S0051,student,S0051,Computer Engineering
+U_S0052,S0052,S0052,student,S0052,Computer Engineering
+U_S0053,S0053,S0053,student,S0053,Computer Engineering
+U_S0054,S0054,S0054,student,S0054,Computer Engineering
+U_S0055,S0055,S0055,student,S0055,Computer Engineering
+U_S0056,S0056,S0056,student,S0056,Computer Engineering
+U_S0057,S0057,S0057,student,S0057,Computer Engineering
+U_S0058,S0058,S0058,student,S0058,Computer Engineering
+U_S0059,S0059,S0059,student,S0059,Computer Engineering
+U_S0060,S0060,S0060,student,S0060,Computer Engineering
+U_S0061,S0061,S0061,student,S0061,Computer Engineering
+U_S0062,S0062,S0062,student,S0062,Computer Engineering
+U_S0063,S0063,S0063,student,S0063,Computer Engineering
+U_S0064,S0064,S0064,student,S0064,Computer Engineering
+U_S0065,S0065,S0065,student,S0065,Computer Engineering
+U_S0066,S0066,S0066,student,S0066,Computer Engineering
+U_S0067,S0067,S0067,student,S0067,Computer Engineering
+U_S0068,S0068,S0068,student,S0068,Computer Engineering
+U_S0069,S0069,S0069,student,S0069,Computer Engineering
+U_S0070,S0070,S0070,student,S0070,Computer Engineering
+U_S0071,S0071,S0071,student,S0071,Computer Engineering
+U_S0072,S0072,S0072,student,S0072,Computer Engineering
+U_S0073,S0073,S0073,student,S0073,Computer Engineering
+U_S0074,S0074,S0074,student,S0074,Computer Engineering
+U_S0075,S0075,S0075,student,S0075,Computer Engineering
+U_S0076,S0076,S0076,student,S0076,Computer Engineering
+U_S0077,S0077,S0077,student,S0077,Computer Engineering
+U_S0078,S0078,S0078,student,S0078,Computer Engineering
+U_S0079,S0079,S0079,student,S0079,Computer Engineering
+U_S0080,S0080,S0080,student,S0080,Computer Engineering
+U_S0081,S0081,S0081,student,S0081,Computer Engineering
+U_S0082,S0082,S0082,student,S0082,Computer Engineering
+U_S0083,S0083,S0083,student,S0083,Computer Engineering
+U_S0084,S0084,S0084,student,S0084,Computer Engineering
+U_S0085,S0085,S0085,student,S0085,Computer Engineering
+U_S0086,S0086,S0086,student,S0086,Computer Engineering
+U_S0087,S0087,S0087,student,S0087,Computer Engineering
+U_S0088,S0088,S0088,student,S0088,Computer Engineering
+U_S0089,S0089,S0089,student,S0089,Computer Engineering
+U_S0090,S0090,S0090,student,S0090,Computer Engineering
+U_S0091,S0091,S0091,student,S0091,Computer Engineering
+U_S0092,S0092,S0092,student,S0092,Computer Engineering
+U_S0093,S0093,S0093,student,S0093,Computer Engineering
+U_S0094,S0094,S0094,student,S0094,Computer Engineering
+U_S0095,S0095,S0095,student,S0095,Computer Engineering
+U_S0096,S0096,S0096,student,S0096,Computer Engineering
+U_S0097,S0097,S0097,student,S0097,Computer Engineering
+U_S0098,S0098,S0098,student,S0098,Computer Engineering
+U_S0099,S0099,S0099,student,S0099,Computer Engineering
+U_S0100,S0100,S0100,student,S0100,Computer Engineering
+U_S0101,S0101,S0101,student,S0101,Computer Engineering
+U_S0102,S0102,S0102,student,S0102,Computer Engineering
+U_S0103,S0103,S0103,student,S0103,Computer Engineering
+U_S0104,S0104,S0104,student,S0104,Computer Engineering
+U_S0105,S0105,S0105,student,S0105,Computer Engineering
+U_S0106,S0106,S0106,student,S0106,Computer Engineering
+U_S0107,S0107,S0107,student,S0107,Computer Engineering
+U_S0108,S0108,S0108,student,S0108,Computer Engineering
+U_S0109,S0109,S0109,student,S0109,Computer Engineering
+U_S0110,S0110,S0110,student,S0110,Computer Engineering
+U_S0111,S0111,S0111,student,S0111,Computer Engineering
+U_S0112,S0112,S0112,student,S0112,Computer Engineering
+U_S0113,S0113,S0113,student,S0113,Computer Engineering
+U_S0114,S0114,S0114,student,S0114,Computer Engineering
+U_S0115,S0115,S0115,student,S0115,Computer Engineering
+U_S0116,S0116,S0116,student,S0116,Computer Engineering
+U_S0117,S0117,S0117,student,S0117,Computer Engineering
+U_S0118,S0118,S0118,student,S0118,Computer Engineering
+U_S0119,S0119,S0119,student,S0119,Computer Engineering
+U_S0120,S0120,S0120,student,S0120,Computer Engineering
+U_S0121,S0121,S0121,student,S0121,Computer Engineering
+U_S0122,S0122,S0122,student,S0122,Computer Engineering
+U_S0123,S0123,S0123,student,S0123,Computer Engineering
+U_S0124,S0124,S0124,student,S0124,Computer Engineering
+U_S0125,S0125,S0125,student,S0125,Computer Engineering
+U_S0126,S0126,S0126,student,S0126,Computer Engineering
+U_S0127,S0127,S0127,student,S0127,Computer Engineering
+U_S0128,S0128,S0128,student,S0128,Computer Engineering
+U_S0129,S0129,S0129,student,S0129,Computer Engineering
+U_S0130,S0130,S0130,student,S0130,Computer Engineering
+U_S0131,S0131,S0131,student,S0131,Computer Engineering
+U_S0132,S0132,S0132,student,S0132,Computer Engineering
+U_S0133,S0133,S0133,student,S0133,Computer Engineering
+U_S0134,S0134,S0134,student,S0134,Computer Engineering
+U_S0135,S0135,S0135,student,S0135,Computer Engineering
+U_S0136,S0136,S0136,student,S0136,Computer Engineering
+U_S0137,S0137,S0137,student,S0137,Computer Engineering
+U_S0138,S0138,S0138,student,S0138,Computer Engineering
+U_S0139,S0139,S0139,student,S0139,Computer Engineering
+U_S0140,S0140,S0140,student,S0140,Computer Engineering
+U_S0141,S0141,S0141,student,S0141,Computer Engineering
+U_S0142,S0142,S0142,student,S0142,Computer Engineering
+U_S0143,S0143,S0143,student,S0143,Computer Engineering
+U_S0144,S0144,S0144,student,S0144,Computer Engineering
+U_S0145,S0145,S0145,student,S0145,Computer Engineering
+U_S0146,S0146,S0146,student,S0146,Computer Engineering
+U_S0147,S0147,S0147,student,S0147,Computer Engineering
+U_S0148,S0148,S0148,student,S0148,Computer Engineering
+U_S0149,S0149,S0149,student,S0149,Computer Engineering
+U_S0150,S0150,S0150,student,S0150,Computer Engineering
+U_S0151,S0151,S0151,student,S0151,Civil Engineering
+U_S0152,S0152,S0152,student,S0152,Civil Engineering
+U_S0153,S0153,S0153,student,S0153,Civil Engineering
+U_S0154,S0154,S0154,student,S0154,Civil Engineering
+U_S0155,S0155,S0155,student,S0155,Civil Engineering
+U_S0156,S0156,S0156,student,S0156,Civil Engineering
+U_S0157,S0157,S0157,student,S0157,Civil Engineering
+U_S0158,S0158,S0158,student,S0158,Civil Engineering
+U_S0159,S0159,S0159,student,S0159,Civil Engineering
+U_S0160,S0160,S0160,student,S0160,Civil Engineering
+U_S0161,S0161,S0161,student,S0161,Civil Engineering
+U_S0162,S0162,S0162,student,S0162,Civil Engineering
+U_S0163,S0163,S0163,student,S0163,Civil Engineering
+U_S0164,S0164,S0164,student,S0164,Civil Engineering
+U_S0165,S0165,S0165,student,S0165,Civil Engineering
+U_S0166,S0166,S0166,student,S0166,Civil Engineering
+U_S0167,S0167,S0167,student,S0167,Civil Engineering
+U_S0168,S0168,S0168,student,S0168,Civil Engineering
+U_S0169,S0169,S0169,student,S0169,Civil Engineering
+U_S0170,S0170,S0170,student,S0170,Civil Engineering
+U_S0171,S0171,S0171,student,S0171,Civil Engineering
+U_S0172,S0172,S0172,student,S0172,Civil Engineering
+U_S0173,S0173,S0173,student,S0173,Civil Engineering
+U_S0174,S0174,S0174,student,S0174,Civil Engineering
+U_S0175,S0175,S0175,student,S0175,Civil Engineering
+U_S0176,S0176,S0176,student,S0176,Civil Engineering
+U_S0177,S0177,S0177,student,S0177,Civil Engineering
+U_S0178,S0178,S0178,student,S0178,Civil Engineering
+U_S0179,S0179,S0179,student,S0179,Civil Engineering
+U_S0180,S0180,S0180,student,S0180,Civil Engineering
+U_S0181,S0181,S0181,student,S0181,Civil Engineering
+U_S0182,S0182,S0182,student,S0182,Civil Engineering
+U_S0183,S0183,S0183,student,S0183,Civil Engineering
+U_S0184,S0184,S0184,student,S0184,Civil Engineering
+U_S0185,S0185,S0185,student,S0185,Civil Engineering
+U_S0186,S0186,S0186,student,S0186,Civil Engineering
+U_S0187,S0187,S0187,student,S0187,Civil Engineering
+U_S0188,S0188,S0188,student,S0188,Civil Engineering
+U_S0189,S0189,S0189,student,S0189,Civil Engineering
+U_S0190,S0190,S0190,student,S0190,Civil Engineering
+U_S0191,S0191,S0191,student,S0191,Civil Engineering
+U_S0192,S0192,S0192,student,S0192,Civil Engineering
+U_S0193,S0193,S0193,student,S0193,Civil Engineering
+U_S0194,S0194,S0194,student,S0194,Civil Engineering
+U_S0195,S0195,S0195,student,S0195,Civil Engineering
+U_S0196,S0196,S0196,student,S0196,Civil Engineering
+U_S0197,S0197,S0197,student,S0197,Civil Engineering
+U_S0198,S0198,S0198,student,S0198,Civil Engineering
+U_S0199,S0199,S0199,student,S0199,Civil Engineering
+U_S0200,S0200,S0200,student,S0200,Civil Engineering
+U_S0201,S0201,S0201,student,S0201,Civil Engineering
+U_S0202,S0202,S0202,student,S0202,Civil Engineering
+U_S0203,S0203,S0203,student,S0203,Civil Engineering
+U_S0204,S0204,S0204,student,S0204,Civil Engineering
+U_S0205,S0205,S0205,student,S0205,Civil Engineering
+U_S0206,S0206,S0206,student,S0206,Civil Engineering
+U_S0207,S0207,S0207,student,S0207,Civil Engineering
+U_S0208,S0208,S0208,student,S0208,Civil Engineering
+U_S0209,S0209,S0209,student,S0209,Civil Engineering
+U_S0210,S0210,S0210,student,S0210,Civil Engineering
+U_S0211,S0211,S0211,student,S0211,Civil Engineering
+U_S0212,S0212,S0212,student,S0212,Civil Engineering
+U_S0213,S0213,S0213,student,S0213,Civil Engineering
+U_S0214,S0214,S0214,student,S0214,Civil Engineering
+U_S0215,S0215,S0215,student,S0215,Civil Engineering
+U_S0216,S0216,S0216,student,S0216,Civil Engineering
+U_S0217,S0217,S0217,student,S0217,Civil Engineering
+U_S0218,S0218,S0218,student,S0218,Civil Engineering
+U_S0219,S0219,S0219,student,S0219,Civil Engineering
+U_S0220,S0220,S0220,student,S0220,Civil Engineering
+U_S0221,S0221,S0221,student,S0221,Civil Engineering
+U_S0222,S0222,S0222,student,S0222,Civil Engineering
+U_S0223,S0223,S0223,student,S0223,Civil Engineering
+U_S0224,S0224,S0224,student,S0224,Civil Engineering
+U_S0225,S0225,S0225,student,S0225,Civil Engineering
+U_S0226,S0226,S0226,student,S0226,Civil Engineering
+U_S0227,S0227,S0227,student,S0227,Civil Engineering
+U_S0228,S0228,S0228,student,S0228,Civil Engineering
+U_S0229,S0229,S0229,student,S0229,Civil Engineering
+U_S0230,S0230,S0230,student,S0230,Civil Engineering
+U_S0231,S0231,S0231,student,S0231,Civil Engineering
+U_S0232,S0232,S0232,student,S0232,Civil Engineering
+U_S0233,S0233,S0233,student,S0233,Civil Engineering
+U_S0234,S0234,S0234,student,S0234,Civil Engineering
+U_S0235,S0235,S0235,student,S0235,Civil Engineering
+U_S0236,S0236,S0236,student,S0236,Civil Engineering
+U_S0237,S0237,S0237,student,S0237,Civil Engineering
+U_S0238,S0238,S0238,student,S0238,Civil Engineering
+U_S0239,S0239,S0239,student,S0239,Civil Engineering
+U_S0240,S0240,S0240,student,S0240,Civil Engineering
+U_S0241,S0241,S0241,student,S0241,Civil Engineering
+U_S0242,S0242,S0242,student,S0242,Civil Engineering
+U_S0243,S0243,S0243,student,S0243,Civil Engineering
+U_S0244,S0244,S0244,student,S0244,Civil Engineering
+U_S0245,S0245,S0245,student,S0245,Civil Engineering
+U_S0246,S0246,S0246,student,S0246,Civil Engineering
+U_S0247,S0247,S0247,student,S0247,Civil Engineering
+U_S0248,S0248,S0248,student,S0248,Civil Engineering
+U_S0249,S0249,S0249,student,S0249,Civil Engineering
+U_S0250,S0250,S0250,student,S0250,Civil Engineering
+U_S0251,S0251,S0251,student,S0251,Civil Engineering
+U_S0252,S0252,S0252,student,S0252,Civil Engineering
+U_S0253,S0253,S0253,student,S0253,Civil Engineering
+U_S0254,S0254,S0254,student,S0254,Civil Engineering
+U_S0255,S0255,S0255,student,S0255,Civil Engineering
+U_S0256,S0256,S0256,student,S0256,Civil Engineering
+U_S0257,S0257,S0257,student,S0257,Civil Engineering
+U_S0258,S0258,S0258,student,S0258,Civil Engineering
+U_S0259,S0259,S0259,student,S0259,Civil Engineering
+U_S0260,S0260,S0260,student,S0260,Civil Engineering
+U_S0261,S0261,S0261,student,S0261,Civil Engineering
+U_S0262,S0262,S0262,student,S0262,Civil Engineering
+U_S0263,S0263,S0263,student,S0263,Civil Engineering
+U_S0264,S0264,S0264,student,S0264,Civil Engineering
+U_S0265,S0265,S0265,student,S0265,Civil Engineering
+U_S0266,S0266,S0266,student,S0266,Civil Engineering
+U_S0267,S0267,S0267,student,S0267,Civil Engineering
+U_S0268,S0268,S0268,student,S0268,Civil Engineering
+U_S0269,S0269,S0269,student,S0269,Civil Engineering
+U_S0270,S0270,S0270,student,S0270,Civil Engineering
+U_S0271,S0271,S0271,student,S0271,Civil Engineering
+U_S0272,S0272,S0272,student,S0272,Civil Engineering
+U_S0273,S0273,S0273,student,S0273,Civil Engineering
+U_S0274,S0274,S0274,student,S0274,Civil Engineering
+U_S0275,S0275,S0275,student,S0275,Civil Engineering
+U_S0276,S0276,S0276,student,S0276,Civil Engineering
+U_S0277,S0277,S0277,student,S0277,Civil Engineering
+U_S0278,S0278,S0278,student,S0278,Civil Engineering
+U_S0279,S0279,S0279,student,S0279,Civil Engineering
+U_S0280,S0280,S0280,student,S0280,Civil Engineering
+U_S0281,S0281,S0281,student,S0281,Civil Engineering
+U_S0282,S0282,S0282,student,S0282,Civil Engineering
+U_S0283,S0283,S0283,student,S0283,Civil Engineering
+U_S0284,S0284,S0284,student,S0284,Civil Engineering
+U_S0285,S0285,S0285,student,S0285,Civil Engineering
+U_S0286,S0286,S0286,student,S0286,Civil Engineering
+U_S0287,S0287,S0287,student,S0287,Civil Engineering
+U_S0288,S0288,S0288,student,S0288,Civil Engineering
+U_S0289,S0289,S0289,student,S0289,Civil Engineering
+U_S0290,S0290,S0290,student,S0290,Civil Engineering
+U_S0291,S0291,S0291,student,S0291,Civil Engineering
+U_S0292,S0292,S0292,student,S0292,Civil Engineering
+U_S0293,S0293,S0293,student,S0293,Civil Engineering
+U_S0294,S0294,S0294,student,S0294,Civil Engineering
+U_S0295,S0295,S0295,student,S0295,Civil Engineering
+U_S0296,S0296,S0296,student,S0296,Civil Engineering
+U_S0297,S0297,S0297,student,S0297,Civil Engineering
+U_S0298,S0298,S0298,student,S0298,Civil Engineering
+U_S0299,S0299,S0299,student,S0299,Civil Engineering
+U_S0300,S0300,S0300,student,S0300,Civil Engineering
+U_S0301,S0301,S0301,student,S0301,Electrical Engineering
+U_S0302,S0302,S0302,student,S0302,Electrical Engineering
+U_S0303,S0303,S0303,student,S0303,Electrical Engineering
+U_S0304,S0304,S0304,student,S0304,Electrical Engineering
+U_S0305,S0305,S0305,student,S0305,Electrical Engineering
+U_S0306,S0306,S0306,student,S0306,Electrical Engineering
+U_S0307,S0307,S0307,student,S0307,Electrical Engineering
+U_S0308,S0308,S0308,student,S0308,Electrical Engineering
+U_S0309,S0309,S0309,student,S0309,Electrical Engineering
+U_S0310,S0310,S0310,student,S0310,Electrical Engineering
+U_S0311,S0311,S0311,student,S0311,Electrical Engineering
+U_S0312,S0312,S0312,student,S0312,Electrical Engineering
+U_S0313,S0313,S0313,student,S0313,Electrical Engineering
+U_S0314,S0314,S0314,student,S0314,Electrical Engineering
+U_S0315,S0315,S0315,student,S0315,Electrical Engineering
+U_S0316,S0316,S0316,student,S0316,Electrical Engineering
+U_S0317,S0317,S0317,student,S0317,Electrical Engineering
+U_S0318,S0318,S0318,student,S0318,Electrical Engineering
+U_S0319,S0319,S0319,student,S0319,Electrical Engineering
+U_S0320,S0320,S0320,student,S0320,Electrical Engineering
+U_S0321,S0321,S0321,student,S0321,Electrical Engineering
+U_S0322,S0322,S0322,student,S0322,Electrical Engineering
+U_S0323,S0323,S0323,student,S0323,Electrical Engineering
+U_S0324,S0324,S0324,student,S0324,Electrical Engineering
+U_S0325,S0325,S0325,student,S0325,Electrical Engineering
+U_S0326,S0326,S0326,student,S0326,Electrical Engineering
+U_S0327,S0327,S0327,student,S0327,Electrical Engineering
+U_S0328,S0328,S0328,student,S0328,Electrical Engineering
+U_S0329,S0329,S0329,student,S0329,Electrical Engineering
+U_S0330,S0330,S0330,student,S0330,Electrical Engineering
+U_S0331,S0331,S0331,student,S0331,Electrical Engineering
+U_S0332,S0332,S0332,student,S0332,Electrical Engineering
+U_S0333,S0333,S0333,student,S0333,Electrical Engineering
+U_S0334,S0334,S0334,student,S0334,Electrical Engineering
+U_S0335,S0335,S0335,student,S0335,Electrical Engineering
+U_S0336,S0336,S0336,student,S0336,Electrical Engineering
+U_S0337,S0337,S0337,student,S0337,Electrical Engineering
+U_S0338,S0338,S0338,student,S0338,Electrical Engineering
+U_S0339,S0339,S0339,student,S0339,Electrical Engineering
+U_S0340,S0340,S0340,student,S0340,Electrical Engineering
+U_S0341,S0341,S0341,student,S0341,Electrical Engineering
+U_S0342,S0342,S0342,student,S0342,Electrical Engineering
+U_S0343,S0343,S0343,student,S0343,Electrical Engineering
+U_S0344,S0344,S0344,student,S0344,Electrical Engineering
+U_S0345,S0345,S0345,student,S0345,Electrical Engineering
+U_S0346,S0346,S0346,student,S0346,Electrical Engineering
+U_S0347,S0347,S0347,student,S0347,Electrical Engineering
+U_S0348,S0348,S0348,student,S0348,Electrical Engineering
+U_S0349,S0349,S0349,student,S0349,Electrical Engineering
+U_S0350,S0350,S0350,student,S0350,Electrical Engineering
+U_S0351,S0351,S0351,student,S0351,Electrical Engineering
+U_S0352,S0352,S0352,student,S0352,Electrical Engineering
+U_S0353,S0353,S0353,student,S0353,Electrical Engineering
+U_S0354,S0354,S0354,student,S0354,Electrical Engineering
+U_S0355,S0355,S0355,student,S0355,Electrical Engineering
+U_S0356,S0356,S0356,student,S0356,Electrical Engineering
+U_S0357,S0357,S0357,student,S0357,Electrical Engineering
+U_S0358,S0358,S0358,student,S0358,Electrical Engineering
+U_S0359,S0359,S0359,student,S0359,Electrical Engineering
+U_S0360,S0360,S0360,student,S0360,Electrical Engineering
+U_S0361,S0361,S0361,student,S0361,Electrical Engineering
+U_S0362,S0362,S0362,student,S0362,Electrical Engineering
+U_S0363,S0363,S0363,student,S0363,Electrical Engineering
+U_S0364,S0364,S0364,student,S0364,Electrical Engineering
+U_S0365,S0365,S0365,student,S0365,Electrical Engineering
+U_S0366,S0366,S0366,student,S0366,Electrical Engineering
+U_S0367,S0367,S0367,student,S0367,Electrical Engineering
+U_S0368,S0368,S0368,student,S0368,Electrical Engineering
+U_S0369,S0369,S0369,student,S0369,Electrical Engineering
+U_S0370,S0370,S0370,student,S0370,Electrical Engineering
+U_S0371,S0371,S0371,student,S0371,Electrical Engineering
+U_S0372,S0372,S0372,student,S0372,Electrical Engineering
+U_S0373,S0373,S0373,student,S0373,Electrical Engineering
+U_S0374,S0374,S0374,student,S0374,Electrical Engineering
+U_S0375,S0375,S0375,student,S0375,Electrical Engineering
+U_S0376,S0376,S0376,student,S0376,Electrical Engineering
+U_S0377,S0377,S0377,student,S0377,Electrical Engineering
+U_S0378,S0378,S0378,student,S0378,Electrical Engineering
+U_S0379,S0379,S0379,student,S0379,Electrical Engineering
+U_S0380,S0380,S0380,student,S0380,Electrical Engineering
+U_S0381,S0381,S0381,student,S0381,Electrical Engineering
+U_S0382,S0382,S0382,student,S0382,Electrical Engineering
+U_S0383,S0383,S0383,student,S0383,Electrical Engineering
+U_S0384,S0384,S0384,student,S0384,Electrical Engineering
+U_S0385,S0385,S0385,student,S0385,Electrical Engineering
+U_S0386,S0386,S0386,student,S0386,Electrical Engineering
+U_S0387,S0387,S0387,student,S0387,Electrical Engineering
+U_S0388,S0388,S0388,student,S0388,Electrical Engineering
+U_S0389,S0389,S0389,student,S0389,Electrical Engineering
+U_S0390,S0390,S0390,student,S0390,Electrical Engineering
+U_S0391,S0391,S0391,student,S0391,Electrical Engineering
+U_S0392,S0392,S0392,student,S0392,Electrical Engineering
+U_S0393,S0393,S0393,student,S0393,Electrical Engineering
+U_S0394,S0394,S0394,student,S0394,Electrical Engineering
+U_S0395,S0395,S0395,student,S0395,Electrical Engineering
+U_S0396,S0396,S0396,student,S0396,Electrical Engineering
+U_S0397,S0397,S0397,student,S0397,Electrical Engineering
+U_S0398,S0398,S0398,student,S0398,Electrical Engineering
+U_S0399,S0399,S0399,student,S0399,Electrical Engineering
+U_S0400,S0400,S0400,student,S0400,Electrical Engineering
+U_S0401,S0401,S0401,student,S0401,Electrical Engineering
+U_S0402,S0402,S0402,student,S0402,Electrical Engineering
+U_S0403,S0403,S0403,student,S0403,Electrical Engineering
+U_S0404,S0404,S0404,student,S0404,Electrical Engineering
+U_S0405,S0405,S0405,student,S0405,Electrical Engineering
+U_S0406,S0406,S0406,student,S0406,Electrical Engineering
+U_S0407,S0407,S0407,student,S0407,Electrical Engineering
+U_S0408,S0408,S0408,student,S0408,Electrical Engineering
+U_S0409,S0409,S0409,student,S0409,Electrical Engineering
+U_S0410,S0410,S0410,student,S0410,Electrical Engineering
+U_S0411,S0411,S0411,student,S0411,Electrical Engineering
+U_S0412,S0412,S0412,student,S0412,Electrical Engineering
+U_S0413,S0413,S0413,student,S0413,Electrical Engineering
+U_S0414,S0414,S0414,student,S0414,Electrical Engineering
+U_S0415,S0415,S0415,student,S0415,Electrical Engineering
+U_S0416,S0416,S0416,student,S0416,Electrical Engineering
+U_S0417,S0417,S0417,student,S0417,Electrical Engineering
+U_S0418,S0418,S0418,student,S0418,Electrical Engineering
+U_S0419,S0419,S0419,student,S0419,Electrical Engineering
+U_S0420,S0420,S0420,student,S0420,Electrical Engineering
+U_S0421,S0421,S0421,student,S0421,Electrical Engineering
+U_S0422,S0422,S0422,student,S0422,Electrical Engineering
+U_S0423,S0423,S0423,student,S0423,Electrical Engineering
+U_S0424,S0424,S0424,student,S0424,Electrical Engineering
+U_S0425,S0425,S0425,student,S0425,Electrical Engineering
+U_S0426,S0426,S0426,student,S0426,Electrical Engineering
+U_S0427,S0427,S0427,student,S0427,Electrical Engineering
+U_S0428,S0428,S0428,student,S0428,Electrical Engineering
+U_S0429,S0429,S0429,student,S0429,Electrical Engineering
+U_S0430,S0430,S0430,student,S0430,Electrical Engineering
+U_S0431,S0431,S0431,student,S0431,Electrical Engineering
+U_S0432,S0432,S0432,student,S0432,Electrical Engineering
+U_S0433,S0433,S0433,student,S0433,Electrical Engineering
+U_S0434,S0434,S0434,student,S0434,Electrical Engineering
+U_S0435,S0435,S0435,student,S0435,Electrical Engineering
+U_S0436,S0436,S0436,student,S0436,Electrical Engineering
+U_S0437,S0437,S0437,student,S0437,Electrical Engineering
+U_S0438,S0438,S0438,student,S0438,Electrical Engineering
+U_S0439,S0439,S0439,student,S0439,Electrical Engineering
+U_S0440,S0440,S0440,student,S0440,Electrical Engineering
+U_S0441,S0441,S0441,student,S0441,Electrical Engineering
+U_S0442,S0442,S0442,student,S0442,Electrical Engineering
+U_S0443,S0443,S0443,student,S0443,Electrical Engineering
+U_S0444,S0444,S0444,student,S0444,Electrical Engineering
+U_S0445,S0445,S0445,student,S0445,Electrical Engineering
+U_S0446,S0446,S0446,student,S0446,Electrical Engineering
+U_S0447,S0447,S0447,student,S0447,Electrical Engineering
+U_S0448,S0448,S0448,student,S0448,Electrical Engineering
+U_S0449,S0449,S0449,student,S0449,Electrical Engineering
+U_S0450,S0450,S0450,student,S0450,Electrical Engineering
+U_S0451,S0451,S0451,student,S0451,BBA
+U_S0452,S0452,S0452,student,S0452,BBA
+U_S0453,S0453,S0453,student,S0453,BBA
+U_S0454,S0454,S0454,student,S0454,BBA
+U_S0455,S0455,S0455,student,S0455,BBA
+U_S0456,S0456,S0456,student,S0456,BBA
+U_S0457,S0457,S0457,student,S0457,BBA
+U_S0458,S0458,S0458,student,S0458,BBA
+U_S0459,S0459,S0459,student,S0459,BBA
+U_S0460,S0460,S0460,student,S0460,BBA
+U_S0461,S0461,S0461,student,S0461,BBA
+U_S0462,S0462,S0462,student,S0462,BBA
+U_S0463,S0463,S0463,student,S0463,BBA
+U_S0464,S0464,S0464,student,S0464,BBA
+U_S0465,S0465,S0465,student,S0465,BBA
+U_S0466,S0466,S0466,student,S0466,BBA
+U_S0467,S0467,S0467,student,S0467,BBA
+U_S0468,S0468,S0468,student,S0468,BBA
+U_S0469,S0469,S0469,student,S0469,BBA
+U_S0470,S0470,S0470,student,S0470,BBA
+U_S0471,S0471,S0471,student,S0471,BBA
+U_S0472,S0472,S0472,student,S0472,BBA
+U_S0473,S0473,S0473,student,S0473,BBA
+U_S0474,S0474,S0474,student,S0474,BBA
+U_S0475,S0475,S0475,student,S0475,BBA
+U_S0476,S0476,S0476,student,S0476,BBA
+U_S0477,S0477,S0477,student,S0477,BBA
+U_S0478,S0478,S0478,student,S0478,BBA
+U_S0479,S0479,S0479,student,S0479,BBA
+U_S0480,S0480,S0480,student,S0480,BBA
+U_S0481,S0481,S0481,student,S0481,BBA
+U_S0482,S0482,S0482,student,S0482,BBA
+U_S0483,S0483,S0483,student,S0483,BBA
+U_S0484,S0484,S0484,student,S0484,BBA
+U_S0485,S0485,S0485,student,S0485,BBA
+U_S0486,S0486,S0486,student,S0486,BBA
+U_S0487,S0487,S0487,student,S0487,BBA
+U_S0488,S0488,S0488,student,S0488,BBA
+U_S0489,S0489,S0489,student,S0489,BBA
+U_S0490,S0490,S0490,student,S0490,BBA
+U_S0491,S0491,S0491,student,S0491,BBA
+U_S0492,S0492,S0492,student,S0492,BBA
+U_S0493,S0493,S0493,student,S0493,BBA
+U_S0494,S0494,S0494,student,S0494,BBA
+U_S0495,S0495,S0495,student,S0495,BBA
+U_S0496,S0496,S0496,student,S0496,BBA
+U_S0497,S0497,S0497,student,S0497,BBA
+U_S0498,S0498,S0498,student,S0498,BBA
+U_S0499,S0499,S0499,student,S0499,BBA
+U_S0500,S0500,S0500,student,S0500,BBA
+U_S0501,S0501,S0501,student,S0501,BBA
+U_S0502,S0502,S0502,student,S0502,BBA
+U_S0503,S0503,S0503,student,S0503,BBA
+U_S0504,S0504,S0504,student,S0504,BBA
+U_S0505,S0505,S0505,student,S0505,BBA
+U_S0506,S0506,S0506,student,S0506,BBA
+U_S0507,S0507,S0507,student,S0507,BBA
+U_S0508,S0508,S0508,student,S0508,BBA
+U_S0509,S0509,S0509,student,S0509,BBA
+U_S0510,S0510,S0510,student,S0510,BBA
+U_S0511,S0511,S0511,student,S0511,BBA
+U_S0512,S0512,S0512,student,S0512,BBA
+U_S0513,S0513,S0513,student,S0513,BBA
+U_S0514,S0514,S0514,student,S0514,BBA
+U_S0515,S0515,S0515,student,S0515,BBA
+U_S0516,S0516,S0516,student,S0516,BBA
+U_S0517,S0517,S0517,student,S0517,BBA
+U_S0518,S0518,S0518,student,S0518,BBA
+U_S0519,S0519,S0519,student,S0519,BBA
+U_S0520,S0520,S0520,student,S0520,BBA
+U_S0521,S0521,S0521,student,S0521,BBA
+U_S0522,S0522,S0522,student,S0522,BBA
+U_S0523,S0523,S0523,student,S0523,BBA
+U_S0524,S0524,S0524,student,S0524,BBA
+U_S0525,S0525,S0525,student,S0525,BBA
+U_S0526,S0526,S0526,student,S0526,BBA
+U_S0527,S0527,S0527,student,S0527,BBA
+U_S0528,S0528,S0528,student,S0528,BBA
+U_S0529,S0529,S0529,student,S0529,BBA
+U_S0530,S0530,S0530,student,S0530,BBA
+U_S0531,S0531,S0531,student,S0531,BBA
+U_S0532,S0532,S0532,student,S0532,BBA
+U_S0533,S0533,S0533,student,S0533,BBA
+U_S0534,S0534,S0534,student,S0534,BBA
+U_S0535,S0535,S0535,student,S0535,BBA
+U_S0536,S0536,S0536,student,S0536,BBA
+U_S0537,S0537,S0537,student,S0537,BBA
+U_S0538,S0538,S0538,student,S0538,BBA
+U_S0539,S0539,S0539,student,S0539,BBA
+U_S0540,S0540,S0540,student,S0540,BBA
+U_S0541,S0541,S0541,student,S0541,BBA
+U_S0542,S0542,S0542,student,S0542,BBA
+U_S0543,S0543,S0543,student,S0543,BBA
+U_S0544,S0544,S0544,student,S0544,BBA
+U_S0545,S0545,S0545,student,S0545,BBA
+U_S0546,S0546,S0546,student,S0546,BBA
+U_S0547,S0547,S0547,student,S0547,BBA
+U_S0548,S0548,S0548,student,S0548,BBA
+U_S0549,S0549,S0549,student,S0549,BBA
+U_S0550,S0550,S0550,student,S0550,BBA
+U_S0551,S0551,S0551,student,S0551,BSc
+U_S0552,S0552,S0552,student,S0552,BSc
+U_S0553,S0553,S0553,student,S0553,BSc
+U_S0554,S0554,S0554,student,S0554,BSc
+U_S0555,S0555,S0555,student,S0555,BSc
+U_S0556,S0556,S0556,student,S0556,BSc
+U_S0557,S0557,S0557,student,S0557,BSc
+U_S0558,S0558,S0558,student,S0558,BSc
+U_S0559,S0559,S0559,student,S0559,BSc
+U_S0560,S0560,S0560,student,S0560,BSc
+U_S0561,S0561,S0561,student,S0561,BSc
+U_S0562,S0562,S0562,student,S0562,BSc
+U_S0563,S0563,S0563,student,S0563,BSc
+U_S0564,S0564,S0564,student,S0564,BSc
+U_S0565,S0565,S0565,student,S0565,BSc
+U_S0566,S0566,S0566,student,S0566,BSc
+U_S0567,S0567,S0567,student,S0567,BSc
+U_S0568,S0568,S0568,student,S0568,BSc
+U_S0569,S0569,S0569,student,S0569,BSc
+U_S0570,S0570,S0570,student,S0570,BSc
+U_S0571,S0571,S0571,student,S0571,BSc
+U_S0572,S0572,S0572,student,S0572,BSc
+U_S0573,S0573,S0573,student,S0573,BSc
+U_S0574,S0574,S0574,student,S0574,BSc
+U_S0575,S0575,S0575,student,S0575,BSc
+U_S0576,S0576,S0576,student,S0576,BSc
+U_S0577,S0577,S0577,student,S0577,BSc
+U_S0578,S0578,S0578,student,S0578,BSc
+U_S0579,S0579,S0579,student,S0579,BSc
+U_S0580,S0580,S0580,student,S0580,BSc
+U_S0581,S0581,S0581,student,S0581,BSc
+U_S0582,S0582,S0582,student,S0582,BSc
+U_S0583,S0583,S0583,student,S0583,BSc
+U_S0584,S0584,S0584,student,S0584,BSc
+U_S0585,S0585,S0585,student,S0585,BSc
+U_S0586,S0586,S0586,student,S0586,BSc
+U_S0587,S0587,S0587,student,S0587,BSc
+U_S0588,S0588,S0588,student,S0588,BSc
+U_S0589,S0589,S0589,student,S0589,BSc
+U_S0590,S0590,S0590,student,S0590,BSc
+U_S0591,S0591,S0591,student,S0591,BSc
+U_S0592,S0592,S0592,student,S0592,BSc
+U_S0593,S0593,S0593,student,S0593,BSc
+U_S0594,S0594,S0594,student,S0594,BSc
+U_S0595,S0595,S0595,student,S0595,BSc
+U_S0596,S0596,S0596,student,S0596,BSc
+U_S0597,S0597,S0597,student,S0597,BSc
+U_S0598,S0598,S0598,student,S0598,BSc
+U_S0599,S0599,S0599,student,S0599,BSc
+U_S0600,S0600,S0600,student,S0600,BSc
+U_S0601,S0601,S0601,student,S0601,BSc
+U_S0602,S0602,S0602,student,S0602,BSc
+U_S0603,S0603,S0603,student,S0603,BSc
+U_S0604,S0604,S0604,student,S0604,BSc
+U_S0605,S0605,S0605,student,S0605,BSc
+U_S0606,S0606,S0606,student,S0606,BSc
+U_S0607,S0607,S0607,student,S0607,BSc
+U_S0608,S0608,S0608,student,S0608,BSc
+U_S0609,S0609,S0609,student,S0609,BSc
+U_S0610,S0610,S0610,student,S0610,BSc
+U_S0611,S0611,S0611,student,S0611,BSc
+U_S0612,S0612,S0612,student,S0612,BSc
+U_S0613,S0613,S0613,student,S0613,BSc
+U_S0614,S0614,S0614,student,S0614,BSc
+U_S0615,S0615,S0615,student,S0615,BSc
+U_S0616,S0616,S0616,student,S0616,BSc
+U_S0617,S0617,S0617,student,S0617,BSc
+U_S0618,S0618,S0618,student,S0618,BSc
+U_S0619,S0619,S0619,student,S0619,BSc
+U_S0620,S0620,S0620,student,S0620,BSc
+U_S0621,S0621,S0621,student,S0621,BSc
+U_S0622,S0622,S0622,student,S0622,BSc
+U_S0623,S0623,S0623,student,S0623,BSc
+U_S0624,S0624,S0624,student,S0624,BSc
+U_S0625,S0625,S0625,student,S0625,BSc
+U_S0626,S0626,S0626,student,S0626,BSc
+U_S0627,S0627,S0627,student,S0627,BSc
+U_S0628,S0628,S0628,student,S0628,BSc
+U_S0629,S0629,S0629,student,S0629,BSc
+U_S0630,S0630,S0630,student,S0630,BSc
+U_S0631,S0631,S0631,student,S0631,BSc
+U_S0632,S0632,S0632,student,S0632,BSc
+U_S0633,S0633,S0633,student,S0633,BSc
+U_S0634,S0634,S0634,student,S0634,BSc
+U_S0635,S0635,S0635,student,S0635,BSc
+U_S0636,S0636,S0636,student,S0636,BSc
+U_S0637,S0637,S0637,student,S0637,BSc
+U_S0638,S0638,S0638,student,S0638,BSc
+U_S0639,S0639,S0639,student,S0639,BSc
+U_S0640,S0640,S0640,student,S0640,BSc
+U_S0641,S0641,S0641,student,S0641,BSc
+U_S0642,S0642,S0642,student,S0642,BSc
+U_S0643,S0643,S0643,student,S0643,BSc
+U_S0644,S0644,S0644,student,S0644,BSc
+U_S0645,S0645,S0645,student,S0645,BSc
+U_S0646,S0646,S0646,student,S0646,BSc
+U_S0647,S0647,S0647,student,S0647,BSc
+U_S0648,S0648,S0648,student,S0648,BSc
+U_S0649,S0649,S0649,student,S0649,BSc
+U_S0650,S0650,S0650,student,S0650,BSc
+U_S0651,S0651,S0651,student,S0651,BA
+U_S0652,S0652,S0652,student,S0652,BA
+U_S0653,S0653,S0653,student,S0653,BA
+U_S0654,S0654,S0654,student,S0654,BA
+U_S0655,S0655,S0655,student,S0655,BA
+U_S0656,S0656,S0656,student,S0656,BA
+U_S0657,S0657,S0657,student,S0657,BA
+U_S0658,S0658,S0658,student,S0658,BA
+U_S0659,S0659,S0659,student,S0659,BA
+U_S0660,S0660,S0660,student,S0660,BA
+U_S0661,S0661,S0661,student,S0661,BA
+U_S0662,S0662,S0662,student,S0662,BA
+U_S0663,S0663,S0663,student,S0663,BA
+U_S0664,S0664,S0664,student,S0664,BA
+U_S0665,S0665,S0665,student,S0665,BA
+U_S0666,S0666,S0666,student,S0666,BA
+U_S0667,S0667,S0667,student,S0667,BA
+U_S0668,S0668,S0668,student,S0668,BA
+U_S0669,S0669,S0669,student,S0669,BA
+U_S0670,S0670,S0670,student,S0670,BA
+U_S0671,S0671,S0671,student,S0671,BA
+U_S0672,S0672,S0672,student,S0672,BA
+U_S0673,S0673,S0673,student,S0673,BA
+U_S0674,S0674,S0674,student,S0674,BA
+U_S0675,S0675,S0675,student,S0675,BA
+U_S0676,S0676,S0676,student,S0676,BA
+U_S0677,S0677,S0677,student,S0677,BA
+U_S0678,S0678,S0678,student,S0678,BA
+U_S0679,S0679,S0679,student,S0679,BA
+U_S0680,S0680,S0680,student,S0680,BA
+U_S0681,S0681,S0681,student,S0681,BA
+U_S0682,S0682,S0682,student,S0682,BA
+U_S0683,S0683,S0683,student,S0683,BA
+U_S0684,S0684,S0684,student,S0684,BA
+U_S0685,S0685,S0685,student,S0685,BA
+U_S0686,S0686,S0686,student,S0686,BA
+U_S0687,S0687,S0687,student,S0687,BA
+U_S0688,S0688,S0688,student,S0688,BA
+U_S0689,S0689,S0689,student,S0689,BA
+U_S0690,S0690,S0690,student,S0690,BA
+U_S0691,S0691,S0691,student,S0691,BA
+U_S0692,S0692,S0692,student,S0692,BA
+U_S0693,S0693,S0693,student,S0693,BA
+U_S0694,S0694,S0694,student,S0694,BA
+U_S0695,S0695,S0695,student,S0695,BA
+U_S0696,S0696,S0696,student,S0696,BA
+U_S0697,S0697,S0697,student,S0697,BA
+U_S0698,S0698,S0698,student,S0698,BA
+U_S0699,S0699,S0699,student,S0699,BA
+U_S0700,S0700,S0700,student,S0700,BA
+U_S0701,S0701,S0701,student,S0701,BA
+U_S0702,S0702,S0702,student,S0702,BA
+U_S0703,S0703,S0703,student,S0703,BA
+U_S0704,S0704,S0704,student,S0704,BA
+U_S0705,S0705,S0705,student,S0705,BA
+U_S0706,S0706,S0706,student,S0706,BA
+U_S0707,S0707,S0707,student,S0707,BA
+U_S0708,S0708,S0708,student,S0708,BA
+U_S0709,S0709,S0709,student,S0709,BA
+U_S0710,S0710,S0710,student,S0710,BA
+U_S0711,S0711,S0711,student,S0711,BA
+U_S0712,S0712,S0712,student,S0712,BA
+U_S0713,S0713,S0713,student,S0713,BA
+U_S0714,S0714,S0714,student,S0714,BA
+U_S0715,S0715,S0715,student,S0715,BA
+U_S0716,S0716,S0716,student,S0716,BA
+U_S0717,S0717,S0717,student,S0717,BA
+U_S0718,S0718,S0718,student,S0718,BA
+U_S0719,S0719,S0719,student,S0719,BA
+U_S0720,S0720,S0720,student,S0720,BA
+U_S0721,S0721,S0721,student,S0721,BA
+U_S0722,S0722,S0722,student,S0722,BA
+U_S0723,S0723,S0723,student,S0723,BA
+U_S0724,S0724,S0724,student,S0724,BA
+U_S0725,S0725,S0725,student,S0725,BA
+U_S0726,S0726,S0726,student,S0726,BA
+U_S0727,S0727,S0727,student,S0727,BA
+U_S0728,S0728,S0728,student,S0728,BA
+U_S0729,S0729,S0729,student,S0729,BA
+U_S0730,S0730,S0730,student,S0730,BA
+U_S0731,S0731,S0731,student,S0731,BA
+U_S0732,S0732,S0732,student,S0732,BA
+U_S0733,S0733,S0733,student,S0733,BA
+U_S0734,S0734,S0734,student,S0734,BA
+U_S0735,S0735,S0735,student,S0735,BA
+U_S0736,S0736,S0736,student,S0736,BA
+U_S0737,S0737,S0737,student,S0737,BA
+U_S0738,S0738,S0738,student,S0738,BA
+U_S0739,S0739,S0739,student,S0739,BA
+U_S0740,S0740,S0740,student,S0740,BA
+U_S0741,S0741,S0741,student,S0741,BA
+U_S0742,S0742,S0742,student,S0742,BA
+U_S0743,S0743,S0743,student,S0743,BA
+U_S0744,S0744,S0744,student,S0744,BA
+U_S0745,S0745,S0745,student,S0745,BA
+U_S0746,S0746,S0746,student,S0746,BA
+U_S0747,S0747,S0747,student,S0747,BA
+U_S0748,S0748,S0748,student,S0748,BA
+U_S0749,S0749,S0749,student,S0749,BA
+U_S0750,S0750,S0750,student,S0750,BA
+U_S0751,S0751,S0751,student,S0751,BA
+U_S0752,S0752,S0752,student,S0752,BA
+U_S0753,S0753,S0753,student,S0753,BA
+U_S0754,S0754,S0754,student,S0754,BA
+U_S0755,S0755,S0755,student,S0755,BA
+U_S0756,S0756,S0756,student,S0756,BA
+U_S0757,S0757,S0757,student,S0757,BA
+U_S0758,S0758,S0758,student,S0758,BA
+U_S0759,S0759,S0759,student,S0759,BA
+U_S0760,S0760,S0760,student,S0760,BA
+U_S0761,S0761,S0761,student,S0761,BA
+U_S0762,S0762,S0762,student,S0762,BA
+U_S0763,S0763,S0763,student,S0763,BA
+U_S0764,S0764,S0764,student,S0764,BA
+U_S0765,S0765,S0765,student,S0765,BA
+U_S0766,S0766,S0766,student,S0766,BA
+U_S0767,S0767,S0767,student,S0767,BA
+U_S0768,S0768,S0768,student,S0768,BA
+U_S0769,S0769,S0769,student,S0769,BA
+U_S0770,S0770,S0770,student,S0770,BA
+U_S0771,S0771,S0771,student,S0771,BA
+U_S0772,S0772,S0772,student,S0772,BA
+U_S0773,S0773,S0773,student,S0773,BA
+U_S0774,S0774,S0774,student,S0774,BA
+U_S0775,S0775,S0775,student,S0775,BA
+U_S0776,S0776,S0776,student,S0776,BA
+U_S0777,S0777,S0777,student,S0777,BA
+U_S0778,S0778,S0778,student,S0778,BA
+U_S0779,S0779,S0779,student,S0779,BA
+U_S0780,S0780,S0780,student,S0780,BA
+U_S0781,S0781,S0781,student,S0781,BA
+U_S0782,S0782,S0782,student,S0782,BA
+U_S0783,S0783,S0783,student,S0783,BA
+U_S0784,S0784,S0784,student,S0784,BA
+U_S0785,S0785,S0785,student,S0785,BA
+U_S0786,S0786,S0786,student,S0786,BA
+U_S0787,S0787,S0787,student,S0787,BA
+U_S0788,S0788,S0788,student,S0788,BA
+U_S0789,S0789,S0789,student,S0789,BA
+U_S0790,S0790,S0790,student,S0790,BA
+U_S0791,S0791,S0791,student,S0791,BA
+U_S0792,S0792,S0792,student,S0792,BA
+U_S0793,S0793,S0793,student,S0793,BA
+U_S0794,S0794,S0794,student,S0794,BA
+U_S0795,S0795,S0795,student,S0795,BA
+U_S0796,S0796,S0796,student,S0796,BA
+U_S0797,S0797,S0797,student,S0797,BA
+U_S0798,S0798,S0798,student,S0798,BA
+U_S0799,S0799,S0799,student,S0799,BA
+U_S0800,S0800,S0800,student,S0800,BA
+U_S0801,S0801,S0801,student,S0801,BA
+U_S0802,S0802,S0802,student,S0802,BA
+U_S0803,S0803,S0803,student,S0803,BA
+U_S0804,S0804,S0804,student,S0804,BA
+U_S0805,S0805,S0805,student,S0805,BA
+U_S0806,S0806,S0806,student,S0806,BA
+U_S0807,S0807,S0807,student,S0807,BA
+U_S0808,S0808,S0808,student,S0808,BA
+U_S0809,S0809,S0809,student,S0809,BA
+U_S0810,S0810,S0810,student,S0810,BA
+U_S0811,S0811,S0811,student,S0811,BA
+U_S0812,S0812,S0812,student,S0812,BA
+U_S0813,S0813,S0813,student,S0813,BA
+U_S0814,S0814,S0814,student,S0814,BA
+U_S0815,S0815,S0815,student,S0815,BA
+U_S0816,S0816,S0816,student,S0816,BA
+U_S0817,S0817,S0817,student,S0817,BA
+U_S0818,S0818,S0818,student,S0818,BA
+U_S0819,S0819,S0819,student,S0819,BA
+U_S0820,S0820,S0820,student,S0820,BA
+U_S0821,S0821,S0821,student,S0821,BA
+U_S0822,S0822,S0822,student,S0822,BA
+U_S0823,S0823,S0823,student,S0823,BA
+U_S0824,S0824,S0824,student,S0824,BA
+U_S0825,S0825,S0825,student,S0825,BA
+U_S0826,S0826,S0826,student,S0826,BA
+U_S0827,S0827,S0827,student,S0827,BA
+U_S0828,S0828,S0828,student,S0828,BA
+U_S0829,S0829,S0829,student,S0829,BA
+U_S0830,S0830,S0830,student,S0830,BA
+U_S0831,S0831,S0831,student,S0831,BA
+U_S0832,S0832,S0832,student,S0832,BA
+U_S0833,S0833,S0833,student,S0833,BA
+U_S0834,S0834,S0834,student,S0834,BA
+U_S0835,S0835,S0835,student,S0835,BA
+U_S0836,S0836,S0836,student,S0836,BA
+U_S0837,S0837,S0837,student,S0837,BA
+U_S0838,S0838,S0838,student,S0838,BA
+U_S0839,S0839,S0839,student,S0839,BA
+U_S0840,S0840,S0840,student,S0840,BA
+U_S0841,S0841,S0841,student,S0841,BA
+U_S0842,S0842,S0842,student,S0842,BA
+U_S0843,S0843,S0843,student,S0843,BA
+U_S0844,S0844,S0844,student,S0844,BA
+U_S0845,S0845,S0845,student,S0845,BA
+U_S0846,S0846,S0846,student,S0846,BA
+U_S0847,S0847,S0847,student,S0847,BA
+U_S0848,S0848,S0848,student,S0848,BA
+U_S0849,S0849,S0849,student,S0849,BA
+U_S0850,S0850,S0850,student,S0850,BA
+FAC_CE,cefac,123,faculty,,Civil Engineering
+FAC_CSE,csefac,123,faculty,,Computer Engineering
+FAC_EE,eefac,123,faculty,,Electrical Engineering
+FAC_BSC,bscfac,123,faculty,,BSc
+FAC_BA,bafac,123,faculty,,BA
+FAC_BBA,bbafac,123,faculty,,BBA
