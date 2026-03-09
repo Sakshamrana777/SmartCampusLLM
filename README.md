@@ -1,4 +1,4 @@
-# SmartCampus LLM 🎓
+# SmartCampus LLM
 
 **SmartCampus LLM** is an AI-powered university assistant that allows **students, faculty, and administrators** to access academic data using natural language queries.  
 The system converts user questions into **secure SQL queries** and retrieves insights from a PostgreSQL database.
@@ -39,23 +39,5 @@ Readable Results
 
 ---
 
-## Tech Stack
-
-**Backend**
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-
-**Frontend**
-- React
-- TailwindCSS
-- Vite
-
-**AI Layer**
-- LLM-based SQL generation
-- Prompt engineering
-- Role-based access control
-
----
 
 ## Project Structure
