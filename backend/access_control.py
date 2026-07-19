@@ -1,4 +1,4 @@
-def apply_rbac(sql: str, role: str, user_id: str | None):
+def apply_rbac(sql: str, role: str, user_id: str | None, department: str | None = None):
     sql = sql.strip().rstrip(";")
     lower = sql.lower()
 
@@ -8,21 +8,22 @@ def apply_rbac(sql: str, role: str, user_id: str | None):
 
     # 2. STUDENT → must restrict to own data
     if role == "student" and user_id:
-
-        # If LLM already correctly used alias s.student_id
         if f"s.student_id = '{user_id.lower()}'" in lower or f"s.student_id = '{user_id}'" in lower:
-            return sql   # do NOT modify
-
-        # If WHERE exists but alias unknown → add alias-safe filter
+            return sql   # LLM already scoped it correctly
         if "where" in lower:
             return sql + f" AND s.student_id = '{user_id}'"
-
-        # If no WHERE → create one safely
         return sql + f" WHERE s.student_id = '{user_id}'"
 
-    # 3. FACULTY → NO extra enforcement in RBAC
-    if role == "faculty":
-        return sql
+    # 3. FACULTY → must restrict to own department.
+    #    Previously this was "return sql" with no enforcement at all —
+    #    department scoping relied entirely on the LLM following the
+    #    prompt instructions, with nothing checked on the backend.
+    if role == "faculty" and department:
+        if f"s.department = '{department.lower()}'" in lower or f"s.department = '{department}'" in lower:
+            return sql   # LLM already scoped it correctly
+        if "where" in lower:
+            return sql + f" AND s.department = '{department}'"
+        return sql + f" WHERE s.department = '{department}'"
 
     # 4. ADMIN → full access
     if role == "admin":

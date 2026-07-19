@@ -150,7 +150,7 @@ def ask(req: AskRequest):
         if not is_safe_sql(sql):
             response = "Unsafe SQL blocked."
         else:
-            sql = apply_rbac(sql, req.role, req.user_id)
+            sql = apply_rbac(sql, req.role, req.user_id, req.department)
             rows, cols = execute_sql(sql)
             response = {
                 "sql": sql,
@@ -174,8 +174,12 @@ def ask(req: AskRequest):
 # --------------------------------------------------------
 @app.get("/student/{student_id}/gpa")
 def student_gpa(student_id: str):
+    # Previously an f-string built the SQL directly from the path param —
+    # a classic SQL injection surface, even though the /ask flow elsewhere
+    # in this file uses parameterized queries. Now consistent everywhere.
     rows, _ = execute_sql(
-        f"SELECT ROUND(AVG(gpa),2) FROM student_performance WHERE student_id='{student_id}'"
+        "SELECT ROUND(AVG(gpa),2) FROM student_performance WHERE student_id = :sid",
+        {"sid": student_id}
     )
     return {"overall_gpa": rows[0][0]}
 
@@ -183,7 +187,8 @@ def student_gpa(student_id: str):
 @app.get("/student/{student_id}/subjects")
 def student_subjects(student_id: str):
     rows, _ = execute_sql(
-        f"SELECT DISTINCT subject_name FROM student_performance WHERE student_id='{student_id}'"
+        "SELECT DISTINCT subject_name FROM student_performance WHERE student_id = :sid",
+        {"sid": student_id}
     )
     return {"subjects": [r[0] for r in rows]}
 

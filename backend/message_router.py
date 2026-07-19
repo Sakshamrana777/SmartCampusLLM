@@ -1,16 +1,26 @@
+import re
+
+
+def _contains_word(msg: str, phrases: list[str]) -> bool:
+    """
+    Word-boundary match instead of plain substring match.
+    Plain `"hi" in msg` was matching inside unrelated words like
+    "history" or "this", misrouting real questions as greetings.
+    """
+    return any(re.search(rf"\b{re.escape(p)}\b", msg) for p in phrases)
+
+
 def classify_message(message: str) -> str:
     msg = message.lower().strip()
 
     # 1) GREETINGS
-    if any(greet in msg for greet in [
-        "hi", "hello", "hey", "good morning", "good evening"
-    ]):
+    greetings = ["hi", "hello", "hey", "good morning", "good evening"]
+    if _contains_word(msg, greetings):
         return "greeting"
 
     # 2) FAQ KEYWORDS
-    if any(faq in msg for faq in [
-        "policy", "rules", "exam", "attendance policy", "grading", "faq"
-    ]):
+    faq_words = ["policy", "rules", "exam", "attendance policy", "grading", "faq"]
+    if _contains_word(msg, faq_words):
         return "faq"
 
     # ---------------------------
@@ -32,7 +42,8 @@ def classify_message(message: str) -> str:
         "department stats",
     ]
 
-    # Match MULTI-WORD PHRASES FIRST
+    # These are multi-word phrases already, so plain substring matching
+    # is safe here (low false-positive risk vs single short words above).
     if any(phrase in msg for phrase in faculty_phrases):
         return "sql"
 
@@ -46,10 +57,10 @@ def classify_message(message: str) -> str:
         "subject", "subjects",
         "show", "find", "list", "get",
         "department", "dept",
-        "students", "faculty", "teacher","faculty performance"
+        "students", "faculty", "teacher", "faculty performance",
     ]
 
-    if any(word in msg for word in sql_keywords):
+    if _contains_word(msg, sql_keywords):
         return "sql"
 
     # ---------------------------
